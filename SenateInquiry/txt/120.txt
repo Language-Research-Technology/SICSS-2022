@@ -1,0 +1,2890 @@
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Inquiry into the indicators
+of, and impact of, regional
+inequality in Australia
+Department of Industry, Innovation and Science Submission
+
+June 2018
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Introduction
+The Department of Industry, Innovation and Science (the Department)
+welcomes the opportunity to provide a submission to the Senate Economics
+References Committee for the Inquiry into the indicators of, and impact of,
+regional inequality in Australia.
+The Department notes the Committee has the following Terms of Reference
+(TOR):
+a) Fiscal policies at federal, state and local government levels
+b) Improved co-ordination of federal, state and local government policies
+c) Regional development policies
+d) Infrastructure
+e) Education
+f)
+
+Building human capital
+
+g) Enhancing local workforce skills
+h) Employment arrangements
+i)
+
+Decentralisation policies
+
+j)
+
+Innovation
+
+k) Manufacturing
+l)
+
+Any other related matters.
+
+And in particular would like submissions answering the following specific
+questions on:
+1) Experiences of individuals and localities of unequal access to
+opportunities and unequal outcomes in non-metropolitan areas
+2) Views on the causes of inequality between regions, especially between
+capital cities and other areas
+3) Analysis of the economics of regional inequality, including wider
+impacts
+4) Examples of solutions: what has caused some regions or towns to
+prosper?
+5) Policy settings which could help address inequality between regions.
+In this submission we begin by addressing regional development and transition
+policies (ToRa, ToRb, ToRk, ToRj). We then answer some questions about the
+differences in
+economic
+activity
+between regions and
+what
+characteristics/attributes are driving changes in economic activity and these
+regional differences (ToRl and specific questions 2, 3). As part of this
+discussion, the role of skills in driving economic activity is covered (ToR e–g).
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+1
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+We then consider regional vulnerability and the role of a region’s industry
+structure in making it more or less vulnerable (ToRl, ToRa, ToRb, ToRk and
+specific question 4). Finally, the role of innovation within regions is discussed
+in relation to the performance of regions (ToRl, ToRj and specific questions 2,
+3 and 4).
+
+Regional assistance and development
+policies
+(Addresses Terms of Reference a, b, j and k)
+The Department of Industry, Innovation and Science facilitates the growth and
+productivity of globally competitive industries. It also supports the building of a
+strong scientific capability, business innovation, and the commercialisation of
+new ideas as critical requirements for productivity and economic growth. The
+Department is part of the Jobs and Innovation Portfolio and its role is to drive
+growth and job creation for a more prosperous Australia by facilitating
+economic transformation and boosting business competitiveness.
+The Department of Industry, Innovation and Science (the Department) has a
+broad regional presence through its networks and agencies. The Department
+has 35 per cent of staff located outside Canberra in 31 locations around
+Australia.
+The Department’s policies and programs aim to assist businesses, including
+regional businesses, to build their capability, innovate and grow. The programs
+the Department administers vary in how they support Australian businesses.
+Some programs seek to assist communities affected by losing an important
+local employer through supporting businesses to invest and diversify into
+identified potential opportunities for growth such as new products and new
+markets. The Growth Fund, Automotive Transformation Scheme (ATS), and
+the Advanced Manufacturing Fund provide such assistance.
+The Growth Fund is a $155 million package of industry support measures.
+The Fund is a sector specific measure to support employees and businesses
+in regions such as Northern Adelaide, South East Melbourne, and South
+Western Victoria that have been most affected by Australia’s car manufacturing
+closure. The fund assists employees transition to new jobs, helps automotive
+supply chain firms diversify into new products, industries, and markets, and will
+accelerate business investment in manufacturing.
+The Automotive Transformation Scheme provides businesses involved in
+Australia’s automotive industry with grants to cover some of the cost of
+investing in plant and equipment, or in research and development. The ATS
+seeks to encourage investment, innovation and economic sustainability in the
+Australian automotive industry. Stage 2 (2016 to 2020) is capped at $1billion.
+The Advanced Manufacturing Fund is a $100 million package that seeks to
+improve innovation, skills, and employment in Australia’s advanced
+manufacturing sector. The fund comprises six elements to achieve this
+outcome with the largest being the $47.5 million Advanced Manufacturing
+Growth Fund. The Advanced Manufacturing Growth Fund is available to
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+2
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+businesses affected by the wind down of the local car manufacturing industry
+in South Australia and Victoria.
+Box 1: Example 1
+Carbon Revolution Pty Ltd was awarded a Geelong Region Innovation and
+Investment Fund grant of $5 million to support the establishment of a commercial
+scale manufacturing facility to produce up to 50,000 carbon fibre wheels annually
+for supply to the global automotive industry. Carbon Revolution is the first company
+in the world to commercialise a single piece carbon fibre wheel. Current customers
+include Ford (United States), along with many performance, racing and aftermarket
+vehicle companies.
+
+Other programs administered by the department seek to build industry
+capability so Australian businesses can succeed in new or changing markets.
+The Industry Growth Centres, the Entrepreneurs’ Program, the Cooperative
+Research Centre (CRC), and Centre for Defence Industry Capability (CDIC)
+initiatives are some of the larger Commonwealth programs that seek to assist
+individual businesses or industry sectors develop capabilities, boost skills and
+productivity, and improve their competitiveness so they can succeed in
+international markets. These programs are not restricted by geographic
+location.
+The Industry Growth Centre Initiative is a $232 million program that supports
+six industry sectors improve their innovation, productivity and competitiveness
+by:
+
+
+improving management capabilities and workforce skills within each growth
+sector
+
+
+
+increasing collaboration between industry and researchers so new ideas
+are commercialised
+
+
+
+accessing international markets and global supply chains
+
+
+
+optimising regulations that affect each growth sector.
+
+While not region exclusive, the Mining Equipment, Technology and Services
+Growth Centre, the Oil, Gas and Energy Resources Growth Centre, and the
+Food and Agribusiness Growth Centre are three Growth Centres that will
+benefit regional business and communities as each sector has a large regional
+footprint.
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+3
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Box 2: Example 2
+The Food and Agribusiness Growth Centre, Food Innovation Australia Limited
+(FIAL)’s Fast n Furious Innovation short course and post workshop mentoring
+assisted Fresh Fodder Pty Ltd’s owners to make changes to their business
+strategy. The business advice assisted Fresh Fodder to innovate their core range of
+products. They did this by focusing on branding, distribution channels and shelf
+visibility as part of their business strategy. Within a year, Fresh Fodder had
+increased revenue for their range of products by 17 per cent.
+
+The Entrepreneurs’ Programme is a Commonwealth initiative that seeks to
+improve firm level competitiveness and productivity. The Entrepreneurs’
+Program provides businesses with a range of services including: advice, grants
+to commercialise ideas, funding to take advantage of growth opportunities, and
+connection and collaboration opportunities. To provide better support for
+regionally based start-ups, the incubator support element of the Entrepreneurs’
+Program has been expanded. The expansion includes additional support
+services such as introducing Regional Incubator Facilitators to assist regional
+applicants engage with the program, and more generous funding ratios for
+regional projects.
+Box 3: Example 3
+The Entrepreneurs’ Programme Supply Chain Facilitation supported Skara
+Smallgoods Pty Ltd to develop a new marketing strategy, develop a plan for new
+products, and build productivity within the company through targeted staff training
+and development.
+Since engaging with the Entrepreneurs’ Programme the Skara Smallgoods has
+increased sales by 30 per cent and wholesale sales (mainly into supermarkets) by
+94 per cent. The business recently won awards at the 2017 South Australian Food
+Industry Awards.
+
+The Cooperative Research Centres (CRC) Program is a competitive meritbased grant program that supports industry led collaborations between
+industry, researchers and the community. The CRC Program has two funding
+streams:
+
+
+CRCs, which undertake medium to long term industry led collaborative
+research; and
+
+
+
+CRC Projects (CRC-Ps) which undertake a short term industry identified
+and industry led collaborative research project.
+
+CRCs and CRC-Ps contribute to strengthening rural and regional development
+in areas such as our agriculture and mining industries, farming systems, and in
+improving health outcomes for Indigenous Australians. Regional businesses
+(including small and medium-sized enterprises), Rural Research and
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+4
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Development Corporations, universities and other research organisations can
+be part of CRCs, CRC-Ps, and their activities.
+The CRC for developing Northern Australia is one example of how the
+Department’s programs are assisting regional communities. It is a $75 million
+initiative that is focused on agriculture, food and tropical health. It aims to assist
+businesses, researchers, and governments to work more collaboratively to
+identify opportunities for business and growth in Northern Australia.
+Box 4: Example 4
+A two-year Smart Supply Chains project funded by the Cooperative Research
+Centre (CRC) for Developing Northern Australia will help Australian mango farmers
+increase profits, exports, investment and jobs. Northern Australian mango farmers
+are trialing a new Smart Supply Chains system to improve the quality control of
+mangos throughout the supply chain, help producers overcome logistical
+challenges and speed up the harvest-to-retail cycle so consumers get fresher
+produce.
+
+The Centre for Defence Industry Capability (CDIC) is a $230 million package
+intended to fund defence industry development, skilling and export initiatives.
+The CDIC uses a network of advisors which extend to regional areas. The
+CDIC seeks to:
+
+
+support new and established defence companies
+
+
+
+involve region based activities in trade shows, related industry events and
+communication strategies
+
+
+
+connect businesses with opportunities in other sectors, markets and
+international opportunities, and exchange information with region based
+defence industry development agencies on current and emerging industrial
+capabilities to aid developing and delivering support programs.
+
+The Department also manages a number of large government projects and
+programs that are regionally based or exclusively aimed at regionally based
+businesses or communities. These initiatives provide benefit by way of
+infrastructure investments, attracting business investment and creating jobs in
+specific regional project locations. The Tasmanian Jobs and Investment
+Fund and the Northern Australia Infrastructure Facility are two region
+exclusive programs designed to stimulate business growth and jobs.
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+5
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Box 5: Example 5
+In February 2016 CostaExchange Pty Ltd received a grant of $1.4 million matched
+by the company’s own contribution of $5.7 million to construct a new modified
+atmosphere facility and a new building at its Tasmanian Distribution Centre in
+Devonport in north west Tasmania. This has allowed the company to double its
+previous capacity to store berries for up to six weeks at a time and allows the
+season to be extended and for products to be sold into markets at a time when
+there were traditionally only imports available. The increased capacity will also
+allow CostaExchange Pty Ltd to increase berry plantings on its Tasmanian farms.
+The Company’s project was completed in September 2017 and has resulted in the
+engagement of 90 new, full time equivalent employees (FTE’s), all of whom are
+permanent employees spread across the company’s Tasmanian farms and the
+Distribution Centre. These roles include farm management and maintenance
+positions, supervisory roles, horticulturalists and irrigation specialists.
+CostaExchange Pty Ltd has indicated that it is on track to increase this to 130 new
+FTE positions by September 2018.
+
+Other Commonwealth projects and programs that benefit regional communities
+and businesses include the National Radioactive Waste Management
+Facility, the Rum Jungle Rehabilitation Project, the Square Kilometre
+Array Project, the Onshore Gas Social and Economic Research Fund, and
+National Resources Development Strategy, the Northern Australian
+Tourism Initiative, the Major Projects Facilitation Agency, and the National
+Carp Control Plan.
+The department also assists regional businesses and communities develop
+future workplace skills and knowledge for tomorrow’s industries. This is
+provided via a number of programs that seek to build Science, Technology,
+Engineering and Maths capabilities throughout the nation. These programs
+are not region exclusive and are available to regional and urban communities
+and businesses. Measures include Questacon’s Smart Skills Initiative, Virtual
+Excursions, Travelling exhibitions, Teacher development programs, and the
+Shell Questacon Science Circus.
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+6
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Regional differences in economic activity
+(Addresses Terms of Reference l and specific questions 2, 3)
+There are many economic and demographic indicators that are used to analyse
+a region’s economic performance and growth (e.g. employment, population
+growth, investment). The Department uses these but has also developed two
+additional indicators—Gross Regional Product and a time series of taxable
+incomes. One is a production measure the other is an income measure.
+Box 6: What we mean by ‘Gross Regional Product’ and ‘Taxable Income’
+Gross Regional Product is a measure of the size of a region’s economy or the total
+of all value added created in an economy. It is measured as the total value of goods
+and services produced in a region within a specific time period less the cost of
+goods and services used up in the process of production but before deducting
+allowances for the consumption of fixed capital.
+On the other hand, “taxable income” is the income an individual needs to pay tax
+on. It is the gross income of an individual less any allowable tax deductions (i.e. the
+amount of income that is subject to income tax). Taxable incomes for individuals
+living in a region are then added together to provide a regional estimate.
+
+Gross Regional Product and taxable income are discussed further below.
+
+Gross Regional Product
+The first measure developed by the Department is Gross Regional Product
+(GRP). The Department has estimated GRP in the financial years of 2001,
+2006, 2011 and 2016. This data allows analysis of how the spatial distribution
+of the Australian economy has been changing over time, as well as factors that
+are driving these changes. Results from this analysis are briefly summarised
+below, with full results at Attachment A. GRP is also calculated by a number
+of private firms, whose findings are in broad agreement with the Department’s.
+GRP has been concentrating steadily in the centre parts of the larger capital
+cities since at least the turn of the century. CBDs of capital cities now contribute
+a quarter of national economic activity, despite accounting for less than 0.05
+per cent of Australia’s land mass. When this is extended to include capital cities
+in their entirety, two thirds of economic activity can be accounted for.
+Figure 1 shows that since 2000-01, capital cities have grown by an average of
+3.2 per cent per year while non-capital city regions have grown at 2.5 per cent.
+In cumulative terms, two thirds of economic growth has been in capital cities.
+However, the story is more complex than a capital city/regional area divide.
+Some of the fastest growing regions in Australia are outside the capital cities.
+The average growth of mining regions since the turn of the century, for
+example, has been at 5.9 per cent per year. On the other hand, some of the
+slowest growing regions are in the outer northern suburbs in Sydney and outer
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+7
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+eastern parts of Melbourne. These regions have less GRP now than they did
+at the turn of the century.
+Figure 1: GRP growth rates by region type
+16
+
+12
+
+Per cent
+
+8
+
+4
+
+0
+
+2010–11 to 2015–16
+
+Non-Mining regional
+
+2005–06 to 2010–11
+
+Capital cities
+
+2000–01 to 2005–06
+
+-8
+
+2000–01 to 2015–16
+
+-4
+
+Mining regions
+
+Australia
+
+Notes: GRP estimates based on Queensland Treasury and Trade methodology. National figures
+based on chain volume measure. GRP figures based on 2015–16 prices.
+Source: Department of Industry, Innovation and Science estimates; ABS, Australian National
+Accounts: State Accounts, 2015–16, cat. no. 5220.0, Table 1.
+
+Taxable Income
+The second measure developed by the Department relates to taxable income.
+This indicator measures incomes accruing to taxpayers from any source, e.g.
+wages and salaries, business income, dividends, government pensions and
+allowances. Real Income Per Taxpayer (RIPT) is calculated by dividing a
+region’s total taxable income by the number of taxpayers.1 It is not the average
+income for a region but an indicator of the average income of economically
+active individuals within a region. Taxable income data has the advantage over
+GRP of a longer time period and better geographic precision.
+RIPT can be used to measure the variability of taxable income between
+regions. There are a number of ways of doing this and the coefficient of
+variation is used here. This measure shows the extent of the variation of
+regional RIPT from the mean (or national average) each year. Since RIPT is
+an average regional measure (i.e. not an individual measure), the coefficient of
+1
+
+See also Bureau of Infrastructure, Transport and Regional Economics, 2004, Information Paper 54,
+Focus on Regions 3: Taxable Income, https://bitre.gov.au/publications/2005/files/ip_054.pdf
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+8
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+variation cannot be used to show the variation in incomes of individuals within
+or across regions. Rather it is an average regional variation measure.
+Figure 2 shows that the relative variation of average incomes from the mean
+has been steadily increasing over time, indicating an increasing number of
+regions that are above or below the national average. However, during
+economic downturns such as the 1989-90 recession and the Asian Financial
+Crisis/Dot Com Crash in 2000, the variation between regions did reduce. This
+is because regions with higher incomes tend to be more sensitive to changes
+in national GDP than regions with lower incomes and fall back towards the
+mean in a downturn.2 Medium and lower income regions tend more to be
+counter cyclical. The increase in regional variability does not appear to have
+occurred during the Global Financial Crisis in 2007–2009.
+Figure 2: Relative variation in average RIPT of Australia’s regions
+
+Coefficient of variation (per cent)
+
+30
+25
+20
+15
+10
+5
+0
+
+Notes: The coefficient of variation is a measure of relative variability (it shows the extent of
+variability in relation to the mean). It is calculated as the ratio of the standard deviation to the mean.
+RIPT is a before tax measure and income distribution after tax would be less than shown in Figure
+2.
+Source: Department of Industry, Innovation and Science unpublished time series customised from
+BITRE and ATO.
+
+Figure 3 shows changes in the distribution of RIPT between 1980–81 and
+2015–16. RIPT has increased for all regions in Australia since 1990–91.3
+Regions with the lowest average incomes grew particularly strongly during the
+2000–01 and 2010–11 time period. The shape of the distribution has also
+changed significantly over time; peaks are flattening and the right hand side tail
+is widening. This indicates that regions with higher RIPT have been growing
+2
+
+Ibid.
+
+3
+
+The whole income distribution shifted to the left between 1980–81 and 1990–91 as a result of the
+1990s recession. However, the right hand side of the distribution steepens indicating that higher
+income regions were most affected. There is also a kick out on the left hand side due to the
+increasing unemployment in low income regions
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+9
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+faster over time than regions with lower average incomes. These higher
+average income regions are predominantly located in the larger capital cities.
+One exception is the Pilbara mining region in Western Australia which has had
+consistently high average incomes.
+Figure 3: Regional distribution of average incomes (i.e. real income per taxpayer)
+
+Number of Regions
+
+60
+50
+40
+30
+20
+10
+0
+
+Average real annual income ($000)
+1980-81
+
+1990-91
+
+2000-01
+
+2010-11
+
+2015-16
+
+Notes: Figures are in 2016–17 constant dollars. The Australian Statistical Geography Standard has
+been used to concord regions to Statistical Area level 4s.
+Source: Department of Industry, Innovation and Science unpublished time series customised from
+BITRE and ATO.
+
+The RIPT data also confirms the GRP story that there is no simple city/country
+divide in income growth. Some of the regions with the lowest average incomes
+are in greater capital city areas (e.g. Adelaide – North in South Australia and
+Logan – Beaudesert in Queensland) and there are many non-capital city
+regions with relatively high average incomes (e.g. Western Australia – Outback
+North and Central Queensland).
+In summary, both GRP and RIPT show that economic value in Australia is
+concentrating in the centre of capital cities. However, the story is more complex
+than simple urban/non-urban averages would suggest.
+
+What is driving economic activity to capital
+cities?
+(Addresses Terms of Reference l, e–g and specific questions 2, 3)
+Attachment A explores some of the forces shaping the regional geography in
+Australia. It is briefly summarised below.
+
+Knowledge-intensive industries
+Part of this shift of economic activity to Australia’s cities has been occurring
+due to the overarching structural shift in the economy away from goods
+producing industries to services industries. As consumers’ incomes increase,
+services make up a larger proportion of their demand. Larger cities have an
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+10
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+intrinsic advantage in service supply because they provide economies of
+agglomeration that makes service provision more cost effective than smaller
+centres.4 A large urban law firm, for example, can offer a larger range of
+services than a firm in a smaller town because of potential access to a larger
+number of clients.
+In particular, it is the knowledge-intensive service industries that are key drivers
+of productivity and economic growth in Australia’s capital cities. Embedded
+services are becoming a larger proportion of the physical transformation of
+goods. The mining industry for example now has knowledge–based services
+embedded in its entire value chain. Falling communication costs have allowed
+the ‘thinking’ and the ‘doing’ part of the production process to become
+physically separated. To continue the mining example, the physical extraction
+of ore can happen thousands of kilometres from the marketing, finance and
+logistic services.
+Production in areas outside capital cities typically involves population-serving
+industries such as health care, education and public administration (there are
+of course exceptions such as regions that specialise in activities of competitive
+advantage).5 These population-serving industries tend to produce relatively
+lower levels of economic activity than knowledge-intensive services industries.
+This is because these are non-market sectors and goods and services are often
+provided “free of charge or heavily subsidised due to significant government
+involvement”.6 The lack of a market price in these sectors mean that estimates
+are based on the total cost of inputs and not an observable market output
+price.7
+
+Trade
+Trade provides new market opportunities for domestic firms, stronger
+productivity and innovation through competition.8 Openness to trade can partly
+explain why economic activity concentrates in some areas and not in others.
+Australia is currently experiencing Globalisation Mark 29 and international
+two-way trade in goods and services is around 40 per cent of the economy.
+4
+
+Kelly JF and Donegan P 2014, Mapping Australia’s economy: Cities as engines of prosperity,
+Grattan Institute, p. 10.
+
+5
+
+ibid
+
+6
+
+Productivity Commission, Non-market Sector Productivity, Shifting the Dial: 5 year Productivity
+Review, Supporting Paper No. 2, https://www.pc.gov.au/inquiries/completed/productivityreview/report/productivity-review-supporting2.pdf.
+
+7
+
+ibid
+
+8
+
+Jackson S 2015, Growth and development: Why openness to trade is necessary but not sufficient,
+Brookings
+
+Institution,
+
+23
+
+November
+
+2015,
+
+www.brookings.edu/blog/future-
+
+development/2015/11/23/growthand-development-why-openness-to-trade-is-necessary-butnot-sufficient/, accessed 16 May 2018
+9
+
+Globalisation Mark 2 refers to the recovery of world trade in the latter part of the 20th Century to
+levels not seen since the start of the First World War (Globalisation Mark 1)
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+11
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Major nodes in the network such as the larger capital cities supply the services
+required for this trade such as finance, logistics, customs, insurance etc. Areas
+towards the periphery of the network such as rural area of regional centres do
+not have the scale to add significant value.10
+
+Talent and skills
+Capital cities and major regional centres are also attracting talent and skills.
+The working age cohort is migrating to areas around CBDs or to major regional
+centres along the east coast. In cities, job-search costs are lower, matches are
+better and wages typically higher as a result of the greater productivity of firms
+from the spill overs associated with concentration.11 Immigrants also favour
+cities due to greater job opportunities and existing cultural networks. 12
+Economic concentration helps to deepen labour markets and provides greater
+education opportunities — which in turn results in greater migration to these
+areas. As with the previous measures, the story is more complex than a
+city/country story. This is also discussed in detail in Attachment A.
+
+Transaction costs
+Transaction costs can have a major impact on the value flow through regions.
+Freight costs in Australia have not fallen for 25 years on any mode.13 At the
+same time, communication costs have fallen steeply. Regions where freight
+costs are a significant part of firms’ production costs, such as many non-metro
+regions, are more affected by high transport costs than regions where freight
+is a smaller proportion of their firms’ cost base, typically urban regions. On the
+other hand, falling communication costs benefit knowledge intensive city based
+service industries more because it is a bigger part of their cost base.
+
+Structural change and regional vulnerability
+(Addresses Terms of Reference l, k, a and b and specific question 4)
+The Department’s 2016 Australian Industry Report explored the impact of
+structural change on the performance of regions. Structural change is typically
+defined as shifts (usually permanent or long-term) in the distribution of output,
+
+10
+
+This issue is discussed in more detail in a forthcoming Industry Insights from the Office of the
+
+Chief
+
+Economist,
+
+Globalising
+
+Australia,
+
+https://www.industry.gov.au/Office-of-the-Chief-
+
+Economist/Pages/default.aspx
+11
+
+NSW Department of Industry — Centre for Economic Development 2016, Regional Economic
+
+Growth Enablers, Sydney, p. 23.
+12
+
+Australian Bureau of Statistics 2014, Australian Social Trends 2014, Cat. No. 4102.0
+
+13
+
+Bureau of Infrastructure Transport and Regional Economics 2016, Freight rates in Australia,
+
+Information Sheet 90.
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+12
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+investment and employment across industries or regions. 14 Regions can
+benefit or be vulnerable to structural change or external shocks. Some regions
+benefit from structural change, particularly when it is driven by growth in
+important local industries (for instance, “mining” regions benefited from the
+recent commodity price boom). Conversely, some regions are negatively
+influenced by it, particularly when they bear the cost of industrial decline. For
+example, the end of automotive manufacturing has had an impact on the
+economies of Melbourne and Adelaide.
+How a region responds to structural change or external shocks depends on a
+complex mix of social and economic factors. In its recent study into transitioning
+regional economies, the Productivity Commission 15 developed a measure of
+the relative adaptive capacity of regions, as this is thought to influence the
+resilience of regions. The following factors are considered to influence the
+capacity of regions to be resilient:
+
+
+Skills and education of regional workforces
+
+
+
+Access to infrastructure and services
+
+
+
+Availability of natural resources
+
+
+
+Availability of financial resources to businesses and individuals
+
+
+
+Industry diversity. Generally speaking, regions with a diverse industrial
+structure are more resilient when dealing with structural change or external
+shocks. The Productivity Commission cautions though that diversification
+should not always be pursued for its own sake as there can be large
+benefits to a region from focusing resources in a few highly profitable
+activities or industries.16
+
+Major cities have a diverse industry structure and consequently have a
+relatively higher adaptive capacity than most remote or outer regional areas.
+This has implications for how regions can transition following changes in
+Australia’s economy or industry structure. These results also have implications
+for the shifting of economic activity to capital cities.
+The Government has provided assistance through structural adjustment
+programs or packages delivered in specific regions. The packages have arisen
+following closures of key regional employers or the restructuring of businesses
+and industries that impacted regional economies. Such packages have been
+considered on a case-by-case basis and taken into account factors such as the
+expected magnitude of the job losses and the underlying resilience of the local
+
+14
+
+Department of Industry, Innovation and Science 2016, Australian Industry Report,
+
+https://www.industry.gov.au/Office-of-the-ChiefEconomist/Publications/AustralianIndustryReport/assets/Australian-Industry-Report-2016.pdf
+15
+
+Productivity Commission 2017, Transitioning Regional Economies, Productivity Commission
+
+Study
+
+Report,
+
+December
+
+2017,
+
+http://www.pc.gov.au/inquiries/completed/transitioning-
+
+regions/report/transitioning-regions-report.pdf
+16
+
+Productivity Commission 2017, Transitioning Regional Economies, Productivity Commission
+
+Study
+
+Report,
+
+December
+
+2017,
+
+http://www.pc.gov.au/inquiries/completed/transitioning-
+
+regions/report/transitioning-regions-report.pdf
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+13
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+economy. The packages have provided a timely injection of confidence into a
+local business economy and supported firms to invest and diversify their
+operations.
+In many cases, these packages have been jointly developed or delivered with
+other Commonwealth departments and State governments. There may also be
+existing policies or programmes, including those at the Commonwealth, state
+and local level, that can assist individuals, firms and regions to adjust.
+
+Regional differences in business and
+innovation activity
+(Addresses Terms of Reference l, j and specific questions 2, 3 and 4)
+Recent work by Reynolds17 has confirmed that there is a strong positive
+relationship between the presence of new firms and subsequent increases in
+total jobs, economic growth, changes in the economic structure and total factor
+productivity. Australian Bureau of Statistics figures for net increase in
+businesses, show that between 2016 and 2017 the number of businesses in
+capital cities grew faster (3.7 per cent growth) than the national average
+(3.1 per cent growth). Net business counts also grew in the regions, with the
+number of businesses growing by 1.8 per cent in non-mining regional areas
+during the same period.
+Economies that exhibit business dynamism, i.e. the rate at which firms enter or
+exit the market, also tend to be more productive, adaptable and capable of
+sustained economic growth. Innovation and entrepreneurship play an important
+role in this process. 18
+Innovation is important for long-term economic growth. Successful economies
+need to be innovating to increase or maintain competitive advantage.19 A
+forthcoming publication20 by the Department shows that most innovation occurs
+in the CBD of capital cities. But scaling the results by employment shows the
+existence of some regions with greater innovative intensity than the capital
+cities. These are often specialist regions devoted to a single activity, like a
+
+17
+
+Reynolds, P 2017, Feature Article: New firms, innovation and economic change: let us count the
+
+ways in Department of Industry, Innovation and Science 2017, Australian Innovation System
+Report,
+
+https://www.industry.gov.au/Office-of-the-Chief-
+
+Economist/Publications/AustralianInnovationSystemReport2017/documents/australianinnovation-system-report-2017.pdf
+18
+
+Department of Industry, Innovation and Science 2017, Australian Innovation System Report,
+
+https://www.industry.gov.au/Office-of-the-ChiefEconomist/Publications/AustralianInnovationSystemReport2017/documents/australianinnovation-system-report-2017.pdf
+19
+
+Schwab, K. Porter, M, and Sala-I-Martin, X 2007, Global Competitiveness Report 2006-2007,
+
+Basingstoke:Palgrave Macmillan
+20
+
+Principal Components Analysis using 14 variables to capture the activities of academia and
+
+business has been used to analyse innovation in regions.
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+14
+
+Regional Inequality in Australia
+Submission 120
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+university precinct or wine region dominated by just a small number of
+innovative businesses.
+This research suggests that benefits can accrue to regions that specialise in
+areas where they have a competitive advantage (as well as to regions like
+capital cities that benefit from agglomeration). So while some regions might be
+more vulnerable to structural change or external shocks if they do not have a
+diverse industrial base (see discussion above of the Productivity Commission’s
+report into Transitioning Regional Economies), diversifying regional economies
+for its own sake can preclude regions from accruing benefits through
+specialisation.
+
+Summary
+The performance of regional economies depend on a complex mix of social
+and economic factors. In general, economic growth in cities has been
+outstripping that of Australia’s regions. However, the story is more complex
+than simple urban/non-urban averages would suggest. There are some city
+areas with low or negative economic growth and some regional areas that have
+grown very strongly over the past 15 years. Innovative activity (necessary for
+sustained economic growth) is occurring both in regional areas and in cities.
+
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+15
+
+Regional Inequality in Australia
+Submission 120
+
+The spatial distribution of
+economic growth*
+This attachment is based on chapter 3, Industry Insights 1/2018
+
+Regional Inequality in Australia
+Submission 120
+
+The spatial distribution of
+economic growth
+Capital cities
+
+68%
+
+of growth in last
+15 years occured
+in capital cities
+
+3.2%
+
+average growth per year
+These factors are driving
+economic activity to cities
+▪ Changing demographics
+
+▪ Openness to trade
+▪ Industry structure
+
+Regional areas
+
+19%
+
+in non-mining
+regional areas
+
+2.5%
+
+average growth per year.
+Below the national average
+
+Mining regions
+
+11%
+
+of growth was in
+mining regions
+
+5.9%
+
+average growth per year
+
+1
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+Over the last quarter of a century, the Australian economy has grown at about
+three per cent per year. The experience of Australia’s regions however, has
+been far from uniform. The annual growth rate of Melbourne’s central business
+district (CBD) was four times higher than the growth rate of Hume 87 in regional
+Victoria since 2000–01. During this period, there was also a shift of economic
+activity to mineral-rich regions in the investment phase of the mining boom.88
+This resulted in Mining regions89 growing faster than capital cities.
+Using a new time series of Gross Regional Product (GRP), this chapter explores how
+Australia’s economy has changed spatially since 2001 (see Box 3.1). Upon establishing the
+spatial distribution of economic growth, the chapter will then turn to why these differences
+exist. Factors such as shifting demographics, openness to trade and changing industry
+composition can help explain why economic activity concentrates in some areas and not
+in others.
+The chapter then moves on to discuss the implications of economic concentration in
+Australia’s capital cities; persistent comparative inequality in terms of GRP per capita and
+difficulty in predicting long-term sources of growth for regional areas. Such concentration
+also has implications for cities — in part, the future economic success of Australia will
+depend on having cities that can cope with increasing demand for their resources.
+Analysis throughout this chapter focuses on sub-state regions known as Statistical Area
+Level 4s (SA4s). These boundaries are the largest sub-state regions in the Australian
+Statistical Geography Standard (ASGS), as defined by the Australian Bureau of Statistics
+(ABS). There are 88 SA4s in Australia, with 46 located in greater capital city areas. The
+remaining 42 are in regional locations. SA4s are intended to be a proxy for labour markets.
+But as the boundaries are also restricted by population limits, they often cut across or
+combine labour markets — having implications for regional economic analysis.
+
+2
+
+87
+
+Hume refers to the SA4 of Hume which encompasses a large area north-east of Melbourne. The Victorian
+City of Hume is not within the Hume SA4 boundaries.
+
+88
+
+The investment phase of the boom was between 2006 and 2014.
+
+89
+
+The term ‘Mining regions’ refers to the SA4s of Hunter Valley excluding Newcastle; Central Queensland;
+Mackay-Isaac-Whitsunday; WA — Outback (North); and WA — Outback (South).
+
+Regional Inequality in Australia
+Submission 120
+
+The methodology used to derive the experimental estimates of GRP is based on
+the work of Queensland Treasury and Trade, which produces GRP estimates for
+Queensland regions. Estimates of GRP are derived from the 2015–16 Gross State
+Product (GSP) of each State and Territory (published in the State National Accounts),
+and based on the income approach of measuring GSP. The income approach is
+the sum of incomes earned through the production of goods and services in each
+industry, in each State and Territory. The components of the income approach are:
+g
+
+g
+
+g
+
+Compensation of Employees (incomes earned by employees and the selfemployed)
+Gross Operating Surplus and Mixed Income (which includes business profits and
+imputed rental income through the ownership of dwellings)
+
+The spatial distribution of economic growth
+
+Box 3.1: Notes on method used to calculate Gross Regional
+Product estimates
+
+Taxes less subsidies.
+
+To allocate GSP to regions, Queensland Treasury and Trade used an apportioning
+approach to estimate each SA4’s share of GSP. A similar approach is used to derive
+the estimates presented in this chapter.
+Head office effects have not been fully accounted for when calculating the
+experimental estimates of GRP. Head office effects refer to the recording of business
+data (such as profit) in capital cities where head offices are located, rather than in the
+region where the economic activity occurred.
+Head office effects are more prevalent for some industries than others (e.g. Mining).
+To account for head office effects, industry-regional-specific datasets were used
+when possible to try and apportion production back to the region where it occurred.
+In addition, when calculating SA4-to-state ratios from the Census, ‘place of work’
+data was used to try and capture economic activity where it was occurring, rather
+than where the individuals earning the incomes lived.
+Notes: For a detailed description of methodology please refer to Chapter 7 of the Australian Industry
+Report 2016. This method has been extended to previous Census years to create a time series.
+Source: A detailed description of Queensland Treasury and Trade’s methodology can be found at
+www.qgso.qld.gov.au/products/reports/experimental-estimates-grp/
+
+3
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+Most economic activity occurs in capital
+cities
+Between 2000–01 and 2015–16, Australia’s distribution of economic activity was largely
+concentrated in and around major cities. These areas have consistently generated around
+two-thirds of Australia’s economic activity.90 Figure 3.1 shows GRP estimates across
+Australia for the years 2000–01, 2005–06, 2010–11 and 2015–16.
+Figure 3.1: Gross regional product (GRP) by Statistical Area Level 4 (SA4), quartile ranking,
+2000–01, 2005–06, 2010–11 and 2015–16
+
+2010–11
+
+2000–01
+First (lowest)
+Second
+Third
+Fourth (highest)
+
+Perth
+
+Adelaide
+
+Melbourne
+
+Sydney
+
+Brisbane
+
+Perth
+
+2015–16
+
+2005–06
+First (lowest)
+Second
+Third
+Fourth (highest)
+
+Perth
+
+90
+
+4
+
+Adelaide
+
+Melbourne
+
+Sydney
+
+Brisbane
+
+The term ‘capital cities’ refers to the Greater Capital City Statistical Areas of Greater Sydney, Greater
+Melbourne, Greater Brisbane, Greater Adelaide, Greater Perth, Greater Hobart, and Greater Darwin.
+
+Perth
+
+Regional Inequality in Australia
+Submission 120
+
+The spatial distribution of economic growth
+
+2010–11
+
+st)
+
+hest)
+
+Adelaide
+Brisbane
+
+Melbourne
+Perth
+
+First (lowest)
+
+First (lowest)
+
+Second
+
+Second
+
+Third
+
+Third
+
+Fourth (highest)
+
+Fourth (highest)
+
+Sydney
+Adelaide
+
+Brisbane
+Melbourne
+
+Sydney
+
+Brisbane
+
+2015–16
+
+st)
+
+hest)
+
+Adelaide
+Brisbane
+
+Melbourne
+Perth
+
+First (lowest)
+
+First (lowest)
+
+Second
+
+Second
+
+Third
+
+Third
+
+Fourth (highest)
+
+Fourth (highest)
+
+Sydney
+Adelaide
+
+Brisbane
+Melbourne
+
+Sydney
+
+Brisbane
+
+Notes: For all years, SA4s are split into quartiles based on their GRP estimates. The darkest shade of blue
+represents the fourth quartile (SA4s reporting GRP in the top 25 per cent). GRP estimates based on Queensland
+Treasury and Trade methodology. GRP figures are in 2015–16 prices.
+Source: Department of Industry, Innovation and Science.
+
+5
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+Between 2000–01 and 2015–16, two key changes occurred to Australia’s economic
+geography.
+g
+
+g
+
+The first was the concentration of economic activity into the CBDs of capital cities. These
+areas now contribute 25 per cent to national economic activity,91 despite accounting for
+less than 0.05 per cent of Australia’s land mass.92 Australia is one of the most urbanised
+countries on earth, apart from city-states like Monaco and Singapore.93 This favours
+Australia’s transition to a knowledge-based economy, as cities create spill overs, deeper
+labour markets and economies of scale.
+The second major change to Australia’s economic geography was the mining boom.
+Between 2000–01 and 2015–16, Australia experienced one of the biggest mining
+booms in its history. The Mining industry went from around five per cent of the economy
+to close to seven per cent in 2015–16.94 At a regional level, in 2010–11 the Mining
+regions of the Bowen Basin, the Pilbara, WA Goldfields and Hunter Valley accounted for
+around nine per cent of Australia’s economic activity, compared to almost five per cent in
+2000–01. In 2015–16, these regions contributed seven per cent to the Australian
+economy.
+
+Generally, the SA4s in the top quartile are located in capital cities. The exception to this
+is the Mining regions. Between 2005–06 and 2010–11, the WA outback — home to the
+Goldfields and the Pilbara — and areas of the Bowen Basin, were all in the top 25 per
+cent.95 The Pilbara region remains in the top 25 per cent, while other mining regions are
+in the top 50 per cent. Regions in the third quartile tend to be in outer capital city areas or
+along the eastern coast. In 2015–16, SA4s in the top 50 per cent accounted for 77 per cent
+of national economic activity and were home to 66 per cent of the population.
+Over two-thirds of the SA4 regions in the first and second quartiles (the bottom
+50 per cent) consisted of the outback areas of Queensland, SA and the NT, and regions
+outside the greater capital city areas of all states. Less than a third of the SA4 regions in
+the first and second quartiles were located in greater capital city areas. These consisted of
+areas such as the Logan-Beaudesert region in Queensland, Hobart and the Outer South
+West of Sydney. In 2015–16 these two quartiles contributed 23 per cent to Australia’s total
+economic activity, despite being home to 34 per cent of the population.
+The distribution of economic activity within states is consistent with the national story
+— each state or territory is driven by its capital city. Figure 3.2 highlights how much the
+mining boom affected the resource-intensive states of WA and Queensland, where a large
+proportion of economic activity can be attributed to regional areas.
+In terms of economic activity, NSW and Victoria dominate, and the same can be said for
+their capital cities. Sydney and Melbourne are the two largest capital cities. Combined,
+these two areas consistently contribute over 40 per cent to Australia’s economic activity.
+In part this can be attributed to their larger populations and the concentration of industries
+with relatively high labour productivity.96
+
+6
+
+91
+
+From 23 per cent in 2000–01.
+
+92
+
+ABS, Regional Population Growth, Australia, 2015–16, cat. no. 3218.0.
+
+93
+
+Department of Infrastructure and Regional Development 2012, State of Australian Cities 2012, 2012,
+Canberra, p. 17.
+
+94
+
+This refers to mining gross value added as a share of GDP, ABS, Australian System of National Accounts,
+2015–16, cat. no. 5204.0, Table 5. Figures based on chain volume measure.
+
+95
+
+The Bowen Basin is defined to encompass the SA4s of Central Queensland and Mackay — Isaac —
+Whitsunday.
+
+96
+
+SGS Economics & Planning 2016, Australian Cities Account, 2015–16, Canberra, p. 12.
+An example of an industry with relatively higher labour productivity is finance and professional services.
+
+Regional Inequality in Australia
+Submission 120
+
+600
+
+$billions (2015–16 prices)
+
+500
+
+400
+
+300
+
+The spatial distribution of economic growth
+
+Figure 3.2: Gross regional product (GRP) by capital city and regional area, 2015–16
+
+200
+
+100
+
+0
+
+NT
+
+TAS
+
+SA
+
+WA
+
+Capital city
+
+QLD
+
+VIC
+
+NSW
+
+Regional
+
+Notes: GRP estimates based on Queensland Treasury and Trade methodology.
+Source: Department of Industry, Innovation and Science estimates.
+
+7
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+8
+
+Regional Inequality in Australia
+Submission 120
+
+Between 2000–01 and 2015–16, the Australian economy grew on average 3 per cent per
+year. Despite this, when examining GRP growth over the past 15 years it is evident growth
+has not been uniform.
+g
+
+g
+
+g
+
+More than two-thirds (70 per cent) of Australia’s growth occurred in capital cities. This
+equates to average growth of 3.2 per cent per year.97
+A further 11 per cent of national growth was generated in Australia’s Mining regions,
+equating to average growth of 5.9 per cent per year.
+The remaining 19 per cent of growth was in non-Mining regional areas, equating to
+average growth of 2.5 per cent per year.
+
+SA4s growing above the national rate were mainly in the resource-intensive states of
+Queensland and WA. Table 3.1 lists the top 10 SA4s in terms of 15–year annual average
+GRP growth. The impact of the mining boom on Queensland and WA is evident — both
+their capital cities and regional areas experienced higher growth rates. This highlights that
+wealth generated by Mining is also captured in cities where the businesses that support
+the industry are located.98
+
+The spatial distribution of economic growth
+
+Capital cities growing faster than
+regional Australia
+
+The largest 15-year annual average growth occurred in WA — Outback (North), home of the
+Pilbara, which grew on average 11 per cent per year. This region now contributes around
+$43 billion to the economy (3 per cent of total economic activity). Higher growing SA4s
+that are located in capital cities also tended to have a 15-year annual average population
+growth rate that was higher than the national average (1.3 per cent).
+Table 3.2 lists the 10 SA4s reporting the lowest annual GRP growth. SA4s that experienced
+low GRP growth can be characterised by low population growth, and for some a transition
+away from the agricultural industry has resulted in little growth. New England and North
+West in regional NSW has grown an average of 1.1 per cent per year. In 2000–01 the
+largest employing industry in the region was Agriculture — 29 per cent of total employment.
+Fast forward to 2015–16 and Agriculture only accounts for 7.8 per cent of employment,
+and Health Care is now the largest employing industry — 13.6 per cent. Other SA4s, on
+the outer edges of capital cities, had similar experiences with the decline of manufacturing.
+Melbourne — Outer East and Adelaide South had growth rates of –1 and 0.6 per cent
+respectively. In both instances Manufacturing was the top employing industry, which has
+now been overtaken by Heath Care or Construction.
+While Health Care is featuring as the largest employing industry in both the top 10
+and bottom 10 list of SA4s, the shift to Health Care over the past 15 years has been
+more pronounced in the 10 SA4s reporting the lowest annual GRP growth. Health Care
+accounted for 9.4 per cent of employment in the top 10 SA4s in 2000–01 and 12.1 per cent in
+2015–16. In the bottom 10 SA4s, it accounted for 9.5 per cent in 2000-01 and 13 per cent
+in 2015–16.
+
+97
+
+The Australian Capital Territory was included in the calculation of ‘capital cities’.
+
+98
+
+SGS Economic & Planning 2012, Leveraging sustainability and prosperity from resources,
+Urbecon Volume 3 2012, viewed 29 August 2017,
+www.sgsep.com.au/publications/leveraging-sustainability-and-prosperity-resources
+
+9
+
+Regional Inequality in Australia
+Submission 120
+
+10
+
+The spatial distribution of economic growth
+
+Table 3.1: Statistical Area Level 4s (SA4s) reporting highest annual gross regional product (GRP) growth, ranked high to low, 2000–01 to 2015–16
+Rank
+
+Statistical
+Area Level 4
+(SA4)
+
+State or
+territory
+
+Classification
+of SA4
+
+GRP
+($billions)
+2015–16
+
+GRP growth
+15-year
+annual
+average
+(per cent)
+
+Population
+(‘000)
+2015–16
+
+Population
+growth
+15-year
+annual
+average
+(per cent)
+
+Largest
+employing
+industry,
+2000–01
+(per cent of
+total)
+
+Largest
+employing
+industry,
+2015–16
+(per cent of
+total)
+
+1
+
+WA —
+Outback
+(North)
+
+WA
+
+Mining
+
+43
+
+11.0
+
+90
+
+0.8
+
+Mining (14.0)
+
+Mining (21.0)
+
+2
+
+Darwin
+
+NT
+
+Capital city
+
+17
+
+6.6
+
+140
+
+1.6
+
+Public Admin and
+Safety (15.5)
+
+Public Admin and
+Safety (15.4)
+
+3
+
+Perth —
+South East
+
+WA
+
+Capital city
+
+36
+
+6.4
+
+490
+
+1.9
+
+Retail Trade
+(12.2)
+
+Health Care
+(12.3)
+
+4
+
+Brisbane Inner
+City
+
+QLD
+
+Capital city
+
+60
+
+6.2
+
+250
+
+2.2
+
+Prof, Scientific
+and Tech (13.3)
+
+Health Care
+(15.9)
+
+5
+
+Perth - South
+West
+
+WA
+
+Capital city
+
+26
+
+6.1
+
+400
+
+2.1
+
+Manufacturing
+(13.4)
+
+Health Care
+(11.3)
+
+Regional Inequality in Australia
+Submission 120
+
+Rank
+
+Statistical
+Area Level 4
+(SA4)
+
+State or
+territory
+
+Classification
+of SA4
+
+GRP
+($billions)
+2015–16
+
+GRP growth
+15-year
+annual
+average
+(per cent)
+
+Population
+(‘000)
+2015–16
+
+Population
+growth
+15-year
+annual
+average
+(per cent)
+
+Largest
+employing
+industry,
+2000–01
+(per cent of
+total)
+
+Largest
+employing
+industry,
+2015–16
+(per cent of
+total)
+
+6
+
+Moreton Bay
+— North
+
+QLD
+
+Capital city
+
+8
+
+6.0
+
+240
+
+2.4
+
+Retail Trade
+(10.7)
+
+Retail Trade
+(12.5)
+
+7
+
+Brisbane —
+North
+
+QLD
+
+Capital city
+
+19
+
+5.9
+
+210
+
+1.3
+
+Retail Trade
+(13.7)
+
+Health Care
+(15.9)
+
+8
+
+Perth — North
+East
+
+WA
+
+Capital city
+
+14
+
+5.7
+
+250
+
+1.8
+
+Retail Trade
+(13.4)
+
+Construction
+(13.0)
+
+9
+
+Mackay
+— Isaac —
+Whitsunday
+
+QLD
+
+Mining
+
+18
+
+5.4
+
+170
+
+1.5
+
+Retail Trade
+(12.6)
+
+Mining (15.9)
+
+10
+
+Sunshine
+Coast
+
+QLD
+
+Regional
+
+16
+
+5.4
+
+350
+
+2.4
+
+Retail Trade
+(13.5)
+
+Health Care
+(13.4)
+
+Notes: GRP and population figures have been rounded. GRP figures are 2015–16 prices. GRP estimates based on Queensland Treasury and Trade methodology.
+Source: ABS, 2016 Census of Population and Housing (TableBuilder extract); ABS, Labour Force, Australia, Detailed, Quarterly, May 2017, cat. no. 6291.0.55.003, RQ1; Department of Industry,
+Innovation and Science estimates.
+
+The spatial distribution of economic growth
+
+11
+
+Regional Inequality in Australia
+Submission 120
+
+12
+
+The spatial distribution of economic growth
+
+Table 3.2: Statistical Area Level 4s reporting lowest annual gross regional product (GRP) growth, ranked low to high, 2000–01 to 2015–16
+Rank
+
+Statistical
+Area Level 4
+(SA4)
+
+State or
+territory
+
+Classification
+of SA4
+
+GRP
+($billions)
+2015–16
+
+GRP growth
+15-year
+annual
+average
+(per cent)
+
+Population
+(‘000)
+2015–16
+
+Population
+growth
+15-year
+annual
+average
+(per cent)
+
+Largest
+employing
+industry,
+2000–01
+(per cent of
+total)
+
+Largest
+employing
+industry,
+2015–16
+(per cent of
+total)
+
+88
+
+Melbourne —
+Outer East
+
+VIC
+
+Capital city
+
+20
+
+-1.0
+
+500
+
+0.4
+
+Manufacturing
+(15.8)
+
+Construction
+(11.5)
+
+87
+
+Sydney —
+North Sydney
+and Hornsby
+
+NSW
+
+Capital city
+
+40
+
+-0.6
+
+410
+
+0.8
+
+Prof, Scientific
+and Tech (16.0)
+
+Prof, Scientific
+and Tech (20.2)
+
+86
+
+North West
+
+VIC
+
+Regional
+
+8
+
+0.1
+
+150
+
+0.0
+
+Agriculture (26.6)
+
+Health Care
+(16.9)
+
+85
+
+Adelaide —
+South
+
+SA
+
+Capital city
+
+12
+
+0.6
+
+360
+
+0.6
+
+Manufacturing
+(14.0)
+
+Health Care
+(18.2)
+
+84
+
+Northern
+Territory —
+Outback
+
+NT
+
+Regional
+
+6
+
+0.7
+
+90
+
+-0.3
+
+Public Admin and
+Safety (25.3)
+
+Public Admin and
+Safety (22.0)
+
+83
+
+Sydney —
+Eastern
+Suburbs
+
+NSW
+
+Capital city
+
+15
+
+0.7
+
+270
+
+0.6
+
+Prof, Scientific
+and Tech (15.7)
+
+Prof, Scientific
+and Tech (17.5)
+
+Regional Inequality in Australia
+Submission 120
+
+Rank
+
+Statistical
+Area Level 4
+(SA4)
+
+State or
+territory
+
+Classification
+of SA4
+
+GRP
+($billions)
+2015–16
+
+GRP growth
+15-year
+annual
+average
+(per cent)
+
+Population
+(‘000)
+2015–16
+
+Population
+growth
+15-year
+annual
+average
+(per cent)
+
+Largest
+employing
+industry,
+2000–01
+(per cent of
+total)
+
+Largest
+employing
+industry,
+2015–16
+(per cent of
+total)
+
+82
+
+Melbourne —
+Inner South
+
+VIC
+
+Capital city
+
+18
+
+0.9
+
+400
+
+0.9
+
+Manufacturing
+(12.0)
+
+Prof, Scientific
+and Tech (13.9)
+
+81
+
+Hume
+
+VIC
+
+Regional
+
+7
+
+1.0
+
+170
+
+0.8
+
+Manufacturing
+(12.6)
+
+Health Care
+(14.6)
+
+80
+
+New England
+and North
+West
+
+NSW
+
+Regional
+
+10
+
+1.1
+
+180
+
+0.1
+
+Agriculture (28.6)
+
+Health Care
+(13.7)
+
+79
+
+Sydney —
+Inner South
+West
+
+NSW
+
+Capital city
+
+23
+
+1.3
+
+570
+
+0.9
+
+Manufacturing
+(15.6)
+
+Retail Trade
+(12.1)
+
+Notes: GRP and population figures have been rounded. GRP figures are 2015–16 prices. GRP estimates based on Queensland Treasury and Trade methodology.
+Source: ABS, 2016 Census of Population and Housing (TableBuilder extract); ABS, Labour Force, Australia, Detailed, Quarterly, May 2017, cat. no. 6291.0.55.003, RQ1; Department of Industry,
+Innovation and Science estimates.
+
+The spatial distribution of economic growth
+
+13
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+The difference between the regions becomes particularly evident when examining growth by
+region type. Figure 3.3 shows that over the past 15 years, Mining regions have experienced
+the fastest growth, an average of 5.9 per cent per year. The annual average growth of
+capital cities was slightly above the national rate at 3.2 per cent.99 While non-Mining
+regional areas fell below the national rate, growing 2.5 per cent per year. The significant
+difference between non-Mining regional areas and Mining regions is demonstrated in
+regional Queensland. The SA4 of Mackay-Isaac-Whitsunday, part of the Bowen Basin,
+grew on average three times faster than its neighbouring SA4, Queensland-Outback. For
+every $1 of economic activity produced in Queensland-Outback, $2 of economic activity
+was produced in Mackay-Isaac-Whitsunday.
+Growth in capital cities was driven by CBDs. Over 15 years, the economic activity of
+these areas nearly doubled — $236 billion in 2000–01 compared to $419 billion in
+2015–16 (3.9 per cent per year), making up 29 per cent of Australia’s total economic growth.
+Brisbane CBD grew the fastest (6.2 per cent per year). This small area now contributes
+around $60 billion to the Australian economy and accounts for nearly 4 per cent of total
+economic activity.
+Figure 3.3: GRP growth rates by region type
+16
+
+12
+
+Per cent
+
+8
+
+4
+
+0
+
+–4
+
+–8
+
+2000–01 to 2015–16 2000–01 to 2005–06 2005–06 to 2010–11 2010–11 to 2015–16
+Capital cities
+
+Non-Mining regional
+
+Mining regions
+
+Australia
+
+Notes: GRP estimates based on Queensland Treasury and Trade methodology. National figures based on chain
+volume measure. GRP figures based on 2015–16 prices.
+Source: Department of Industry, Innovation and Science estimates; ABS, Australian National Accounts: State
+Accounts, 2015–16, cat. no. 5220.0, Table 1.
+
+99
+
+14
+
+It is important to note that GRP growth in capital cities is occurring off a higher base. Since 2000–01, in
+absolute terms, there has been much higher growth in GRP in capital cities compared to both Mining and
+non-Mining regional areas. Over this period, absolute growth in GRP amounted to more than $430 billion
+of additional economic activity in capital cities, compared to around $175 billion in all regional areas.
+
+Regional Inequality in Australia
+Submission 120
+
+Box 3.2 will describe the relative movement between SA4s in more detail.
+
+Box 3.2: Regional growth and GRP per capita inequality
+The concentration of economic activity in capital cities has implications for individual
+regions and the economy as a whole. Over the 15 years, there has been persistent
+comparative inequality in terms of GRP per capita. In addition it is difficult to predict
+long-term sources of growth for regional areas. In contrast, income growth has been
+comparable across cities and regions. But as economic activity continues to shift
+to capital cities, there will also be pressure on infrastructure, and cities will need to
+adjust to growing demands.
+
+The spatial distribution of economic growth
+
+Also evident in Figure 3.3 is that the rate of growth is slowing for all regions. For each
+five-year period, capital cities have consistently grown faster than regional areas and the
+difference between the two is increasing. Overall, growth in non-Mining regional areas has
+remained positive over the past 15 years. In over two-thirds of these non-Mining regional
+areas, growth in the number of people employed in non-market industries such as Health
+Care, Education and Public Administration has outstripped growth in the number of people
+in all other industries. Since the end of the investment phase of the mining boom, growth in
+Mining regions has been negative. This is a result of many factors including the downturn
+in the commodity price cycle.
+
+In 2000–01, 40 SA4s had an estimated GRP per capita below 75 per cent of
+Australia’s GDP per capita ($55,810). This has remained consistent over the past
+15 years. In 2015–16, 44 SA4s had an estimated GRP per capita below 75 per cent
+of the national average ($69,421). Table 3.3 shows this in more detail.
+The information in Table 3.3 is based on each SA4’s GRP per capita as a share
+of national GDP per capita — relative GRP per capita. For the years 2000–01 and
+2015–16, SA4s were assigned to ranges based on their relative GRP per capita
+— an SA4 with a relative GRP per capita of 69 per cent would be assigned to the
+50–70 per cent range.
+The first column n gives the number of SA4s that were in each range in 2000–01.
+The second column lists the ranges SA4s were assigned to — in 2000–01 there
+were three SA4s with a relative GRP per capita of 50 per cent or less.
+The top row of the table lists the relative GRP ranges for 2015–16. The main diagonal
+of the table shows the share of SA4s that were in the same relative GRP per capita
+range in 2000–01 and 2015–16.
+Reading along the third row of the table, in 2000–01 37 SA4s had a relative GRP
+per capita between 50 and 75 per cent. In 2015–16, 76 per cent of these SA4s
+remained in this range, 8 per cent fell to the 50 per cent or less range, 14 per cent
+moved up to the 75–100 per cent range, and 3 per cent moved to between 100 and
+125 per cent. SA4s that remained in the 50 and 75 per cent range included Coffs
+Harbour — Grafton; Ballarat; Launceston; and North East Tasmania. The large share
+that remained in the same range shows the persistent inequality in terms of GRP
+per capita.
+Examining Table 3.3, it is evident that SA4s below the national average — relative
+GRP per capita below 100 per cent — remain below, and those above the average
+stay there. Typically, those regions that have gone down a range between 2000–01
+and 2015–16 have been SA4s in outer capital city areas, for example Moreton Bay
+— South in outer Brisbane.
+
+15
+
+SA4s with a relative GRP per capita of 100 per cent or more, in either 2000–01
+or 2015–16, tended to be those in the inner capital city areas or Mining regions.
+Mackay-Isaac-Whitsunday, an area of the Bowen Basin, transitioned from the 100 to
+125 per cent range to the greater than 125 per cent range.
+Table 3.3: Transition matrix of gross regional product (GRP) per capita relative to
+national GDP per capita, per cent, 2000–01 to 2015–16
+2015–16 relative GRP per capita
+
+2000–01 relative
+GRP per capita
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+n
+
+Per cent
+
+<50
+
+50 –
+<75
+
+75 –
+<100
+
+100 –
+<125
+
+>125
+
+3
+
+<50
+
+33
+
+67
+
+0
+
+0
+
+0
+
+37
+
+50 – <75
+
+8
+
+76
+
+14
+
+3
+
+0
+
+30
+
+75 – <100
+
+0
+
+33
+
+57
+
+7
+
+3
+
+8
+
+100 – <125
+
+0
+
+0
+
+0
+
+25
+
+75
+
+10
+
+>125
+
+0
+
+0
+
+0
+
+0
+
+90
+
+Notes: National figures based on chain volume measures. GRP figures based on 2015–16 prices. GRP
+estimates based on Queensland Treasury and Trade methodology.
+Reading the table: In 2000–01 there were 30 SA4 regions where the GRP per capita as a ratio of
+Australia’s GDP per capita was between 75:100 and <100:100 (i.e. 75 per cent to less than 100 per cent).
+In 2015–16, 57 per cent of these SA4s maintained the same ratio range, 33 per cent deteriorated to a
+ratio range of between 50 per cent to less than 75 per cent, 7 per cent of the SA4s improved to a ratio
+range of between 100 per cent to less than 125 per cent, and 3 per cent of the SA4s improved to a ratio
+range of 125 per cent or higher.
+Source: Department of Industry, Innovation and Science estimates; ABS, Australian National Accounts:
+State Accounts, 2015–16, cat. no. 5220.0, Table 1.
+
+16
+
+Regional Inequality in Australia
+Submission 120
+
+The increasing concentration of Australia’s productive activity is — at least in part —
+the product of agglomeration economies that result from co-location. Benefits of greater
+concentration can take the form of deeper labour markets, increased access to specialised
+suppliers (inputs and services), economies of scale and knowledge spill overs.100
+The Productivity Commission conducted a study into the transition of regions post-mining
+boom. As part of this study, an index of relative adaptive capacity was developed. The
+Productivity Commission found the following factors to influence the capacity of regions to
+be resilient:
+g
+
+Skills and education of regional workforces
+
+g
+
+Access to infrastructure and services
+
+g
+
+Availability of natural resources
+
+g
+
+Availability of financial resources to businesses and individuals
+
+g
+
+Industry diversity. 101
+
+The spatial distribution of economic growth
+
+Drivers of economic activity to capital
+cities
+
+According to this index, most major cities have a relatively higher adaptive capacity than
+most remote and outer regional areas. This has implications for how regions perform and
+can transition following changes in Australia’s economy and industry structure. These
+results also have implications for the shifting of economic activity to capital cities.
+The remainder of this section discusses some of the key drivers of economic concentration
+as identified in the literature. The GRP estimates are considered in light of each driver
+to better understand the trade-off and why the concentration of economic activity has
+benefited some SA4s more than others.
+
+100 NSW Department of Industry — Centre for Economic Development (2016) Regional Economic Growth
+Enablers, Sydney, p. 22. Offsetting these benefits are costs relating to concentration, including higher rents,
+greater congestion, and more pollution. The trade-off between these benefits and costs determine which
+areas are relatively better off and which areas grow relatively faster or slower.
+101 Productivity Commission 2017, Transitioning Regional Economies, Productivity Commission Study Report,
+December 2017.
+
+17
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+Attracting talent and skills
+Figure 3.4 shows total net internal migration for the working age cohort (15–64 years) over
+the past 10 years. From the map it is evident that the working age cohort is migrating to areas
+around CBDs or to major regional centres along the east coast. Economic concentration
+helps to deepen labour markets and provides greater education opportunities — which in
+turn results in greater migration to these areas.
+Remote and regional areas of Australia have experienced a net loss of working age
+residents. This is because areas with higher concentrations of economic activity are
+attractive to people. In cities, job-search costs are lower, matches are better and wages
+typically higher as a result of the greater productivity of firms from the spill overs associated
+with concentration.102 Although not shown, immigrants also favour cities due to greater job
+opportunities and existing cultural networks.
+The flows of international migrants exacerbate these trends. The population flows of large
+capital cities in Australia is like an hour glass. International migrants are poured in the top
+at a slightly faster rate than older residents leave.103 The skilled migrant stream is heavily
+concentrated in the CBDs of Melbourne, Sydney, Brisbane and Perth.
+Figure 3.4: Net internal migration, by Statistical Area Level 3 (SA3), number of people aged
+15–64 years, 2006–07 to 2015–16
+Areas where:
+Number of working aged
+people <5,000 or more
+Change in number of
+working people between
+–5,000 and 0
+Change in the number of
+working aged people
+between 0 and 5,000
+Number of working aged
+people >5,000 or more
+
+Perth
+
+Adelaide
+
+Melbourne
+
+Sydney
+
+Brisbane
+
+Notes: Boundaries are based on 2011 ASGS — Statistical Area Level 3.
+Source: ABS, Migration, Australia, 2015–16, cat. no. 3412.0
+
+102 NSW Department of Industry — Centre for Economic Development 2016, Regional Economic Growth
+Enablers, Sydney, p. 23.
+103 Department of Infrastructure Regional Development and Cities 2013, State of Australlain Cities 2013,
+https://infrastructure.gov.au/infrastructure/pab/soac/2013.aspx
+
+18
+
+Regional Inequality in Australia
+Submission 120
+
+Figure 3.5: 15-year annual average working age population (15–64 years) and gross
+regional product (GRP) growth, 2000–01 to 2015–16
+12
+
+10
+
+GRP growth (per cent)
+
+8
+
+The spatial distribution of economic growth
+
+Figure 3.5 shows that regions with higher working age population growth tend to have
+higher GRP growth, and typically the highest population growth is occurring in greater
+capital city areas.
+
+6
+
+4
+
+2
+
+0
+
+–2
+
+–2
+
+0
+2
+Working age population growth (per cent)
+Capital city
+
+Non-Mining regional
+
+4
+
+Mining region
+
+Notes: GRP estimates based on Queensland Treasury and Trade methodology. GRP figures based on 2015–16
+prices, R² = 0.372.
+Source: ABS 2001 and 2016 Census of Population and Housing; Department of Industry, Innovation and Science
+estimates.
+
+Although GRP growth is often associated with growth in a region’s working age population,
+this is not always the case. There are some regions that have experienced high economic
+growth but have no significant employment growth.
+
+19
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+Trade enables growth and job creation
+Trade provides new market opportunities for domestic firms, stronger productivity and
+innovation through competition.104 In understanding the dynamics and trajectory of
+Australian regions, it is important not to view them in isolation but to explore the role they
+play in the national and international trading networks.
+To be a gateway to the international economy, a region needs three characteristics: a
+sea port; an international airport; and most importantly a CBD that hosts a critical mass
+of advanced producer services like finance, marketing and management consulting to
+facilitate and contribute to the products being traded. In Australia, there are only two cities
+that have such critical mass — Sydney and Melbourne. Around 90 per cent of publically
+traded firms by value are located in Sydney and Melbourne, and around three quarters of
+international business travel passes through their airports.105
+Figure 3.6 shows the collective growth rates for areas with or without a sea port or an
+international airport. It is evident SA4s with either a sea port or international airport tend to
+grow faster. Trade openness encourages the concentration of economic activity because
+firms will choose to locate in certain regions in order to gain access to international markets
+and benefit from trade.
+Australia’s geographic isolation and its relatively fragmented domestic markets contribute
+to relatively higher transport and infrastructure costs, and limit Australia’s exposure to
+domestic and international trade.
+Figure 3.6: Australian sea ports, international airports and gross regional product (GRP)
+growth, 2000–01 to 2015–16
+5
+4
+
+Per cent
+
+Australia
+3
+2
+1
+0
+
+Sea port
+
+International airport
+With
+
+Without
+
+International airport
+& sea port
+
+Notes: GRP estimates based on Queensland Treasury and Trade methodology. National figures based on chain
+volume measure. GRP figures based on 2015–16 prices.
+Source: Geoscience Australia; Department of Industry, Innovation and Science estimates; ABS, Australian
+National Accounts: State Accounts, 2015–16, cat. no. 5220.0, Table 1.
+
+104 Jackson S 2015, Growth and development: Why openness to trade is necessary but not sufficient,
+Brookings Institution, 23 November 2015, www.brookings.edu/blog/future-development/2015/11/23/growthand-development-why-openness-to-trade-is-necessary-but-not-sufficient/, accessed 26 September 2017
+105 Tonts T and Taylor M 2013, ‘The shifting geography of corporate headquarters in Australia: A longitudinal
+analysis’ in Regional Studies, 47(9):1507–1522.
+
+20
+
+Regional Inequality in Australia
+Submission 120
+
+While technologies such as the National Broadband Network and video conferencing enable
+people to work remotely — away from cities — the more fundamental force of technological
+change is shifting the Australian economy into knowledge-intensive industries that thrive in
+the centres of large cities.
+The shifting industry structure of the Australian economy is driving the concentration of
+economic activity to capital cities. The economy has been transitioning away from goodsproducing industries to more high-value, knowledge-intensive industries.106
+Compared to goods-producing industries, which are reliant on immobile factors of production,
+such as land, knowledge-intensive industries rely on mobile factors of production like human
+capital. This geographic dimension of production means knowledge-intensive industries,
+such as finance, are less likely to locate in regional Australia because they typically benefit
+from knowledge spillovers, deeper labour markets and economies of scale.107
+Areas outside of capital cities tend to produce relatively low levels of economic activity,
+despite being home to a significant share of the population. The production that takes
+place in these areas typically involves population-serving industries.108 Over the past 15
+years these population-serving industries — the non-market services sector — have been
+the main source of employment growth in non-Mining regional areas. Examples of nonmarket services are Health Care and Education, where the public sector plays a significant
+role. These industries accounted for around 53 per cent of total employment growth in
+non-Mining regional Australia, resulting in an additional 361,000 employed persons.
+
+The spatial distribution of economic growth
+
+Knowledge-intensive industries
+
+Knowledge-intensive industries — typically industries in the market services sector —
+are key drivers of productivity and economic growth.109 Figure 3.7 shows that SA4s with
+higher GRP growth tend to be those with greater growth in market services employment
+— typically in greater capital city areas.
+
+106 Department of Industry, Innovation and Science 2014, Australian Industry Report, Canberra.
+Goods-producing industries are Agriculture, Forestry & Fishing; Mining; Manufacturing; Electricity, Gas,
+Water & Waste Services; Construction.
+107 NSW Department of Industry — Centre for Economic Development 2016, Regional Economic Growth
+Enablers, Sydney, p. 22.
+108 Kelly JF and Donegan P 2014, Mapping Australia’s economy: Cities as engines of prosperity, Grattan
+Institute, p. 10.
+109 Department of Industry, Innovation and Science 2015, Australian Industry Report, Canberra, p. 138.
+
+21
+
+Figure 3.7: 15-year annual average market services employment and gross regional
+product (GRP) growth, per cent, 2000–01 to 2015–16
+12
+
+10
+
+8
+
+GRP growth (per cent)
+
+The spatial distribution of economic growth
+
+Regional Inequality in Australia
+Submission 120
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+–3
+
+–2
+
+–1
+0
+1
+2
+3
+4
+Market services employment growth (per cent)
+Capital city
+
+Non-Mining regional
+
+5
+
+6
+
+Mining region
+
+Notes: GRP estimates based on Queensland Treasury and Trade methodology. Employment figures based on
+4-quarter averages. GRP figures based on 2015–16 prices. R² = 0.1329.
+Source: ABS, Labour Force, Australia, Detailed, Quarterly, May 2017, cat. no. 6291.0.55.003, RQ1; Department
+of Industry, Innovation and Science estimates.
+
+22
+
+Regional Inequality in Australia
+Submission 120
+
+Since 2000–01, Australia’s economic growth has largely been strongest in capital cities —
+Mining regions are the exception to this. Individually, some regions are not as well off as the
+average and as cities continue to grow, regions are likely to fall further behind as a share of
+the economy (i.e. inequality between regions and cities is likely to grow).
+The concentration of economic activity in cities is occurring from a natural incentive for
+people and firms to be close to each other — there are big benefits to agglomeration.
+These benefits take the form of deeper labour and consumer markets, increased access to
+specialised suppliers (inputs and services), economies of scale, knowledge spill-overs and
+lower transportation costs.
+Technological change is shifting the Australian economy into knowledge-intensive
+industries that thrive in the centre of large cities. Knowledge-intensive industries rely on
+human capital as the primary factor of production. This means they are less likely to locate
+in regional Australia because they typically benefit more from critical mass of human capital
+and agglomeration. The overall shift of knowledge-intensive industries into the centre of
+large cities is occurring despite technology improvements that also enable people to work
+remotely.
+
+The spatial distribution of economic growth
+
+Regions of the future
+
+Trade provides new market opportunities for domestic firms, stronger productivity and
+innovation through competition. Trade openness encourages economic activity to
+concentrate in certain regions to gain access to international markets and benefit from
+trade.
+The concentration of economic activity in capital cities makes it difficult to predict long-term
+sources of growth in regional areas. However, implications of this concentration may be
+larger for cities themselves rather than regional areas. Rapidly growing cities put pressure
+on infrastructure and investment may not keep up. With the economic centre of gravity
+shifting to CBDs, transporting more people from outer areas to jobs in the centre of cities
+will be challenging. Long commute times have implications for labour force participation
+and health. In part, the future economic success of Australia will depend on having cities
+that function well and can adjust to growing demands.
+
+23
+
+Regional Inequality in Australia
+Submission 120
+
+Pushing water uphill
+Danielle Wood
+Budget Policy and Institutions Program Director, Grattan Institute
+Geography is destiny, or so we are often told. In which case, what do geographic trends in
+population and economic activity tell us about Australia’s future policy challenges?
+Australia is highly urbanised, and becoming more so. The most densely populated parts
+of the country house 80 per cent of the population but occupy less than one per cent of
+the land mass. And population has grown faster in our cities than elsewhere over the past
+decade. The Pilbara mining region and the major regional centres, such as Bendigo in
+Victoria and Wollongong in New South Wales, have also increased their populations, but
+the populations of much of the rest of regional Australia are either stagnant or declining.
+These regional differences in population growth reflect longer-term structural changes in
+the Australian economy.
+As in other developed economies, an increasing proportion of the Australian workforce
+is employed in service industries. Over 50 years, employment in Services has risen
+from five in ten workers to eight in ten workers. Service jobs, particularly professional
+services, tend to cluster in cities and their centres. This is because there are big benefits
+to ‘agglomeration’, being close to lots of other service firms.110 These Services jobs attract
+people both from overseas and within Australia who are younger and more educated than
+the general population. So it is not surprising that cities have a higher proportion of young
+people, immigrants, and people with a tertiary education than regional areas.111
+
+110 Romer P (2015) Urbanization Passes the Pritchett Test,
+http://paulromer.net/urbanization-passes-the-pritchett-test/
+111 Daley J, Wood D and Chivers C 2017, Regional patterns of Australia’s economy and population,
+Grattan Institute, pp. 24–29.
+
+24
+
+Regional Inequality in Australia
+Submission 120
+
+Population growth 2006 to 2016 (per cent)
+<0
+
+1.3
+
+0.0
+
+1.5
+
+0.6
+
+1.9
+
+1.0
+
+2.9
+
+FEATURE ARTICLE Pushing water uphill
+
+Figure 3.8: Population growth is highest in the capitals, some regional centres and mining
+regions
+
+Source: ABS (2016) Census of Population and Housing, Time Series profiles 2006–2016
+
+25
+
+Figure 3.9: More and more Australians work in services, share of workforce by sector, 1890
+to 2010, per cent
+100
+
+80
+
+Services
+
+60
+
+Per cent
+
+Industry Insights Flexibility and growth
+
+Regional Inequality in Australia
+Submission 120
+
+40
+
+20
+
+0
+1890 1900 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2010
+
+Construction
+Manufacturing
+Agriculture
+Mining
+
+Notes: Data for 1981–83 are interpolated using 1980 and 1984 data.
+Source: Withers G, Endres T and Perry L (1985) Australian historical statistics: Labour statistics, Source Papers
+in Economic History, Source Paper No. 7; ABS (2017) Labour force, Australia, detailed, Quarterly, May 2017,
+Cat. 6291.0.55.003.
+
+In contrast, the loss of agricultural and manufacturing work is felt most keenly in regional
+and outer-suburban areas. Populations in these areas tend to be older and have a higher
+proportion of the population born in Australia.
+But it’s not all bad news for the regions. Analysis of tax return data by postcode shows that
+while incomes are on average higher in the cities, income growth per person has been
+similar in the regions and the cities over the past decade. And nor is unemployment notably
+worse in the regions.112
+
+112 Daley J, Wood D and Chivers C 2017, Regional patterns of Australia’s economy and population, Grattan,
+pp. 16–19.
+
+26
+
+Regional Inequality in Australia
+Submission 120
+
+10
+
+8
+
+Per cent
+
+6
+
+FEATURE ARTICLE Pushing water uphill
+
+Figure 3.10: Annual growth in real taxable income per tax filer by postcode, 2003–04 to
+2014–15
+
+4
+
+2
+
+0
+
+1
+
+10
+
+100
+Distance to GPO (km)
+
+1,000
+
+Notes: The growth rate is calculated as the compound average growth rate (CAGR) in income per tax filer 2003–
+04 to 2014–15. A small number of outliers have been excluded from the chart to make it more readable.
+Source: ATO (2017) Taxation statistics 2014–15, Australian Taxation Ofﬁce.
+
+Governments should not fight the ‘gravitational’ pull of the cities and major regional centres.
+Past attempts at intervention have been expensive and did little to increase regional
+growth and productivity.113 Governments are better off focusing on building and maintaining
+transport infrastructure links (but only where the benefits outweigh the costs) and improving
+the quality of services in regional areas.
+Governments should also do more to ensure our cities remain resilient and productive.
+The disconnect in Australia’s major cities between where the people are and where the jobs
+are is a major policy problem. Most city jobs have been added within 10 km of the central
+business districts (CBDs). But, other than high-rise apartments in the centre, almost all the
+population growth has been added 20 km or more from the city centres, with housing estates
+being built on what was farmland.114 There has been some medium-density development in
+middle-ring suburbs but not enough to keep up with population growth.115 Australia’s large
+cities remain particularly sparsely populated compared with cities of similar size.
+
+113 Daley J and Lancey A 2011, Investing in regions: making a difference, Grattan Institute.
+114 Kelly J-F and Donegan P 2015, City limits: why Australia’s cities are broken and how we can fix them,
+Melbourne University Press, pp. 33.
+115 Daley J, Coates B and Wiltshire T (forthcoming), Housing affordability, Grattan Institute.
+
+27
+
+Industry Insights Flexibility and growth
+
+Regional Inequality in Australia
+Submission 120
+
+The lack of new homes being built in desirable areas near high-paying jobs has contributed
+to strong increases in house prices in our cities. And limiting housing near high-paying
+productive jobs reduces economic growth.116
+Governments should reform planning and zoning regulations to increase density in the
+middle-ring suburbs of our cities. The focus should be medium-density development:
+townhouses and terrace houses, which is what people say they want.117
+Governments should also act to limit growing road congestion in our major cities. In Sydney
+and Melbourne, some car trips into the CBD take twice as long during the morning and
+afternoon peaks as in the middle of the night. And the problem is getting worse as the
+population grows.118 Congestion charges in the most congested areas of each city during
+peak periods would help improve travel times and spread traffic across the day.
+Ultimately, policymakers must work with, not against, the forces shifting Australia’s
+economic geography. Governments can’t push economic water uphill, but they can smooth
+the transition by ensuring that regional areas have access to good-quality services and that
+our cities are flexible enough to cope with growing numbers of people and activity.
+
+116 Daley J, Coates B and Wiltshire T (forthcoming), Housing affordability, Grattan Institute.
+117 Kelly J-F, Weidmann B and Walsh M 2011, The housing we’d choose, Grattan Institute.
+118 Terrill M, Batrouney H, Etherington S and Parsonage H 2017, Stuck in traffic? Road congestion in Sydney
+and Melbourne, Grattan Institute.
+
+28
+
+Regional Inequality in Australia
+Submission 120
+
+Connect with us:
+@economist_chief
+https://au.linkedin.com/in/cullymark
+www.industry.gov.au/OCE
+
+

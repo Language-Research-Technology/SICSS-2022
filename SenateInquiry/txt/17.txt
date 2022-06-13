@@ -1,0 +1,2778 @@
+Regional Inequality in Australia
+Submission 17
+
+SUBMISSION
+
+Senate Economics References Committee
+Inquiry into the indicators of, and impact of, regional inequality in Australia
+
+Submission Title: Regional Inequality; Why It Matters, Why it Occurs and How It
+Might Be Addressed
+Dr Joseph Drew
+And
+Professor Roberta Ryan 1
+University of Technology Sydney
+Institute of Public Policy and Governance (incorporating the UTS Centre for Local
+Government and the Australian Centre of Excellence for Local Government)
+April, 2018
+
+Executive Summary
+Regional inequality is generally taken to refer to spatially distributed disparities in spending
+capacity, ability to consume non-public services, access to public services, and ability to
+consume natural resources. Despite being a topical matter in the international literature
+there is a dearth of analysis in an Australian context. We outline a number of metrics that can
+provide us with a sense of how grave the inequality situation in Australia has become.
+Following this we analyse the sources of inequality with a particular emphasis on
+government policy and institutions. This leads us to propose a number of innovative policy
+changes that could address the problem, given sufficient political will. In particular, we call
+for the introduction of equality statements for all major policy and institutional changes, to
+provide a counterweight to the business case methodologies that currently inform most
+political decision-making.
+There is a long history of scholarship on the matter of inequality. Most of the emphasis has
+previously been placed on inequality at the level of nation states, although recently prominent
+scholars have started to pay greater attention to inequality, at the regional level, that falls
+within nation states (Wei, 2015; Sellers et al., 2017; Stiglitz, 2013). One explanation for the
+recent surge in interest, with respect to regional inequality, stems from the perception that
+inequality was exacerbated as a result of government responses to the Global Financial Crisis
+(and there is certainly a good deal of evidence, from abroad, to suggest that this was indeed
+the case for income and wealth equality). Another explanation seems to be that interest has
+1
+
+Corresponding author for Inquiry: Professor Roberta Ryan,
+
+Page 1
+
+Regional Inequality in Australia
+Submission 17
+
+increased in response to high-profile evidence of social unrest precipitated in large part as a
+result of inequality (for instance the Occupy Wall Street movement and the Arab Spring;
+Stiglitz, 2013). However, in contrast to increasing levels of attention by scholars abroad,
+there is a veritable dearth of analysis in the context of Australia. This is despite the fact that
+there is some extant evidence of relatively high levels of both income inequality and wealth
+inequality (ABS, 2018 – see below).
+Regional inequality is generally taken to refer to spatially distributed capacities to consume
+public and market goods, natural resources, and spending capacity (Sellers et al., 2017). Most
+of the existing body of literature focusses on economic measures of inequality – particularly
+inequality of incomes, or at a national level, inequality of gross domestic product. These
+measures provide us with some sense of equality of outcomes (although some would assert
+that equality of outcomes need to be measured over lifetimes, rather than at particular discrete
+moments in time), which are largely contingent on equality of opportunity (there is some
+reason to suppose that inequality of outcomes is mostly a symptom of inequality of
+opportunity; Stiglitz, 2013). Indeed, it is probably best to mostly focus on inequality of
+income as an indicator of inequality of opportunity given that it is not entirely clear that the
+former is either possible or desirable (as an end in itself) in a capitalist society. Arguably
+there should be different outcomes to reward effort, risk, and skills – to remove these
+variations in outcomes would be unjust (in a Natural Law sense; Messner, 1952) and would
+probably destroy the incentives that make most modern economies work. Instead, what would
+seem most important is to ensure equality of opportunity (certainly as a justice measure, in a
+Natural Law sense, but also for the efficient operation of the national economy) and this will
+be our primary focus.
+It is important to note that some dimensions of spatial equality exist prior to government, that
+other dimensions are amenable to mitigation through public policy, whilst yet others are the
+result of public policy. Take, for instance, the ability to consume natural resources. Initial
+resource endowments – such as fresh water – are largely given to us as a relatively fixed
+feature of geography; however lack of water can be mitigated by public spending (by
+building dams and other water infrastructure) or can be exacerbated as a consequence of
+restricting access to natural endowments (for example, the Murray-Darling water
+management scheme). In this regard, the term coined by Sellers et al. (2017, p. 9) – ‘regimes
+of place equality’ – is particularly useful as it draws attention to how ‘policies, governance
+strategies and institutions…either contribute to disparities in taxes, spending capacities and
+public services across...regions or mitigate or compensates for those disparities’. At the heart
+of their thesis is the assertion that inequality is not some sort of accident, but is largely the
+result of policies and institutions acting over long periods of time (see also, North, 1991).
+Otherwise stated ‘government sets and enforces the rules of the game…gives away
+resources…and through taxes and social expenditure, modifies the distribution of
+income…[and] alters the dynamics of wealth’ (Stiglitz, 2013, p. 38). Our focus will be on
+explicating how policies and institutions, mediated through political interactions, impact on
+equality in Australia.
+
+Page 2
+
+Regional Inequality in Australia
+Submission 17
+
+Generally research, both in Australia and abroad, has been focussed on inequality between
+urban regions – particularly with respect to the urban fringe – because this is where most
+people reside (see, Sellers et al. 2017). Moreover, political interest has also focussed mainly
+on the urban fringe ‘as outer electorate suburbs make or break governments’ (Beer, 1994, p.
+183). However, there is greater inequality in rural and regional areas in Australia. For
+instance, where the lead author resides on the North-Western slopes of NSW, most properties
+do not have access to running water, sewer service, or sealed roads. In addition access to
+basic services such as education, law enforcement, mail services, and health requires one to
+travel considerable distances. (indeed, one could be mistaken for thinking that the author
+lives in a third world country, rather than the electorate of the former Deputy Prime
+Minister), which isn’t the case for even the most deprived urban fringe resident (although
+there waiting times or service standards may be deemed to be less than satisfactory). To
+address this neglect in the literature we have taken a broad view of regional equality that
+specifically considers rural and remote areas.
+This paper seeks to cast light on inequality in Australia and propose innovative and
+efficacious solutions to the problem. In the next section we review some measures of income
+and wealth inequality which, as we note, are good indicators of broader inequality of
+opportunity. Thereafter, we detail some of the reasons why inequality matters. Following this
+we review, in greater detail, the source of inequality. We conclude by detailing some
+efficacious and innovative public policy interventions which might be expected to arrest and
+reduce levels of inequality in Australia.
+
+Page 3
+
+Regional Inequality in Australia
+Submission 17
+
+Indicators of Inequality
+The most robust and accessible indicators of inequality are those pertaining to income and
+wealth. As noted in the introduction these indicators do not directly relate to equality of
+outcomes, although there is good reason to suspect that equality of opportunity is positively
+and strongly associated with equality of outcomes (Stiglitz, 2013). This is because income
+and wealth are tied closely to political power which is the medium through which many
+institutions, and hence opportunities, are distributed (Acemoglou et al. 2002).
+Table 1 presents the Gini coefficients for twenty-six OECD nations in 2015 (all nations for
+which data was available in 2015 are included). The Gini coefficient is the area between a
+line of perfect equality and the Lorenz curve (which measures the cumulative fraction of the
+indicator being measured after first arraying households from lowest to highest). Essentially,
+the Gini coefficient operates on a scale from 0 (perfect equality) through to 1 (perfect
+inequality). Otherwise stated if X% of households received X% of the income throughout the
+distribution, then the Gini coefficient would be 0 – however, if all the income went to the top
+household then the Gini coefficient would be 1. According to Stiglitz (2013, p. 28) ‘more
+equal societies have Gini coefficients of .3 or below’. By this criteria Australia is not an
+‘equal society’ which probably stands in stark contrast to most people’s perceptions of our
+egalitarian nature. Moreover, when one looks at Table 1 it is clear that Australia generally
+does have a much higher level of inequality than most of the Nordic and former communist
+countries, in particular. There thus seems to be good grounds for asserting the need to
+introduce public policy remedies with respect to the matter of inequality.
+Table 1. Income Inequality OECD Nations, 2015.
+Countries with Low
+Inequality
+Slovenia
+Slovak Republic
+Czech Republic
+Finland
+Belgium
+Norway
+Austria
+Sweden
+Poland
+France
+Korea
+Netherlands
+Estonia
+Canada
+AUSTRALIA 2
+
+2
+
+0.25
+0.25
+0.26
+0.26
+0.27
+0.27
+0.28
+0.28
+0.29
+0.29
+0.29
+0.30
+0.33
+0.32
+0.337
+
+Countries with
+High Inequality
+Portugal
+Greece
+Spain
+Latvia
+Israel
+United Kingdom
+Lithuania
+United States
+Turkey
+Chile
+Costa Rica
+South Africa
+
+0.34
+0.34
+0.34
+0.35
+0.36
+0.36
+0.37
+0.39
+0.40
+0.45
+0.48
+0.62
+
+2014 figure – the 2015 figure is not available on the OECD site
+
+Page 4
+
+Regional Inequality in Australia
+Submission 17
+
+Source: OECD (2018) 3
+Income inequality, of course, is not constant over time and in Australia it seems that there is a
+good deal of variation from year to year (see Figure 1). Unfortunately, due to a change in
+methodology income inequality statistics for Australia can only be reliably compared from
+2007-08 onwards (although it can be noted that all of the years for which reliable
+comparative data is presented are above the 0.3 criteria for low inequality). However, it is
+clear that there is no downward trend that might give comfort that inequality is reducing over
+time (indeed there is no statistically significant trend at all). Similarly the P80/20 ratio (which
+measures the ratio of households at the 80th percentile relative to households at the 20th
+percentile – thus eliminating outliers and giving a better picture of where most Australian
+households might sit) also shows a good deal of variation and no clear trend (see Figure 2.).
+Figure 1. Income Gini Over Time, Australia
+0.340
+0.335
+0.330
+0.325
+0.320
+0.315
+0.310
+
+2007–08
+
+2009–10
+
+2011–12
+
+2013–14
+
+2015–16
+
+Source: Adapted from ABS (2018)
+
+3
+
+Consists of earnings, self-employment and capital income and public cash transfers; income taxes and social
+security contributions paid by households are deducted.
+
+Page 5
+
+Regional Inequality in Australia
+Submission 17
+
+Figure 2. Income P80/20 Over Time, Australia
+2.75
+2.70
+2.65
+2.60
+2.55
+2.50
+2.45
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Source: Adapted from ABS (2018)
+Another way of thinking about inequality is to examine the disparity in nett worth of
+households over time. Here we are able to use a much longer panel of data and it is clear that
+inequality in household wealth is at, what can only be described as, alarming levels (if we
+consider data in terms of the commonly espoused rule of thumb that the most unequal
+societies have Gini coefficients greater than 0.5; see Figure 3). This observation is brought
+into stark relief by the P80/20 household nett worth, which illustrates a difference in worth of
+over 12.3 times between the two specified percentiles. Indeed the P80/20 metric (which has
+the important attribute of stripping out the outliers and thus giving a more reliable picture of
+most people’s relative circumstances), suggests that the change in inequality has only
+occurred in one direction over the period, that is, toward greater inequality.
+Figure 3. Gini Household Nett Worth Over Time, Australia
+
+Page 6
+
+Regional Inequality in Australia
+Submission 17
+
+0.610
+0.600
+0.590
+0.580
+0.570
+0.560
+0.550
+
+2003–04
+
+2005–06
+
+2009–10
+
+2011–12
+
+2013–14
+
+2015–16
+
+Figure 4. P80/20 Household Nett Worth Over Time, Australia
+12.50
+12.00
+11.50
+11.00
+10.50
+10.00
+9.50
+
+2003–04
+
+2005–06
+
+2009–10
+
+2011–12
+
+2013–14
+
+2015–16
+
+Source: Adapted from ABS (2018)
+It is also important to see if inequality is distributed evenly across the states and territories of
+Australia. Table 2 presents the Median and Mean wage, P80/20 ratio, Gini coefficient, and
+the proportion of income accrued by the top 1% and 10% of households for income in the
+eight states and territories of Australia. It is important to note that the Gini here excludes
+Government pensions, allowances and other transfers and comparison to the earlier cited Gini
+gives a sense of how such transfers mitigate some of the income inequality in the nation.
+Table 2 suggests that households in the territories typically have higher incomes, and less
+inequality which stands in contrast to their state peers. This demonstrates that inequality is
+spatially distributed at the level of states and territories in Australia. Moreover, an
+examination of the same data at a ‘capital city and rest’ statistical level suggests that
+inequality is also distributed spatially within states. Table 3 presents data for each greater
+
+Page 7
+
+Regional Inequality in Australia
+Submission 17
+
+capital city and the rest of the state or territory to provide us with a sense of how income
+inequality manifests within these second tier governments. In each case typical wages are
+significantly higher in the capital cities, than for the rest of the state; however, inequality is
+mostly higher within ‘rest of state’ areas (especially when measured by the P80/20 ratio).
+This picture of inequality within Tier 2 governments is broadly consistent with the Tieboutian
+concept whereby persons are expected to sort themselves into more or less homogenous
+groups as they seek to match the tastes to the price that they are willing to pay (Grant and
+Drew, 2017). In Appendix A, we further disaggregate inequality data to the next regional
+level and in most cases the pattern holds (with notable exceptions for some mining and
+coastal regions).
+
+Table 2. Income Inequality, Australian States and Territories, 2015
+
+State/ Territory
+
+Median
+
+Mean
+
+P80/P20
+
+Gini
+
+Top 1%
+
+Top 10%
+
+Australia
+
+46,854
+
+61,036
+
+4.88
+
+0.482
+
+9.4
+
+33.8
+
+New South Wales
+
+46,879
+
+62,798
+
+4.93
+
+0.494
+
+10.8
+
+35.2
+
+Victoria
+
+45,930
+
+59,019
+
+4.70
+
+0.476
+
+9.5
+
+33.5
+
+Queensland
+
+46,052
+
+58,433
+
+4.74
+
+0.470
+
+8.2
+
+32.4
+
+South Australia
+
+45,445
+
+55,586
+
+4.45
+
+0.452
+
+7.9
+
+31.1
+
+Western Australia
+
+52,989
+
+70,354
+
+5.11
+
+0.481
+
+8.7
+
+33.5
+
+Tasmania
+
+43,067
+
+51,517
+
+4.54
+
+0.446
+
+7.3
+
+30.1
+
+Northern Territory
+Australian Capital
+Territory
+
+58,037
+
+67,910
+
+3.87
+
+0.414
+
+6.3
+
+28.6
+
+61,484
+
+70,807
+
+4.00
+
+0.416
+
+6.5
+
+28.4
+
+Other Territories
+
+67,780
+
+68,055
+
+5.09
+
+0.394
+
+3.8
+
+23.2
+
+Source: ABS (2018)
+Table 3. Capital City and Other Region Inequality, 2015
+
+Region
+
+Median
+
+Mean
+
+P80/P20
+
+Gini
+
+Top 1%
+
+Top 10%
+
+Greater Sydney
+
+49,571
+
+67,806
+
+4.81
+
+0.499
+
+11.7
+
+36.5
+
+Rest of NSW
+
+42,445
+
+52,933
+
+5.19
+
+0.472
+
+7.4
+
+31.4
+
+Greater Melbourne
+
+47,515
+
+61,785
+
+4.64
+
+0.478
+
+9.9
+
+34.1
+
+Rest of Vic.
+
+41,382
+
+50,116
+
+4.93
+
+0.461
+
+7.0
+
+30.6
+
+Greater Brisbane
+
+48,625
+
+61,578
+
+4.53
+
+0.465
+
+8.8
+
+32.7
+
+Rest of Qld
+
+43,689
+
+55,430
+
+4.92
+
+0.474
+
+7.4
+
+32.0
+
+Greater Adelaide
+
+46,581
+
+57,028
+
+4.32
+
+0.449
+
+8.2
+
+31.2
+
+Rest of SA
+
+41,378
+
+50,390
+
+5.00
+
+0.464
+
+6.5
+
+30.6
+
+Greater Perth
+
+53,640
+
+71,472
+
+5.01
+
+0.482
+
+9.1
+
+34.0
+
+Rest of WA
+
+50,264
+
+65,748
+
+5.55
+
+0.475
+
+6.4
+
+31.0
+
+Greater Hobart
+
+45,427
+
+54,569
+
+4.29
+
+0.440
+
+7.7
+
+30.3
+
+Page 8
+
+Regional Inequality in Australia
+Submission 17
+
+Rest of Tas.
+
+41,208
+
+49,015
+
+4.74
+
+0.450
+
+6.9
+
+29.9
+
+Greater Darwin
+
+60,572
+
+71,185
+
+3.74
+
+0.412
+
+6.5
+
+28.9
+
+Rest of NT
+Australian Capital
+Territory
+
+51,797
+
+59,232
+
+4.21
+
+0.411
+
+5.4
+
+26.9
+
+61,482
+
+70,804
+
+4.00
+
+0.416
+
+6.5
+
+28.4
+
+Other Territories
+
+69,841
+
+69,307
+
+5.08
+
+0.390
+
+3.7
+
+23.0
+
+Source: ABS (2018)
+In sum, relative to other nations Australia has modest levels of income inequality that would
+probably be a good deal worse except for the provision of government transfers. Incomes are
+typically higher in the ACT and capital cities, which are also the location for the bulk of
+Australia’s institutions, political electorates, and public servants. As one moves out to the
+geographical fringe incomes typically decrease, as does inequality (within the region) –
+suggesting that there is a degree of sorting involved in household location decisions. Rural
+areas typically have low incomes but mid-range levels of inequality that may be a
+consequence of rural estate legacies. In terms of wealth inequality, Australia has a
+disturbingly high Gini coefficient. Moreover the P80/20 ratio for nett household wealth
+shows that the trend has been ever upwards and that the difference between the two
+percentiles is a factor of over 12.3. As noted, robust and accessible statistics are not available
+for other aspects of inequality (such as access to public goods, market goods and ability to
+consume natural endowments). However, it is not unreasonable to suggest that the spatial
+distribution of these dimensions will follow the spatial distribution of income and wealth
+because opportunity is associated with spending capacity and political power (Acemglou et
+al. 2002; Pike et al. 2007; Stiglitz, 2013) whilst economic theory predicts that house
+valuations (a large part of Australian’s wealth) have imputed to them the standard and access
+of public services and some natural endowments (Ladd, 1998; Grant and Drew, 2017).
+Moreover, one should be mindful that access to many public goods and market goods on the
+urban fringe is within tolerable commuting range (and often accessible through public
+transport). Thus prima facie disparities between urban fringe and rural incomes, whilst being
+a reliable indicator of spending capacity, may fail to adequately convey disparities with
+respect to access to public goods (in particular) and market goods for these two groups.
+We now examine, in greater detail why inequality matters in order to better explain the
+importance of the indicators of inequality that we have detailed above.
+
+Page 9
+
+Regional Inequality in Australia
+Submission 17
+
+Why does Inequality Matter?
+There are strong economic justifications for preferring greater regional equality given that it
+reduces inefficient migration of capital and labour (Oates, 1999) and migration of labour, in
+particular, has implications for the cost of providing infrastructure (Beer, 1994), and other
+costs associated with housing supply and affordability. In addition, regional equality is also
+critical to the health of federations given that it is associated with reductions of wasteful
+lobbying and less opportunities for pork barrelling (Drew and Campbell, 2016), binds the
+federation together (Boadway and Shah, 2009) and reduces political conflict (Lecours and
+Beland, 2013). However, as laudable as these economic and federalism rationales are for
+regional equality, they fail to provide a persuasive moral justification for reducing regional
+inequality. It is only when we consider both the desirability of achieving equality of
+opportunity (which does have a ready moral justification in Natural Law 4) and the fact that
+the infrastructure, natural resources and institutions required for same are spatially
+distributed, that it becomes clear that a certain degree of equality at the regional level is
+indirectly required for a just society. Otherwise stated, unless regions have largely similar
+levels of equality in terms of infrastructure, access to institutions, and ability to consume
+natural resources, then it is hard to see how any two similar persons living in two distinct
+regions might be able to have similar equality of opportunity (notably equality of opportunity
+will still depend on other factors (which we detail below), what we are simply asserting here
+is that regional equality seems to be a pre-requisite for equality of opportunity – see Drew
+and Dollery, 2015).
+There are a number of other grounds for preferring lower levels of inequality between
+households, in a nation. For example, there is evidence that domestic market consumption is
+stronger where less inequality occurs, as are growth in small business (both of which arise
+from clearer definition of more homogenous markets) and economic growth more generally
+(although causality is an altogether more difficult matter to demonstrate; Biswas et al. 2017).
+Moreover, because a lot of inequality is caused by rent-seeking (an unproductive activity in
+which persons or businesses seek to receive surpluses that are greater than what might be
+received in a competitive market) and political capitalisation (turning hard capital into votes;
+Weingast et al. 1981; Drew and Dollery, 2017), inequality is economically inefficient (it also
+represents a sub-optimal use of human and natural resources). Indeed, it has been
+persuasively argued that inequality puts ‘democracy in peril’ (Stiglitz, 2013, p. 148) because
+if people perceive that inequality is being exacerbated by unequal voice and power then they
+will participate less in the political process, trust less in political leadership (and institutions
+and the media who report on same) and be more inclined to participate in civil disobedience
+(Stiglitz, 2013). The fact that only around 90 % of those who bother to register to vote
+actually turned out for the 2016 Federal election for nominally compulsory voting, and that a
+
+4
+
+Specifically Natural Law provides a moral case for dignity (the inherent right of persons to pursue their
+existential ends), whilst fostering the common good (the help accruing to persons through co-operation) (Drew
+and Grant, 2017).
+
+Page 10
+
+Regional Inequality in Australia
+Submission 17
+
+further 5% of those cast an informal vote, should be an alert to the likelihood that many
+Australian’s are feeling (and becoming) politically disenfranchised 5 (see, Tables 4 and 5).
+Table 4. Measures of Voter Disillusionment 2016 Federal Election - Turnout
+State/Territory
+New South Wales
+Victoria
+Queensland
+Western Australia
+South Australia
+Tasmania
+Australian Capital Territory
+Northern Territory
+
+Enrolment
+5084274
+3963992
+3074422
+1577215
+1183004
+373470
+282045
+133129
+
+Percentage
+Turnout
+91.49
+91.14
+91.17
+88.38
+91.81
+93.59
+92.16
+79.01
+
+Turnout
+4651399
+3612823
+2802951
+1394006
+1086171
+349549
+259927
+105190
+
+Source: Australian Electoral Commission (2016)
+Table 5. Measures of Voter Disillusionment 2016 Federal Election – Informal Votes
+State/Territory
+New South Wales
+Victoria
+Queensland
+Western Australia
+South Australia
+Tasmania
+Australian Capital Territory
+Northern Territory
+
+Formal Informal
+4364320
+287079
+3440654
+172169
+2671229
+131722
+1338337
+55669
+1040736
+45435
+335623
+13926
+252742
+7185
+97460
+7730
+
+Voter
+Turnout
+4651399
+3612823
+2802951
+1394006
+1086171
+349549
+259927
+105190
+
+Percent
+Informal
+6.17
+4.77
+4.7
+3.99
+4.18
+3.98
+2.76
+7.35
+
+Source: Australian Electoral Commission (2016)
+The effect of inequality on democracy is a vicious cycle – the more people feel unempowered the less they will trust and participate and hence the less they will be heard in the
+future. A similar vicious cycle occurs with respect to equality of opportunity and equality of
+outcomes. The less opportunity there is for moving up the inequality ladder, the less
+likelihood there is that persons in a position of power will fully appreciate the level of
+inequality that exists and hence the less likely it is that inequality will be addressed. This
+cycle probably explains the inequality of outcomes data that we briefly surveyed earlier, as
+well as the importance of addressing inequality of opportunity as soon as possible.
+
+5
+
+Another indication of political disenfranchisement is to make a survey of politicians from low socio-economic
+backgrounds, politicians from the ranks of the voting-aged youth, politicians from various minority groups, and
+compare this to the wider population.
+
+Page 11
+
+Regional Inequality in Australia
+Submission 17
+
+Sources of Inequality
+Inequality is principally the result of ‘long-term trajectories of policies and institutional
+development’ (Sellers et al., 2017, p. 271; see also, Acemoglou et al. 2002; Pike et al. 2007;
+Beer, 1994) and policies and institutions are arbitrated largely through the political process.
+Therefore if there is inequality at a regional level we can probably trace much of its source
+back to political inequality (Stiglitz, 2013; Acemoglou and Robinson, 2000).
+There are three main sources of inequality in political power in the Australian federation.
+First, because electoral boundaries are associated with population, and because population is
+concentrated in greater capital cities, it follows that there are more political representatives
+from greater capital cities in the two tiers of Australian parliaments, then there are from, for
+instance, rural and remote areas (Parliament of Australia, 2018). Second, due to the
+combination of geographically defined electoral boundaries and preferential voting systems
+the proportion of the votes that a party attracts (which can be considered a reflection of
+political preferences) is not reflected in the number of seats that the party receives in the
+lower house. For instance, in the 2016 Federal election the Greens (nationally) received
+around 10% of the vote, but received just 0.7% of the lower house seats; conversely the
+Liberal party attracted approximately 29% of the vote and initially received almost 39% of
+the seats (Australian Electoral Commission, 2016). When these two sources of inequality in
+political power are considered together it suggests that the political preferences of the voters
+who constitute regions are not being reflected in the make-up of the lower houses of
+Parliaments 6. Third, all Australians do not have equal access to Ministers. Constituents who
+live in the electorate of a Minister have greater access than those who do not; and a number
+of recent high profile cases have shown us that political donors and lobbyists have greater
+access to Ministers than regular constituents. Indeed, there is good reason to believe that
+foreign powers have greater access to Ministers and shadow-Ministers than the regular
+Australian constituent (ABC, 2017)! The point is that it may be one vote one value in
+rhetoric, but it is impossible to argue that it is one vote one value in actual fact – specifically,
+it is those at the top of the inequality ladder, who are likely to being wielding the greatest
+power in Australia’s political system, just as it is the top 1% that have the political power
+abroad (Stiglitz, 2013) 7.
+Most of the spatial manifestations of inequality – access to natural resources, access to
+infrastructure and institutions, access to non-public goods and services – have their origins, or
+could be mitigated, through the political process. We now consider each one in turn in order
+to provide a level of explication that is conducive to outlining specific and efficacious public
+policy remedies in our concluding section (which follows).
+As noted earlier, inequality can be seen in inequitable access to natural endowments (such as
+water, minerals, clean air; see Sellers et al. 2017; Acemoglou et al. 2002). Not only are
+6
+
+This is not the case for the Upper House so much (although federally it is constrained by state/territory
+geographic fragments), which probably explains the diversity of political parties in the Senate.
+7
+This does not take into account the coalition arrangements between the Liberal and National Parties which
+leads to greater consideration of the needs of some country electorates than is reflected in the voting patterns.
+
+Page 12
+
+Regional Inequality in Australia
+Submission 17
+
+natural resources spatially distributed, but the problem of unequal access is further
+compounded by policies that regulate the consumption of resources (for example, water
+controls, logging controls, bans on coal seam gas (CSG) extractions). The irony of the
+situation in Australia is that the political interests regulating the consumption of natural
+resources generally hail from regions far removed from where the effects of the constraint
+will bite. For instance, only one of the Green’s federal parliamentarians – who have a range
+of party policies constraining use of natural resources – lists their political office outside of
+Canberra or a Greater Capital City (Greens, 2018).
+Another aspect of inequality is unequal access to public goods and services. For example,
+infrastructure often varies by region and, as we have noted earlier, properties outside of towns
+in rural and remote areas generally do not have access to hard infrastructure such as town
+water, sewer services, and sealed roads. Also it is often the case that reliable grid electricity
+and telecommunications are not available to many rural and remote residents. Notably, all
+urban areas have access to this sort of infrastructure, including regions on the urban fringe
+which have previously captured most of the attention by those concerned about regional
+equality. Similarly, institutions are distributed spatially. Access to police, schools
+(particularly high schools), tertiary campuses, courts (particularly higher courts), hospitals,
+government aged care facilities and a host of other critical institutions are either not available
+within reasonable commuting distance (for rural and remote regions), or are available at a
+standard that is less than desirable (particularly for some urban fringe regions). This has
+obvious implications for consumption of many important public goods and services (Sellers
+et al. 2017), but also has oft overlooked implications for regional economies (Grant and
+Drew, 2017). We have already noted disparities in typical incomes which coincide with
+capital cities in each state and territory and the Australian Capital Territory (ACT). State and
+territory public servants are located in these capital cities, and the largest portion of federal
+public servants is located in the ACT (see Table 7). Public servants attract relatively good
+wages and security of employment that may not exist for many other sectors and decisions
+about where public servants are located therefore have significant impacts on local economies
+(for example, Table 7 provides details of a $7.3b contribution to the ACT economy through
+Federal public servant location choice). Moreover, because the funds to pay public servants
+are also derived from areas outside of the capital cities it essentially results in the export of
+capital from some rural and remote regions (especially where mining royalties and taxes go
+into consolidated revenues) to capital cities and the ACT (Grant and Drew, 2017).
+
+Page 13
+
+Regional Inequality in Australia
+Submission 17
+
+Table 7. Number and Salaries of Public Servants, Australia 2016-17.
+Employees
+
+New South Wales
+Victoria
+Queensland
+South Australia
+Western Australia
+Tasmania
+Northern Territory
+Australian Capital
+Territory
+Australia
+
+201617
+201617
+201617
+201617
+201617
+201617
+201617
+201617
+201617
+
+Cash wages and salaries
+
+Commonwealth
+government
+
+State
+government
+
+Commonwealth
+government
+
+State
+government
+
+'000
+
+'000
+
+$m
+
+$m
+
+53.4
+
+469.1
+
+4,582.8
+
+35,913.9
+
+46.3
+
+358.3
+
+3,948.9
+
+26,569.6
+
+28.6
+
+322.3
+
+2,284.0
+
+25,526.5
+
+14.8
+
+115.8
+
+1,284.5
+
+9,014.0
+
+12.3
+
+171.9
+
+948.4
+
+14,404.3
+
+5.2
+
+n/a
+
+406.4
+
+n/a
+
+4.1
+
+27.1
+
+319.4
+
+2,515.0
+
+75.0
+
+n/a
+
+7,299.1
+
+n/a
+
+239.8
+
+1,527.6
+
+21,073.4
+
+119,000.6
+
+Source: ABS, (2017).
+Access to markets is also spatially distributed, and hence opportunities to consume nonpublic goods. Specifically, a form of market failure associated with the size and density of
+population, means that it is often not economically viable to have a physical presence in
+many rural and remote communities. Lack of a physical presence can sometimes be mitigated
+through technology (if residents have access to reliable telecommunications), although there
+is a price to pay (in choice and consumer satisfaction, but also importantly in the cost to have
+the goods posted – and the cost required to pick up the goods (many rural communities do not
+receive postal services and have to travel to the nearest Post Office, which can be a
+considerable distance away, to pick up the goods despite the fact that they pay at least the
+same rate of freight as do residents in urban areas who receive delivery to their door 8).
+However, sometimes there can be no mitigation for market failure – where a physical
+presence is an absolute imperative (such as for Post Offices, and Banks (particularly for
+businesses that need to deposit or withdraw cash to facilitate transactions) – and residents are
+either left to travel hundreds of kilometres to consume essential services, or governments
+(generally local government) are forced to step in and operate (and hence bear the cost) of an
+economically inefficient business (see, for example, Drew and Campbell, 2016).
+One way that government redistributes income and wealth is through the taxation system and
+it is therefore important to briefly depart from our consideration of manifestations of spatial
+inequalities to also reflect on how taxation can mitigate or exacerbate regional inequality. A
+few examples will help explicate this point. For instance, take the Goods and Services Tax
+(GST) which is levied on fuel (and many other items). The tax per litre of fuel that is paid by
+8
+
+Australia Post, who has a monopoly in letter delivery and a very large footprint in parcel delivery is a wholly
+owned entity of the Australian federal government.
+
+Page 14
+
+Regional Inequality in Australia
+Submission 17
+
+persons varies considerably according to the region in which one buys the fuel (see Appendix
+B). Typically fuel in rural and remote areas costs considerably more than it does in urban
+areas (moreover, public transport in rural and remote areas is practically non-existent and vast
+distances must be travelled to do one’s shopping or take one’s children to school, hence
+relative consumption of fuel in rural and remote areas will typically be higher). Because the
+GST is levied on the purchase price, this means that persons living in some areas (particularly
+rural and regional areas) tend to pay a higher quantum of GST per litre of fuel, than do their
+fellow citizens in urban areas (it is important to note that this also varies on a state and
+territory basis). To further complicate matters and introduce more inequality, certain ‘offroad’ industries (agriculture and mining which seem to have converted political power into
+rents) receive credits for fuel tax excise, and most businesses can claim back GST inputs.
+Notably the situation relating to GST on fuel also relates to most goods that attract the tax –
+due to transport costs, market size, and market competition, prices for the majority of goods
+in rural and remote areas (when they are available) are generally higher, which means the tax
+paid for exactly the same item is often higher in rural and regional areas. Another example
+can be found in the exemptions (for the family home) and discounts on capital gains tax (50%
+for individuals) which essentially mean that persons who earn income through capital gains
+on the family home or speculation receive disproportionate nett gains. Once again, because
+income and wealth are spatially distributed – as is, critically, capital gains on the house
+values – regional inequality in the impost of taxation, and granting of exemptions and
+concession on taxation, follows. Further inequitable rates of taxation also become clear when
+one considers business (particularly owner-operator small business) relative to wage earners.
+In sum, the way taxation is levied in Australia results in spatial distribution of imposts (and
+taxation discounts and exemptions) so that the tax system ‘while nominally progressive, is
+much less progressive than it seems’ (Stiglitz, 2013, p. 343).
+It is also important to briefly reflect on the role of demographic spatial distributions on
+inequality. Population density, population growth, ethnic polarisation, socio-linguistic
+integration, age structure, education and welfare transfers are all spatially distributed and all
+have been identified as determinants of inequality (Rodriguez-Pose, 2013; Crenshaw, 2010;
+Breau, 2015). However, it is likely that there is a good deal of endogeneity between
+institutions and demographic spatial distributions; Rodriguez-Pose, 2013), as we have already
+alluded to. Moreover, there does not appear to be any empirical analysis of the determinants
+of inequality in an Australian context, and this is a significant gap in the literature that must
+be addressed if we are to understand regional inequality better in this country.
+
+Page 15
+
+Regional Inequality in Australia
+Submission 17
+
+Options
+Putnam (2000, p. 413) in his seminal analysis of the collapse and revival of American
+community calls for “social-capital impact statements” for new programs [that are] less
+bureaucratic and legalistic than environment impact statements have become, but equally
+effective at calling attention to unanticipated consequences’ as a mechanism to help reverse
+the trend of increasing disconnectedness from social structures. A similar case could be made
+for equality statements to be mandatory for major policy and institutional change – especially
+given the clear inequality in the Australian political system, evidence of less than satisfactory
+levels of inequality (which, in the case of wealth at least, appear to be at an alarming level),
+and the likelihood that extant inequalities in both will give rise to further exacerbation of
+inequalities of opportunity in the future 9. Requiring policy and institutional changes to be
+accompanied by an equality statement would focus attention on the problem and provide a
+level of transparency (and information) relating to decisions that is not currently available to
+citizens and the media. Moreover, explicit consideration of equality outcomes arising from
+policy and institutional change would provide an important counter-weight to the dominant
+form of political decision-making (business case analysis that will almost always be biased in
+favour of densely populated regions due to economies of size and density). The emphasis of
+such equality statements should be on equality of opportunity (because this is the most
+desirable end-state), although some attention must be given to equality of outcomes given the
+close links that it has to opportunity.
+Similarly an annual report on inequality in Australia 10, compiled by an appropriately
+resourced department (hopefully located in a region of inequality) tabled before Parliament
+on an annual basis would also serve to put the issue in the spotlight. Moreover, a requirement
+of this kind would hopefully result in more comprehensive and sophisticated metrics being
+collated and disseminated (for example, the ABS has advised that they do not keep metrics on
+the number of public servants and salaries, at a level lower than States/Territories). This
+would address the barriers that currently exist to conducting research, so that we can better
+understand the causes and potential solutions to higher than desired levels of inequality.
+The major sources of regional inequality, that we explicated on above, can also provide a
+good guide to some additional, more refined and targeted measures to address the problem
+(assuming we don’t wish to see rising, and indeed accelerated, inequality that would occur if
+we were to take a Tieboutian approach to the matter (do nothing and let people vote with
+their feet; Sellers et al., 2017)).
+Because a good deal of inequality arises as a result of inequality in political power (and
+moreover, because inequality is likely to have to be mitigated through a political means) it is
+important that priority be given to measures which might reduce political inequality (although
+we acknowledge that some of these measures would be difficult to implement). These are
+some speculative and hopefully provocative ideas. First, there is a clear case for publicly
+9
+
+Regional Impact statements have been used in some political jurisdictions.
+Which could be modelled on the National State of Cities reports or the State of the Environment reports
+
+10
+
+Page 16
+
+Regional Inequality in Australia
+Submission 17
+
+funded political campaigns to reduce the disproportionate power of political donors and
+lobbyists (Stiglitz, 2013). The rents extracted by these groups mean that the public ultimately
+pay for political donations in any case, so publicly funding political campaigns simply makes
+the real cost more transparent (and can cap the cost – which can’t currently be achieved
+because we don’t know the rate of return that political donors are getting on their
+investment). Secondly, we can further regulate the activities of lobbyists, and movements of
+politicians (particularly Ministers) into and out of lobbyist ranks (and the corporations that
+they represent). Third, we can encourage political parties to be more aware of inequalities in
+political representation by requiring that the aforementioned equality statement also includes
+a statement on the representativeness of our legislatures. Fourth, there is a clear need for an
+anti-corruption commission to be established at a federal level, and for the powers of
+Commissions in all jurisdictions to be commensurate with the seriousness of the problems
+(particularly rent-seeking). Other reforms, such as the need to ensure regional equality in how
+electorate boundaries are designed, removing preferential voting, or even moving to an at
+large system of representation (which would eliminate regional political inequality entirely)
+face substantial obstacles and probably will never be implemented (although it is easy to
+argue that they should be). The point is that we have to start somewhere and making changes
+to the funding of campaigns and parties, the power of lobbyists and drawing attention to
+inequality in representation is something that can be done to try to mitigate some of the large
+inequalities that currently pervade the Australian system of government.
+With respect to inequality, in the ability to consume natural resources, it would seem
+important to ensure that the burden of constraints are transparent (hence the need for equality
+statements) and internalised by all regions (especially where some regions push for
+constraints which effects would otherwise not be felt by them). Typically, in economics, it is
+argued that a Coasian solution is the most efficient way of dealing with such problems –
+specifically, in the absence of transaction costs, the most efficient outcome will result if
+parties can bargain to solve the problem of externalities. Because government can enforce
+bargains and has sufficient scale to minimise transaction costs, government is in the best
+position to find efficient solutions to constraints that they may wish or need to impose on
+rural and remote communities (in particular) in pursuit of national objectives.
+Inequitable infrastructure is also a problem that will benefit from transparency arising from
+inequality reporting. Few residents of urban areas are aware of the fact that their rural peers
+live mostly with worse infrastructure than many developing nations provide for their citizens
+(although most people know that infrastructure in remote areas is deplorable). Merely getting
+the issue into the spotlight will be a great advance on the current state of affairs (people in
+Sydney might be concerned less with their billion dollar sport stadium upgrades if they knew
+that a few hundred kilometres away residents didn’t have town water, sealed roads or sewer
+services). The infrastructure inequality can’t be addressed quickly (if at all) simply because
+the backlog is so great, however, improving the system of grants made to local government
+and state governments – which are supposed to facilitate horizontal fiscal equalisation but fall
+
+Page 17
+
+Regional Inequality in Australia
+Submission 17
+
+well short of this lofty goal due to flawed allocation models and legislation 11 – would be a
+significant step forward (see, for example Grant and Drew, 2017; Drew and Campbell, 2016;
+Drew and Dollery, 2015). It has also been suggested in the literature that decentralising
+government goods and service provision, combined with consolidation could also result in
+greater equality (see, for example Wei, 2015), although this is unlikely to be a practical
+solution given Australia’s Constitution.
+Similarly, inequitable access to critical institutions would have a spotlight cast on it, were
+annual reporting of regional inequality implemented. In some instances, institutions could be
+relocated to provide for more regional equity in access – although this would be viable in
+only a limited number of cases. Investment in technologies and changes to policies to allow
+people greater access services through technology, would help in some other instances.
+However, in most cases inequality in access to institutions can probably not be directly
+mitigated, certainly not in the short term. If this is the case, then some form of transfer from
+those who benefit disproportionally through access to institutions to those who are unable to
+access institutions would be one way of dealing with the problem.
+Inequitable access to market goods can also be partially addressed by ensuring that all
+Australians have access to reliable telecommunications. However, it would also seem to be
+important to ensure that freight charges are subsidised or regulated to reduce the deleterious
+effect on spending capacity when market failure dictates access of this kind. It is also critical
+that where lower tiers of government are forced to operate businesses to address market
+failure at a loss, that this burden is specifically addressed through additional allocations in
+horizontal fiscal equalisation inter-governmental grant transfers (present allocations only
+consider ‘standard’ costs for providing ‘regular’ local government services).
+The annual statement of inequality should also draw attention to how taxation imposts,
+concessions and exemptions are spatially distributed. Beyond increasing the level of
+transparency – which would do much to dispel the myth of progressive taxation –
+governments can also make changes to taxation policy to address extant inequality. Thus
+changes could be made to existing exemptions, rates of taxation and concessions, although
+these will all have implications for the economy (some of which would not be tenable). Better
+still, transfers can be made to try to equalise effective rates of taxation, or a combination of
+both approaches could be made. Specific attention should be paid to how the GST is spatially
+distributed and also how the fuel taxes are levied (especially on communities that do not have
+access to public transport). The important thing, once again, is to expose inequality in the
+taxation system, mitigate this wherever possible, and ensure that future policy changes do not
+exacerbate extant inequality.
+In summary, ‘every law, every regulation, every institutional arrangement has distributive
+consequences’ (Stiglitz 2013, p. 66). The first step in dealing with regional inequality is to
+admit that profound regional inequality does exist, to collect the data, and get the issue onto
+11
+
+The idea that some regions could catch up, when all regions get a minimum payment, defies simple logic.
+
+Page 18
+
+Regional Inequality in Australia
+Submission 17
+
+the political agenda (encapsulated in our plea for an annual regional inequality report).
+However, if we are to avoid the deleterious outcomes associated with ever increasing levels
+of inequality – housing affordability crises, inefficient use of human resources, inefficient
+migration of capital and labour, political disillusionment, destructive rent-seeking and civil
+disobedience – then the step must be taken.
+
+Page 19
+
+Regional Inequality in Australia
+Submission 17
+
+References
+Acemoglu, D., Johnson, S. and Robinson, J. (2002). Reversal of Fortune: Geography and
+Institutions in the Making of the Modern World Income Distribution. Quarterly Journal of
+Economics, 117(4): 1231 -1294.
+Acemoglu, D. and Robinson, J. (2000). Political Losers as a Barrier to Economic
+Development. American Economic Review, 90(2): 126-130.
+Australian Broadcasting Commission (ABC) (2017). Bill Shorten Calls for Parliamentary
+Inquiry Into Foreign Influence in Australian Politics.
+Australian Bureau of Statistics (ABS) (2018). Household Income and Wealth, Australia,
+2013-14.
+Australian Bureau of Statistics (ABS) (2018). National Regional Profile.
+Australian Bureau of Statistics (ABS) (2017). Employment and Earnings, Public Sector,
+Australia, 2016-17.
+Australian Electoral Commission (2016). Federal Election 2016 Tally Room. Available at:
+https://results.aec.gov.au/20499/Website/HouseDownloadsMenu-20499-Csv.htm
+Beer, A. (1994). Spatial Inequality and Locational Disadvantage: New Perspectives on an
+Old Debate. Urban Policy and Research, 12(3): 180-184.
+Biswas, S., Chakraborty, I. and Hai, R. (2017). Income Inequality, Tax Policy and Economic
+Growth. Economic Journal, 127: 688-727.
+Boadway, R and Shah, A. (2009). Fiscal Federalism – Principles and Practice of Multi-order
+Governance. Cambridge University Press, Cambridge.
+Breau, S. (2015). Rising Inequality in Canada: A Regional Perspective. Applied Geography,
+61: 58-69.
+Crenshaw, E. (2010). Socio-demographic Determinants of Economic Growth: Age, Structure,
+Preindustrial Heritage and Socio-Linguistic Integration. Social Forces, 88(5): 2217-2240.
+Drew, J. and Campbell, N. (2016). Autopsy of Municipal Failure: The Case of Central
+Darling Shire. Australasian Journal of Regional Science, 22(1): 81-104.
+Drew, J. and Dollery, B. (2015). Road to Ruin? Consistency, Transparency and Horizontal
+Equalisation of Road Grant Allocations in Eastern Mainland Australian States. Public
+Administration Quarterly, 39(3), pp. 517-545.
+Drew, J. and Dollery, B. (2017). The Price of Democracy? Political Representation Structure
+and Per Capita Expenditure in Victorian Local Government. Urban Affairs Review, 53(3):
+522-538.
+Fuel Check (2018). Fuel Check. Available at: https://www.fuelcheck.nsw.gov.au/app.
+Page 20
+
+Regional Inequality in Australia
+Submission 17
+
+Grant, B. and Drew, J. (2017). Local Government in Australia: History, Theory and Public
+Policy. Springer Palgrave, Singapore.
+Greens, The. (2018). Your Representatives: Contact. Available at: https://greens.org.au/mps;
+accessed, 20th April, 2018.
+Drew, J. and Grant, B. (2017). Subsidiarity: More Than a Principle of Decentralisation – A
+View from Local Government. Publius, 47(4): 522-545.
+Ladd, H. (1998). Local Government Tax and Land Use Policies in the US. Edward Elgar:
+Cheltenham.
+Lecours, A. and Beland, D. (2013). The Institutional Politics of Territorial Redistribution:
+Federalism and Equalization Policy in Australia and Canada. Canadian Journal of Political
+Science, March 2013, pp. 93-113.
+North, D. (1991). Institutions, Institutional Change and Economic Performance. Cambridge
+University Press: Cambridge.
+Oates, W. (1999). An Essay on Fiscal Federalism. Journal of Economic Literature, XXXVII
+September 1999, pp. 1120-1149.
+OECD (2018), Income inequality (indicator). doi: 10.1787/459aa7f1-en (Accessed on 16
+April 2018)
+Parliament of Australia. (2018). Members of Parliament. Available at:
+https://www.aph.gov.au/Senators_and_Members/Members.
+Pike, A., Rodriguez-Pose, A. and Tomaney, J. (2007). What Kind of Local and Regional
+Development and For Whom? Regional Studies, 41(9): 1253-1269.
+Putnam, R. (2000). Bowling Alone. Simon and Schulster: New York.
+Rodriguez-Pose, A. (2013). Do Institutions Matter for Regional Development? Regional
+Studies, 47(7): 1034-1047.
+Sellers, J., Arretche, M., Kubler, D. and Razin, E. (2017). Inequality and Governance in the
+Metropolis. Palgrave: London.
+Stiglitz, J. (2013). The Price of Inequality. Penguin: New York.
+Wei, Y. (2015). Spatiality of Regional Inequality. Applied Geography, 61: 1-10.
+Weingast, B., Shepsle, K., and Johnsen, C. (1981). The Political Economy of Benefits and
+Costs: A Neoclassical Approach to Distributive Politics. Journal of Political Economy, 89(4):
+642-664.
+
+Page 21
+
+Regional Inequality in Australia
+Submission 17
+
+Appendix A. Regional Inequality
+
+Region
+
+Median
+
+Mean
+
+P80/P20
+
+Gini
+
+Top 1%
+
+Top 10%
+
+Capital Region
+
+44,110
+
+54,054
+
+4.84
+
+0.457
+
+6.7
+
+30.2
+
+Central Coast
+
+43,677
+
+53,716
+
+4.72
+
+0.452
+
+7.1
+
+30.4
+
+Central West
+
+43,834
+
+54,112
+
+5.04
+
+0.465
+
+6.7
+
+30.5
+
+Coffs Harbour - Grafton
+
+37,017
+
+45,249
+
+5.51
+
+0.478
+
+7.5
+
+31.5
+
+Far West and Orana
+
+43,739
+
+51,765
+
+4.82
+
+0.468
+
+6.6
+
+29.7
+
+Hunter Valley exc Newcastle
+
+45,556
+
+58,769
+
+5.25
+
+0.473
+
+7.6
+
+31.5
+
+Illawarra
+
+46,554
+
+58,168
+
+5.15
+
+0.456
+
+6.5
+
+30.1
+
+Mid North Coast
+
+35,997
+
+44,288
+
+6.18
+
+0.489
+
+7.4
+
+32.0
+
+Murray
+
+42,086
+
+50,933
+
+4.90
+
+0.464
+
+7.6
+
+31.0
+
+New England and North West
+
+40,516
+
+48,321
+
+5.41
+
+0.495
+
+8.0
+
+31.9
+
+Newcastle and Lake Macquarie
+
+47,165
+
+58,968
+
+5.01
+
+0.462
+
+7.5
+
+31.3
+
+Richmond - Tweed
+
+37,275
+
+46,738
+
+5.25
+
+0.483
+
+8.3
+
+32.7
+
+Riverina
+
+44,408
+
+52,356
+
+4.41
+
+0.441
+
+6.8
+
+29.4
+
+Southern Highlands and Shoalhaven
+
+38,935
+
+50,939
+
+5.40
+
+0.493
+
+9.2
+
+33.9
+
+Sydney - Baulkham Hills and Hawkesbury
+
+51,858
+
+70,368
+
+5.40
+
+0.498
+
+9.8
+
+34.8
+
+Sydney - Blacktown
+
+49,089
+
+54,354
+
+3.86
+
+0.389
+
+4.7
+
+25.5
+
+Sydney - City and Inner South
+
+52,586
+
+72,791
+
+5.24
+
+0.508
+
+12.5
+
+37.0
+
+Sydney - Eastern Suburbs
+
+59,999
+
+99,522
+
+5.61
+
+0.581
+
+17.4
+
+45.7
+
+Sydney - Inner South West
+
+43,307
+
+53,375
+
+4.50
+
+0.450
+
+7.2
+
+30.5
+
+Sydney - Inner West
+
+53,105
+
+74,345
+
+5.28
+
+0.505
+
+10.4
+
+36.4
+
+Sydney - North Sydney and Hornsby
+
+60,040
+
+98,675
+
+6.50
+
+0.575
+
+14.7
+
+43.7
+
+Sydney - Northern Beaches
+
+53,061
+
+82,046
+
+5.55
+
+0.545
+
+13.5
+
+40.9
+
+Sydney - Outer South West
+
+49,375
+
+56,337
+
+3.88
+
+0.400
+
+5.5
+
+26.7
+
+Sydney - Outer West and Blue Mountains
+
+49,470
+
+56,820
+
+4.11
+
+0.410
+
+5.8
+
+27.1
+
+Sydney - Parramatta
+
+44,029
+
+52,343
+
+4.57
+
+0.434
+
+5.7
+
+28.5
+
+Sydney - Ryde
+
+50,837
+
+71,573
+
+5.76
+
+0.519
+
+11.2
+
+37.1
+
+Sydney - South West
+
+45,075
+
+51,510
+
+3.95
+
+0.404
+
+5.4
+
+26.9
+
+Sydney - Sutherland
+
+52,884
+
+69,158
+
+4.79
+
+0.475
+
+9.3
+
+33.5
+
+Ballarat
+
+42,208
+
+50,393
+
+4.74
+
+0.453
+
+7.3
+
+30.1
+
+Bendigo
+
+42,223
+
+50,450
+
+4.89
+
+0.453
+
+6.9
+
+30.1
+
+Geelong
+
+44,113
+
+55,327
+
+4.90
+
+0.466
+
+8.0
+
+31.9
+
+Hume
+
+41,140
+
+48,008
+
+4.72
+
+0.445
+
+6.4
+
+28.9
+
+Latrobe - Gippsland
+
+40,298
+
+51,015
+
+5.28
+
+0.475
+
+6.5
+
+31.7
+
+Melbourne - Inner
+
+54,176
+
+76,349
+
+5.09
+
+0.515
+
+13.1
+
+38.3
+
+Melbourne - Inner East
+
+49,512
+
+76,902
+
+6.40
+
+0.557
+
+12.7
+
+41.0
+
+Melbourne - Inner South
+
+53,035
+
+77,958
+
+5.45
+
+0.529
+
+12.2
+
+39.1
+
+Melbourne - North East
+
+46,982
+
+56,915
+
+4.37
+
+0.440
+
+7.1
+
+30.0
+
+Melbourne - North West
+
+45,421
+
+53,652
+
+4.24
+
+0.428
+
+6.2
+
+28.7
+
+Melbourne - Outer East
+
+46,139
+
+55,815
+
+4.56
+
+0.444
+
+6.7
+
+29.9
+
+Melbourne - South East
+
+43,878
+
+51,562
+
+4.27
+
+0.430
+
+6.4
+
+29.0
+
+Melbourne - West
+
+46,964
+
+53,989
+
+4.07
+
+0.411
+
+5.5
+
+27.4
+
+Mornington Peninsula
+
+43,979
+
+54,752
+
+4.51
+
+0.460
+
+8.3
+
+31.9
+
+North West
+
+39,202
+
+45,080
+
+5.09
+
+0.464
+
+6.1
+
+29.4
+
+Shepparton
+
+40,160
+
+46,874
+
+4.73
+
+0.453
+
+6.7
+
+29.4
+
+Warrnambool and South West
+
+40,448
+
+48,236
+
+4.89
+
+0.457
+
+6.7
+
+29.9
+
+Brisbane - East
+
+49,737
+
+61,800
+
+4.40
+
+0.449
+
+7.4
+
+31.2
+
+Brisbane - North
+
+51,527
+
+61,506
+
+4.34
+
+0.432
+
+6.5
+
+29.3
+
+Brisbane - South
+
+47,443
+
+59,862
+
+4.95
+
+0.467
+
+8.0
+
+32.1
+
+Brisbane - West
+
+53,307
+
+74,611
+
+5.76
+
+0.520
+
+10.8
+
+37.3
+
+Page 22
+
+Regional Inequality in Australia
+Submission 17
+
+Brisbane Inner City
+
+55,557
+
+82,994
+
+5.48
+
+0.533
+
+12.3
+
+39.8
+
+Cairns
+
+42,343
+
+51,684
+
+4.59
+
+0.451
+
+6.7
+
+30.5
+
+Darling Downs - Maranoa
+
+39,272
+
+46,708
+
+5.56
+
+0.504
+
+7.0
+
+31.6
+
+Central Queensland
+
+52,917
+
+69,029
+
+5.48
+
+0.476
+
+6.4
+
+30.9
+
+Gold Coast
+
+42,720
+
+54,948
+
+4.50
+
+0.471
+
+8.8
+
+33.1
+
+Ipswich
+
+46,527
+
+52,011
+
+3.99
+
+0.404
+
+5.2
+
+26.5
+
+Logan - Beaudesert
+
+45,567
+
+51,340
+
+3.80
+
+0.400
+
+5.2
+
+26.7
+
+Mackay - Isaac - Whitsunday
+
+51,214
+
+66,298
+
+5.33
+
+0.465
+
+6.0
+
+30.0
+
+Moreton Bay - North
+
+42,981
+
+50,763
+
+4.55
+
+0.440
+
+6.2
+
+29.4
+
+Moreton Bay - South
+
+50,772
+
+60,132
+
+4.17
+
+0.428
+
+6.2
+
+29.1
+
+Queensland - Outback
+
+47,846
+
+57,715
+
+5.19
+
+0.487
+
+6.2
+
+29.6
+
+Sunshine Coast
+
+40,014
+
+52,565
+
+5.29
+
+0.489
+
+8.2
+
+33.7
+
+Toowoomba
+
+45,425
+
+54,194
+
+4.59
+
+0.447
+
+6.9
+
+29.9
+
+Townsville
+
+50,066
+
+58,597
+
+4.16
+
+0.426
+
+6.3
+
+28.5
+
+Wide Bay
+
+37,111
+
+45,701
+
+5.93
+
+0.487
+
+6.7
+
+31.6
+
+Adelaide - Central and Hills
+
+49,857
+
+69,319
+
+5.14
+
+0.508
+
+10.6
+
+37.0
+
+Adelaide - North
+
+45,038
+
+49,772
+
+3.80
+
+0.393
+
+5.0
+
+25.8
+
+Adelaide - South
+
+46,411
+
+55,513
+
+4.34
+
+0.438
+
+7.1
+
+29.8
+
+Adelaide - West
+
+46,216
+
+54,567
+
+4.23
+
+0.427
+
+6.5
+
+28.9
+
+Barossa - Yorke - Mid North
+
+42,397
+
+52,049
+
+4.95
+
+0.467
+
+7.0
+
+31.2
+
+South Australia - Outback
+
+48,334
+
+59,080
+
+4.95
+
+0.447
+
+5.3
+
+28.7
+
+South Australia - South East
+
+38,594
+
+45,709
+
+4.97
+
+0.463
+
+6.8
+
+30.4
+
+Bunbury
+
+46,024
+
+61,680
+
+5.60
+
+0.485
+
+7.0
+
+32.0
+
+Mandurah
+
+48,157
+
+66,356
+
+6.23
+
+0.491
+
+6.9
+
+32.2
+
+Perth - Inner
+
+61,685
+
+104,690
+
+7.07
+
+0.582
+
+13.4
+
+44.1
+
+Perth - North East
+
+52,743
+
+63,991
+
+4.41
+
+0.438
+
+6.3
+
+29.6
+
+Perth - North West
+
+53,500
+
+68,776
+
+4.77
+
+0.462
+
+7.5
+
+32.0
+
+Perth - South East
+
+51,806
+
+64,772
+
+4.72
+
+0.454
+
+7.1
+
+31.2
+
+Perth - South West
+
+55,180
+
+72,751
+
+5.16
+
+0.477
+
+8.1
+
+32.9
+
+Western Australia - Wheat Belt
+
+45,573
+
+60,348
+
+5.58
+
+0.493
+
+6.8
+
+33.0
+
+Western Australia - Outback (North)
+
+70,392
+
+84,374
+
+5.13
+
+0.434
+
+5.3
+
+27.4
+
+Western Australia - Outback (South)
+
+52,825
+
+66,098
+
+5.18
+
+0.453
+
+5.9
+
+28.9
+
+Hobart
+
+45,427
+
+54,569
+
+4.29
+
+0.440
+
+7.7
+
+30.3
+
+Launceston and North East
+
+41,811
+
+50,065
+
+4.56
+
+0.451
+
+7.3
+
+30.4
+
+South East
+
+36,927
+
+44,407
+
+5.32
+
+0.474
+
+7.5
+
+31.2
+
+West and North West
+
+41,816
+
+49,216
+
+4.78
+
+0.440
+
+6.2
+
+28.7
+
+Darwin
+
+60,572
+
+71,185
+
+3.74
+
+0.412
+
+6.5
+
+28.9
+
+Northern Territory - Outback
+
+51,797
+
+59,232
+
+4.21
+
+0.411
+
+5.4
+
+26.9
+
+Australian Capital Territory
+
+61,482
+
+70,804
+
+4.00
+
+0.416
+
+6.5
+
+28.4
+
+Other Territories
+
+69,841
+
+69,307
+
+5.08
+
+0.390
+
+3.7
+
+23.0
+
+Source: ABS (2018)
+
+Page 23
+
+Regional Inequality in Australia
+Submission 17
+
+Appendix B
+At 1100 on the 18th of April, Fuel Check reported the following price for Unleaded 91 fuel at
+Caltex fuel stations:
+Table 6. Fuel Price Survey New South Wales, 2018.
+Suburb
+Price (cents)
+Wentworth (median 141.9
+weekly household
+income $2,380; near
+Sydney)
+Tamworth (median
+149.9
+weekly household
+income $1,180; rural
+NSW area)
+Source: Fuel Check (2018)
+
+Suburb
+Cobar (median
+weekly household
+income $1,495;
+remote rural NSW)
+Seven Hills (median
+weekly household
+income $1,551; near
+Sydney)
+
+Price (cents)
+147.9
+
+139.9
+
+Page 24
+
+

@@ -1,0 +1,1357 @@
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+SUBMISSION
+
+Productivity Commission Study into
+Transitioning Regional Economies
+Release Date: v20170214r1038
+Status: Final
+
+Contacts for Further Comment:
+Cr Lynne Craigie
+Chair, Pilbara Regional Council
+
+Mr Anthony Friday
+Chief Executive Officer, Pilbara Regional Council
+
+Image source: Pilbara Ports Authority
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+TABLE OF CONTENTS
+TABLE OF CONTENTS ............................................................................................................................................... 2
+1.
+
+EXECUTIVE SUMMARY ....................................................................................................................................... 3
+
+2. GLOBAL TRENDS AND OPPORTUNITIES .......................................................................................................... 4
+2.1. The Asian Century ............................................................................................................................................ 4
+2.2. Population Growth and Food Shortage............................................................................................................ 4
+3. RESTRICTIONS ON GROWTH AND CHALLENGES ........................................................................................... 5
+3.1. General ............................................................................................................................................................. 5
+3.2. The Cost of Flights and FIFO Exemptions ........................................................................................................ 5
+3.3. The Competitive Investment Environment ....................................................................................................... 8
+3.4. Old Attitudes and The Protein Trip ................................................................................................................ 10
+3.5. The Challenge of Managing a Commonwealth and State Agenda ................................................................ 11
+3.6. Population Size Catch 22 and the Road to Success ....................................................................................... 12
+3.7. Telecommunications Sub-Sea Connections ................................................................................................... 13
+4. KEY REFORM PROPOSALS ............................................................................................................................... 15
+4.1. General ........................................................................................................................................................... 15
+4.2. Modification of Commonwealth Tax Incentives for FIFO Arrangements ....................................................... 15
+4.3. Designated Area Migration Agreement ......................................................................................................... 17
+4.4. Pilbara Enterprise Zone................................................................................................................................... 18
+4.5. Northern Australia Minister in the WA Cabinet .............................................................................................. 20
+4.6. Infrastructure Spending on the Pastoral Industry ........................................................................................... 22
+4.7. Water for Investment ...................................................................................................................................... 23
+4.8. Sealing of Strategic Roads Based on Importance, Not Population ................................................................ 24
+4.9. Sub-sea Cable Capacity Increase and NBN Review ....................................................................................... 25
+5. CONCLUSION ................................................................................................................................................... 27
+5.1. General ........................................................................................................................................................... 27
+6. Appendix ........................................................................................................................................................... 28
+6.1. Appendix A: Overview of Recommendations ................................................................................................ 28
+6.2. Appendix B: Overview of Metrics ................................................................................................................... 30
+
+Page 2 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+1.
+
+EXECUTIVE SUMMARY
+
+The Pilbara is undoubtedly at the epicentre of Australia’s resources investment boom.1 In terms of iron ore,
+Australia accounts for 30% of global production. Of that, 94% comes from the Pilbara, a region which now also
+boasts 70% of Australia’s natural gas. The value can be measured as 17% of Australia’s Gross Domestic Product
+(GDP), more than 1.5 times the GDP of New Zealand and higher than 117 of the world’s 184 countries.
+Before the State Government’s Royalties for Regions was implemented in 2008, most of this value was literally
+extracted from the ground and shipped to Canberra or Perth, a great chasm between wealth creation and
+settlement growth.2 Investments by the State Government through this program have redirected that value to the
+Pilbara, however due to the effect of the Goods and Service Tax (GST) on the Western Australian economy and
+government budget, the region still does not receive an investment commensurate with the wealth it generates.
+Gross Regional Product per capita for the Pilbara is $450,000 - a full 6 times more than the Gross Domestic
+Product per capital of $74,000. If the Pilbara received 6 times more investment per person than the average
+Australian, many of the issues facing the Pilbara would disappear overnight.
+This ‘net value drain’ is complemented by a confusing web of government priorities which often have the effect of
+giving with the left hand and taking with the right. The clearest example of this is the Fringe Benefits Tax
+exemption for fly-in-fly-out arrangements (FIFO). On the one hand, both state and federal governments invest in
+Pilbara programs and infrastructure to increase the liveability of the region, and on the other hand they provide
+mining companies with a tax exemption which puts upward pressure on flights for residents, preventing them
+from travelling to Perth.
+The Pilbara Regional Council has made the case over the last decade for significant reform to unlock the potential
+of the Pilbara. Not tinkering around the edges, but rather willingness to engage in step-change reforms that
+break the mould and provide business with incentives to flourish in our region. This has included advocating for a
+Designated Area Migration Agreement, the creation of a Pilbara Enterprise Zone around an approved Lumsden
+Point, a Minister for Northern Australia in the WA Cabinet and industry-unleashing infrastructure such as a world
+class abattoir. Each proposal would significantly benefit the region, and allow its economy to properly diversify.
+The Pilbara Development Commission’s Investment Blueprint puts diversification front and centre, and rightly so.
+It is the only true path to sustainable, fully transitioned regional economies. Iron ore and Liquid Natural Gas will
+define the Australian trade landscape and the Pilbara’s contribution to the national economy for decades to come.
+However the true test of the region will be whether other industries such as those from the agriculture, pastoral,
+aquaculture and tourism sectors will be able to spread their wings and grow, and whether the shadow of their
+older brother - the mining sector - will help or hinder that growth.
+Ironically, there need not be completion. A flourishing tourism sector brings local growth, and broader small-tomedium-size business base; a more sustainable community. This benefits all. A Pilbara Enterprise Zone would be
+an innovative new structure in the Australian context - if not internationally - and bring businesses and prestige to
+the region. This too benefits all. If the Productivity Commission wishes to understand some of the challenges of
+transitioning regional economies from the mining investment boom to a more sustainable and diversified
+economic base, it need look no further than the Pilbara. Nowhere else in Australia has the investment been as
+significant, and nowhere else in Australia has the resulting export produced more return on investment.3
+There is however, much more to life than ore, and we welcome the Treasurer’s commitment to seeking the best
+possible research and data on how best to assist regional economies diversify and stabilise.
+
+1
+
+Paul Cleary. (2011). Too Much Luck: The Mining Boom and Australia's Future. Collingwood, Victoria: Black Inc., Schwartz Media. 28.
+Anthony S. Travis. (2011). Planning for Tourism, Leisure and Sustainability: International Case Studies. Wallingford, Oxfordshire: CAB
+International Books. 37.
+3
+A.M. Dockery in Martin Bruechner, Angela Durey, Robyn Mayes and Christof Pforr. (2014). Resource Curse or Cure?: On the Sustainability of
+Development in Western Australia. New York, New York: Springer Heidelberg. 78.
+2
+
+Page 3 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+2.
+
+GLOBAL TRENDS AND OPPORTUNITIES
+
+2.1.
+
+The Asian Century
+
+The Northern Australia White Paper and the Australia in the Asian Century White Paper both reconcile themselves
+with the relevant trends that are currently growing and will dominate the next 100 years, and so must the Pilbara.
+The relevance of these documents to this submission is the call in them to see the full story of growth, and
+respond with a whole-of-Australia approach.4 For the Pilbara, we have realised the natural resources available to
+us, and the demand this growing region of the world has for them. In the case of iron ore, the urbanisation of
+Asian powers has led to an increasing demand for steel, providing a wave upon which that industry rides.
+In the case of liquid natural gas (LNG), the global requirement to grow and to do so sustainably with regards
+environmental emissions means a trend of Asian powers searching for new energy sources. Catastrophic weather
+events leading to challenges with nuclear energy production for example has led to a massive expansion in LNG
+to Japan, at the same time as European economies have been searching for more stable sources of energy given
+geostrategic instability over Russian expansionary ambitions. In all of these cases, global trends and Australian
+resources have aligned and produced significant economic benefit for Australia.
+However the challenge will be to change our mindsets, and understand that a growing middle-class in Asia
+doesn’t just mean more demand for energy and resources. A middle-class demands higher quality food, desires
+better education for their children, engages more with the online marketplace and becomes more sophisticated
+with its wealth generation strategies. A middle-class also has disposable income and a desire to travel.
+If we are wise - and the evidence is that we can be - we will quickly realise that regional Australia, especially
+northern Australia and the Pilbara, is perfectly positioned to stake a claim at the heart of the Asian century. If we
+address the challenges faced by regions like the Pilbara that stem from a struggle to properly transition from
+dependence on mining investment to a more sustainable and diversified economic base, we will be able ride yet
+another wave of growth associated with the export of new goods and services.
+High-quality and counter-seasonal food could be grown by a multi-national company in both Asia and the Pilbara,
+increasing the sustainability of the product. Products produced by small businesses connected to the internet and
+supported by strong freight capacity could be sold into thriving Asian population centres. Sophisticated
+investment facilitation into a diverse portfolio of emerging industries could lead to a wave of investment, at a time
+where Asian investors are looking for ‘safe’ markets to store their capital. Our mentality must shift.
+
+2.2.
+
+Population Growth and Food Shortage
+
+A growing population in Asia, especially in Indonesia will mean a predicted inability to produce enough protein to
+feed its people. As populations grow across Asia - and the rest of the world - the availability of farming land in
+proportion to mouths needing feeding will require countries to look outside of their own borders to proximate
+markets with complementary capacity. They simply do not have the physical space required to grow.
+Northern Australia has that capacity. It has an abundance of sun, land and water. It is counter-seasonal to most of
+Asia, meaning product grown part of the year in Asia could be grown the rest of the year in Australia. It is a
+trusted name in quality food and export product, and thanks to the mining investment and construction boom, is
+both a known quantity amongst major Asian import corporations and government leaders.
+This will allow regional Australians in the north to market themselves as a new investment destination for the
+production of vast quantities of food. The realisation of this fact has been far too slow. Government and industry
+have so far failed to properly grasp the enormity of the trend.
+4
+
+Australian Government. (2013). Australia in the Asian Century White Paper.
+
+Page 4 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+3.
+
+RESTRICTIONS ON GROWTH AND CHALLENGES
+
+3.1.
+
+General
+
+As mentioned in this submission’s opening statements, quite often the Pilbara Regional Council encounters
+scenarios whereby one government or department provides an incentive that negates the efforts of another
+government or department. This leads to concern amongst regional communities leaders that a lack of
+coordination and/or statesmanship will lead to a lot of talk of progress, but none of the actual thing. This is
+especially since this issue appears with the backdrop of GST revenue flowing east whilst strategies shill the north.
+Tax incentives drain the regional economy at the same time as investments pour in. The world embraces change
+and innovates whilst old thinking and slow-to-react government means much of the benefit passes us by.
+The Commonwealth identifies a future for the north and provides funds, and it all goes to Queensland because
+the Government of Western Australia hasn’t done the necessary planning to meet the challenge of the north.
+We need to get our game together.
+The Pilbara Regional Council is willing to put a shoulder to the wheel in this regard by outlining challenges and
+proposing reforms. Below are several examples of these restrictions on growth, as well as several other
+challenges faced by regional economies seeking to transition away from dependence on the mining investment
+boom to a more sustainable and diversified economic base.
+
+3.2.
+
+The Cost of Flights and FIFO Exemptions
+
+The Pilbara suffers significant constraint on economic growth due to the high cost of regional air access. Flight
+premiums are an economic handbrake on economic growth and a direct risk to the value and objectives of
+government investment in regional development.
+There are significant per kilometre differences in comparable routes between the east and west coasts of
+Australia. Prices are not set by free market forces, but are ‘rigged’ by a federal tax regime that fails to offer
+consistency across industries and cares little for the environmental impact of incentivising fly-in-fly-out (FIFO)
+workforce practices. An analysis of the emissions generated by this model would yield very interesting results.
+These Commonwealth Government tax incentives perpetuate the use FIFO workforces for construction of new
+mining facilities, despite several Federal and State inquiries clearly indicating the detrimental effect of these work
+practices on both workers and host communities. Much is being done to encourage workers to relocate to the
+region, but Government has been reluctant to pursue vigorous policy to underpin these initiatives. And just as the
+Commonwealth Government has now reached a sensible policy around its ‘60kms rule’, the State Government in
+WA has rejected the Commonwealth’s view, and we find ourselves right back where we started.
+The removal of the zone tax rebate is at best a minor irritant to the workers employed under a FIFO regime, and
+fails to impacts the companies themselves in the slightest. A considerably more effective mechanism is the
+modification of the fringe benefits tax exemption granted to miners for the underwritten transportation from their
+home community to the place of work.
+In the case of John Holland Pty Ltd v Commissioner of Taxation [2015] FCAFC 82 (11 June 2015), flying workers
+from Perth to Geraldton was determined to be non-remote, forcing John Holland to rely on the ‘otherwise
+deductible’ rule in subsection 52(1) of the FBTAA, which allows the employer who pays the cost of transport to
+reduce their own tax burden if the employee would have been able to claim the travel as a deduction.5
+
+5
+
+John Holland Pty Ltd v Commissioner of Taxation [2015] FCAFC 82 (11 June 2015)
+
+Page 5 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+To the letter of the law, this relies on the ‘place of work’ being Perth Domestic Airport. If it is, then travel to a
+remote mine site through a regional airport on a domestic flight, and then bussing those workers from town to the
+site is all completely tax free. It’s a loophole so big you could fly a half-full plane of FIFO workers through it.
+This is a loophole, and at some point in the future as Karratha and Port Hedland grow according to the Pilbara
+Cities vision, their status as ‘remote’ will cease to be legitimate. At that point, all companies relying on fly-in-flyout arrangements will need to do as John Holland did, and ensure that employee contracts stipulate that their
+entire workforce is employed at the Perth Airport, and that travel to Newman, Tom Price, Onslow, Port Hedland
+and Karratha is all during the course of their work.
+Disingenuous arguments that the place of work starts at the airport are little more than tax avoidance measures,
+and should be treated as such.
+Successive State Governments have invested billions in public funds with the express purpose of providing
+regions like the Pilbara with modern infrastructure, a more diverse economy and greater access to markets as
+enablers of economic growth and service delivery. Despite a downturn in the economy due to falling commodity
+prices, flights between Perth and the Pilbara are regularly run by the airlines at 60% capacity.
+This is due to the distorting effect of fly-in-fly-out workforces, whose travel costs are paid by resource companies
+who derive a tax incentive from this staffing model. The effect of artificially high flight costs renders these halfempty regional flights economically viable for the airlines, whilst being inaccessible to residents, tourists and small
+businesses.
+In short, residents need flights to be cheap but don’t mind if they aren’t regular, and miners need flights to be
+regular and don’t mind if they aren’t cheap, because they pay no FBT tax on them.
+If free market forces were at play, demand and supply for seats would dictate that the price would either fall to fill
+additional seats, or that the number of flights would fall to remove excess capacity. Regular but half empty flights
+serve the interests of the major resource companies, who given the overall cost-benefit analysis of flying their
+workforce into the region, have determined paying higher fares is acceptable as long as they have access to
+regular flights. It is this distortion of standard economic principles that is in effect punishing Pilbara residents for
+their vast natural resources and enormous contribution to the Australia’s economy.
+Meanwhile through programs like Royalties for Regions, significant public funds have been invested in regions like
+the Pilbara with the purpose of ‘developing Western Australia's regional areas into strong and vibrant regional
+communities that are desirable places to live, work and invest.’ Improving services, attaining sustainability,
+expanding opportunity and growing prosperity are just some of the key objectives, yet the effect of demanddistorted airways limits the effectiveness of these objectives by restricting access to markets and slowing tourism.
+The ‘Cancer of the Bush’ inquiry of 20136 summarised the FBT legislation’s intentions as:
+FBT is applied when an employer provides a benefit for private use, for example, the use of a work vehicle for private purposes. The
+FBT was introduced in 1986 to capture as taxable income the non-monetary remuneration of employees. Employers rather than
+employees are subject to the tax. In populous areas where there is reasonable competitive market supply, FBT meets its intended
+outcomes.7
+
+A submission by the City of Greater Geraldton described this regime of concessions as below:
+
+6
+Australian Government. (2013). Joint Committee on Northern Australia, Cancer of the bush or salvation for our cities? Fly-in, fly-out and drivein, drive-out workforce practices in Regional Australia.
+7
+Fringe Benefits Taxation Assessment Act 1986 (Cth)
+
+Page 6 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+The provision of the camps, services and air travel is all a deductable expense for the mining companies. This effectively means the
+Government is subsidising to the tune of billions of dollars per annum a system which is anti-regional by nature.8
+
+The unintended side-effects of the full exemption are that flight costs nearly double from other similar flights from
+capital cities like Sydney to regional centres like Mackay. These side-effects cause residents to have to endure
+high costs to travel for business or family reasons to and from their home, much like housing costs that increase
+due to the distortion of the market. The Committee described the effect as:
+By providing a specific exemption for FIFO workers in the FBT Act, the Government has enshrined an ongoing disadvantage to
+those residing in regional Australia. The long-term eligibility of FIFO workers to access this tax concession is a contributor to the
+choice not to live in the region.
+
+In 2013 this Federal Government inquiry made several recommendations relevant to the issue of fringe benefit tax
+exemptions for fly-in-fly-out arrangements:
+(12) The Committee recommends that the Commonwealth Government review the Fringe Benefits Tax Assessment Act 1986 to
+examine the:
+§ removal of impediments to the provision of residential housing in regional communities;
+§ removal of the exempt status of fly-in, fly-out/drive-in, drive-out work camps that are co-located with regional towns; and
+§ removal of the exempt status of travel to and from the workplace for operational phases of regional mining projects
+(13) The Committee recommends that the Commonwealth Government review the Fringe Benefits Tax Assessment Act 1986 to:
+§ remove the general exemption for fly-in, fly-out/drive-in, drive-out workers from the 12-month limit of payment of the living
+away from home allowance;
+§ enable specific exemptions for construction projects that have a demonstrated limited lifespan; and
+§ enable specific exemptions for projects in remote areas where the fly-in, fly-out/drive-in, drive-out work practice is
+unavoidable.
+
+This inquiry’s look into the taxation regime was in a much broader context than simply the effects on flight costs.
+For example, where companies provided housing to permanent workforce - a fringe benefit - they can rent the
+house for a 50% FBT concession, which artificial inflates the housing market in a similar way to artificially inflating
+the airline market. Where genuinely remote, the Report says, the Committee’s view was that the exemptions were
+appropriate. However where regional centres already existed, a complete abolishment of the concessions for
+operational workforces was recommended.
+However, despite the intention of the legislation to exempt locations that are remote, there is not a proper
+understanding that en route to remote sites, large workforces must fly between capital cities and regional airports.
+Should a company fly their workforce from Perth directly to a mine site’s own airport, there would be no distortion
+in domestic airline prices for residents travelling from Perth to their regional airport.
+However, since the fly-in-fly-out workforces must travel through a regional airport, the distortion effect is felt by
+residents and small businesses on the same route. Journeys that fly through places like Karratha can no longer
+legitimately be deemed remote.
+This is shown clearest by examining ‘load factors’ or percentage capacities, and comparing the Pilbara airports to
+the average city-to-city routes. As can be seen below the percentage capacity of the flight averaged 55% in 2016,
+well below the 73.5% on all other Australia routes. What is even more compelling is that when the average load
+factor is calculator for other Australian mining towns where high FIFO-related activity occurs, they all share the
+same low load factor (based on Moranbah, Mount Isa, Townsville, Port Lincoln, Emerald, Kalgoorlie, Newman,
+Port Hedland, Karratha, Gladstone). The ‘FIFO effect’ is clearly not limited to the Pilbara.
+
+8
+
+City of Greater Geraldton. (2013). Submission to the Joint Committee on Northern Australia, Inquiry into the Development of Northern
+Australia. Submission 111. 11.
+
+Page 7 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+The broad level of concern over this issue is reflected in other states, including prominently in Queensland, with
+the Local Government Association of Queensland in their submission to ‘Inquiry into the Fly-In / Fly-Out and
+Other Long Distance Commuting Work Practices in Regional Queensland’.9 This featured a report by the
+Australian Centre for Excellence in Local Government, and makes the argument that the federal tax incentives
+around FIFO work practices are anti-regional and distort flight markets.10
+The Pilbara Regional Council prepared a detailed submission for the Senate Inquiry into Fly-In-Fly-Out Work
+Practices in 201311, and the assertions in this paper remain current today. More recently, the Pilbara Regional
+Council has called for a State Government inquiry into inequitable flight costs, and is pleased that several of the
+major parties have openly supported the call.
+It is hoped that through this inquiry, a full examination of the effect of the mining investment and construction
+boom and its associated government incentives will lead to a reduction in these restrictions to region’s attempts
+to transition to a more sustainable and diversified economic base.
+
+3.3.
+
+The Competitive Investment Environment
+
+The world over, areas of strategic economic importance are given special economic status as stand-alone zones
+with competitive incentives to entice large corporations and investors to focus their capital into a particular area.
+Whether Australia likes the model or not, the truth of the matter is that without reconciling ourselves with its
+potential application in our context, we are waving goodbye to billions in opportunity lost.
+In terms of the mining investment space, sheer realities of the resources we possess and international demand for
+them has largely been the driver of this foreign direct investment. However the challenge is to replicating that
+level of success and investment in other, less demand-driven markets such as agriculture development and
+tourism. As the Pilbara seeks to transition to a more sustainable and diversified economic base, it understands
+that its strategic context both for the nation and the international business community will not disappear.
+9
+Local Government Association of Queensland. (2015). Submission to the Queensland Parliamentary Infrastructure, Planning and Natural
+Resources Committee, Inquiry into the Fly-In / Fly-Out and Other Long Distance Commuting Work Practices in Regional Queensland’.
+Submission 189. 2.
+10
+Robyn Morris. (2012). Scoping Study: Impact of Fly-in Fly-out/Drive-in Drive-out Work Practices on Local Government. Australian Centre for
+Excellence in Local Government, University of Technology, Sydney. 15.
+11
+Pilbara Regional Council. (2013). Submission to the House Standing Committee on Regional Australia, Inquiry into the use of ‘fly-in, fly-out’
+(FIFO) workforce practices in regional Australia. Submission 43, 43.1.
+
+Page 8 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+Transitioning to a more sustainable and diversified economic base will not occur in isolation for the Pilbara, but
+rather in the continuing context of the iron ore and liquid natural gas expansions, constructions and production.
+When governments around the world see strategic value in developing a region, they look to create incentives to
+encourage investment; this is based on the theory that the overall economic benefit to the region will be greater
+than the size of the concession given, as long as the concession is bigger than what other regions around the
+world can offer.
+If the Pilbara wishes to use its current strategic importance as leverage to launch a new era of unparalleled
+growth, it will face the primary challenge of having the boldness and courage to break the mould. Massive
+investments, or once in a generation projects, require more than the status quo. Governments around the world
+lobby businesses in order to set up these kinds of deals and create leaps in the development of strategically
+important regional economies.
+Imagine a hypothetical investment scenario facing an American entrepreneur such as Elon Musk of Tesla.
+The Commonwealth, State and Local Governments could come to his table, and present an offer; a seat on the
+Pilbara Enterprise Zone Advisory Group, and a concessional loan is offered from the Northern Australia
+Infrastructure Fund. Other Commonwealth and State Government fees and charges are waived, and local
+government provides the land. The total concessions would have to be enough to make it worth his while, and
+low enough to still produce enough regional benefit for the Pilbara.
+If this was the scenario, what is the likelihood that the next Tesla GigaFactory opens in the Pilbara? An Australian
+base of operations would be a perfect staging post for a Tesla market expansion strategy into Asian markets, and
+with a freight facility at Lumsden Point, the company would need very little else in order to start on the right foot
+with a new facility at the base of a mountainous population growth in Asia over the next century. With the
+production of solar panels and batteries being one of the most potentially lucrative growth markets in the world,
+strategic positioning and low costs of production and shipping will be crucial.
+Now there’s a step change for the Pilbara. A multi-billion dollar deal to put a solar powered megafactory in Port
+Hedland or Karratha, with access to port, sun, incentives and Asia. But the challenge doesn’t revolve around the
+logistics of this hypothetical, it revolves around the overwhelming feeling most people have when faced with that
+kind of challenge; fear. Because its that challenge the leads to us not even stepping up to the plate. Fear is what
+keeps us from ever getting far enough to come up against logistical challenges in proposals like this.
+The challenge here is the boldness required to make the leap from 0 economic zones to 1. The Pilbara Regional
+Council has proposed in the past a Pilbara Enterprise Zone, which is by no means the first call for this option. In a
+submission to the Joint Committee on Northern Australia, the group Australians for Northern Development &
+Economic Vision provided a submission that provided a detailed argument for a Northern Australia Economic
+Zone.12 The Green Paper on Developing Northern Australia received several submissions in fact advocating for a
+special economic zone, and whilst it noted that currently the Constitution prohibits federal taxation from
+discriminating between or within states, that the concept itself had merit and should be further investigated.13
+A far less ambitious solution, the PEZ would require the following framework to be established:
+§
+
+A separate Legislative Act, providing the Pilbara Enterprise Zone with autonomy to manage its own
+operations and development in accordance with agreed values and objectives, set by the Government.
+
+12
+Australians for Northern Development & Economic Vision. (2014). Submission to the Joint Committee on Northern Australia, Inquiry into the
+Development of Northern Australia. Submission 147.
+13
+Australian Government. (2014). Joint Committee on Northern Australia, Pivot North: Green Paper on Developing Northern Australia. 41, 55–
+6.
+
+Page 9 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+§
+§
+§
+
+Implementation of a selection of targeted incentives and policy initiatives, designed to promote and
+facilitate diversified investment into the Pilbara.
+The implementation of a specially designed development lease model, together with a long-term
+management framework for the operation, attraction, and development of industry clusters.
+Establishment of a separate specialised Development Fund for the Zone to provide seed capital for start-up
+and targeted industry sectors to establish within the zone and expand.
+
+This kind of ambitious change in policy allowing for a massive leap forward in the Pilbara’s efforts to transition to a
+more sustainable and diversified economic base will be met with fear and uncertainty, despite every effort to show
+stakeholders this has been done before elsewhere in the world to great success.
+
+3.4.
+
+Old Attitudes and The Protein Trip
+
+This fear of the unknown and iron grip on the past is one of single largest challenges the Pilbara faces when
+making plans for a life after the mining investment and construction boom. Old ideas and ways of doing things,
+and the illogical concept that given the changes in the world over the last century, that practices that have
+remained current practices for several decades are perfectly reasonable.
+A strange scenario - described by a private Chinese investor in the Pilbara as an ‘only-in-Australia’ problem currently exists in the Pilbara. Pastoral stations truck their cattle from the Pilbara down to the South West for
+fattening, and then across to Fremantle port for shipping.
+And a week later they sail right past those same Pilbara stations - sometimes within 100 kms of where their life
+began - on their way to Asia. Our market is to our north, but we move the product south.
+Over 1 million tonnes of iron ore regularly leaves Port Hedland on a single tide14, yet the pastoral industry has no
+such access. This ‘protein trip’ of world class inefficiency not only degrades the quality of the stock but also
+increases the price and lowers the product’s competitiveness internationally.
+Without a facility such as Lumsden Point, and an associated world class abattoir, this ‘only-in-Australia’ inefficiency
+will continue to restrain the Pilbara’s pastoral industry, and limit its ability to take advantage of the significant
+growth in demand from proximate markets in Asia.
+But more than that, without releasing these old attitudes and ideas, regional economies will continue to be held
+back in their efforts to transition to a more sustainable and diversified economic base, characterised by what
+Anthony S. Travis calls the “mining-town mentality, being subject to boom-and-bust cycles, closely aligned to the
+fortunes of global commodity markets.”15 If our mindsets, as government leaders across all levels, could change
+as swiftly as economic circumstances do, we would be better prepared for the challenges that face regional
+communities across Australia.
+This Productivity Commission study is, after all, an exercise in ensuring government has the right information and
+research to improve the future. The Pilbara Regional Council asserts that this old thinking is one of the reasons
+regional economies face the predicament they do; for years, decades in some places, regional economies have
+existed as mono-economies, relying on the mining investment boom. Only now, as it starts to pinch, do
+governments start planning for the future.
+Without swifter and more strategic foresight and economic planning, regional economies will face higher costs in
+their efforts to transition to more sustainable and diversified economic bases, as they will face the challenge to
+late to prevent it.
+
+Pilbara Ports, Port Hedland Port Authority. (2014). Facilitating Growth and Optimising Operations at Port Hedland. [Presentation].
+Anthony S. Travis. (2011). Planning for Tourism, Leisure and Sustainability: International Case Studies. Wallingford, Oxfordshire: CAB
+Interational Books. 36.
+14
+15
+
+Page 10 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+3.5.
+
+The Challenge of Managing a Commonwealth and State Agenda
+
+The Northern Australia White Paper seeks to develop the north into an Australian trade gateway. With the rise in
+Asian populations causing with a rapid increase in the middle class - especially in China - strategic investment into
+the agriculture and services sectors will be major drivers of future economic growth in the north. Just as high
+demand for iron ore and natural gas has led to major capital investment in the resources industry in the north, the
+rise in Asian middle class populations has the potential of drive future investments.
+As Government continues to enable business success through policy coordination, the north-west will grow from
+strength to strength towards the overarching goal of a stronger and more prosperous Australia.
+This Federal Government vision is not at odds with State Government policy; on the contrary, there is significant
+support for the goal of diversifying the north-west in order to take advantage of new markets and develop new
+industries. Whilst some of the language differs, the Pilbara Development Commission’s Investment Blueprint, the
+Royalties for Regions fund and the broader White Paper have clear shared goals. Building regional capacity,
+enabling business development through critical infrastructure investment, diversifying the Pilbara economy and
+value-adding to business innovation and robustness are all aligned in one way or another to the objectives of the
+White Paper.
+The Investment Blueprint sees transformational opportunities such as the development of high-value cropping,
+aquaculture and biofuel production, market and land access, automation technology and streamlining governance
+as key to future growth. These opportunities are complementary to the White Paper objectives to increase market
+access through attracting foreign investment, building critical port and road infrastructure, developing a northern
+workforce, good governance and water resources.
+The Northern Australia White Paper establishes a goal of reducing barriers to better use of land and water
+resources in order to diversify the northern economy. The Federal Government specifically outlines its support for
+pastoral release reforms, and encourages all jurisdictions to assist businesses in diversifying beyond the pastoralpurposes such as grazing to usage such as horticulture or tourism, especially in the Aboriginal tourism sector.
+This is a vision supported by the State Government. The Pilbara Hinterland Agricultural Development Initiative
+(PHADI) examines irrigated agriculture as a driver of major capital investment and broadening of the economic
+base. Through Royalties for Regions funding, practical research through pilot site trials will support the use of
+irrigated crops for fodder, food and fuel production, and investigate key constraints such as land tenure, supply
+chain sophistication and economic viability.
+Through the Pilbara Development Commission’s Investment Blueprint, a further commitment has been made by
+the State Government to diversify the Pilbara economy through agriculture, aquaculture, energy and tourism.
+Limited availability of, or delays in receiving pastoral water and diversification permits, are a ‘coal-face’ indicator of
+the challenges that still face efforts to make these Federal and State visions a reality.
+The case study of the Kimberley Agricultural Investment (KAI), subsidiary of Chinese company Shanghai Zhongfu,
+offers a tangible example of the growth potential in this space. The purchase of Carlton Hill Station on the Ord
+River will allow the planting of chia, sorghum, maize and quinoa, and KAI’s CEO Jian Zhong Yin is of the view that
+the diversification of pastoral operations will help accomplish the economic potential of northern Australia through
+what he describes as integrated business opportunities.
+It is this kind of thinking that will produce the next wave of investment in the Pilbara. With the rise in population in
+Asia coinciding with a rise in the middle class - especially in China - the production of high quality and safe food
+products has the potential of being a major driver of future economic growth in the north. Just as high demand
+for iron ore and natural gas has led to major capital investment in the resources industry here, the rise in China,
+India and Indonesia’s populations and specifically their middle class will drive future investments, so long as
+critical water and other permits are made readily available to businesses in the north.
+
+Page 11 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+Other than the aforementioned Water for Food and Pilbara Hinterland Agricultural Development Initiative, the
+facts about exactly how much water is available and deployable in the Pilbara is largely unknown. The Northern
+Australia White Paper makes clear that water infrastructure in the north is a key priority, and the Agriculture
+Competitiveness White Paper priorities include strengthening drought resistance and risk management, and
+building 21st century water infrastructure.
+However these documents speak broadly to the needs of ‘Australian farmers’, and not specifically to the needs of
+pastoralists in the Pilbara. These key businessmen and women need access to capital, knowledge and approval to
+access water, and the ability to diversify their incomes streams to de-risk their business. And they need this
+information before they choose to invest.
+In developing solutions to this problem, the Pilbara Regional Council was told that it is not the government’s job
+to know how much water is available, but rather the role of industry to prove that it is there. This is not a recipe
+for success, this is a recipe for stagnation by bureaucracy and a world passing us by.
+If strong coordination with the Federal Government leads to an enhanced share of the Northern Australia
+Development Fund, state and federal investment in these objectives will combine to ensure the Pilbara continues
+to be a powerhouse of economic growth, and is able to transition its economy from the dominance of the mining
+investment and construction boom to a more sustainable and diversified economic base.
+
+3.6.
+
+Population Size Catch 22 and the Road to Success
+
+Regional economies that have been the centre of the mining investment and construction boom, like the Pilbara,
+face an interesting challenge in the way governments fund key infrastructure such as the sealing of roads. For the
+Pilbara, we read the Northern Australia White Paper, the Northern Australia Infrastructure Audit Report, Tourism
+Australia’s 2020 vision, the State Government’s Investment Blueprint and its Tourism Infrastructure Report and
+think to ourselves that the sealing of the road between Tom Price and Karratha is a no-brainer.
+We look at its position in relation to connecting the inland to coast, providing quick access to markets. We seek
+that it connects Karijini, Millstream-Chichester and Murujuga National Parks to Karratha’s international airport,
+which adds more routes by the year, including most recently to Singapore. We see that the road floods during
+cyclone season, and that any detour would add half a dozen hours to a freight or passenger trip, something that
+would cause significant financial loss.
+And then the Shire of Ashburton requests funding from the Government of Western Australia’s Department of
+Transport and Main Roads WA, and the answer is no. There’s not enough traffic on the road to seal it.
+If we forget for a moment that people may not be using the road because unsealed roads often flood in heavy
+rainfalls, this idea that current traffic volume should define all critical infrastructure spending is a serious challenge
+to the future development of the Pilbara. It may work in metropolitan centres, but it works against every effort of
+the Pilbara economy to develop a more sustainable and diversified economic base through a stronger tourism
+industry, an industry based on its natural environment, Indigenous culture and proximity to Asia.
+And whilst the region attempts to address issues of attraction and retention of people to build a more sustainable
+population base, it faces the catch 22 of funding tied to size; the people won’t come if the provision of
+infrastructure and services is not right, and if the people don’t come, the government won’t fund the infrastructure
+necessary to encourage people to come. Something has to give in this equation, and our experience is it is rarely
+the government. As long as more funding is tied to population size, the goal of increasing the Pilbara population
+base will remain just outside of arms reach.
+All the strategies align, the growth markets are right and the world says yes to more and more flight routes by the
+year. But roads only get sealed if you have high traffic volume.
+
+Page 12 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+Forward planning in infrastructure is crucial to the future success of new, sustainable and diversified industries in
+the Pilbara economy.
+
+3.7.
+
+Telecommunications Sub-Sea Connections
+
+The Pilbara faces an additional challenge to growth common amongst regional communities; its connection to the
+rest of the world. Whilst it could be said that the tyrannies of distance that plague logistics are relevant here, of
+greater import is the poor level of Information Communication Technology (ICT) access. Robyn Eversole states;
+While firms in regional Australia participate in global economies, the do not work from a position of strength. They are often
+physically far - and socially disconnected - from metropolitan-based decision makers and urban knowledge hubs. Poor ICT
+infrastructure in many areas further affects the ability of industries to connect, communicate and access information.16
+
+Significant movement in the last decade has occurred in this space. The National Broadband Network (NBN) has
+reached the Pilbara in Karratha, Port Hedland and Newman, and the Sky Muster satellite offering as part of the
+multi-technology strategy will deliver speeds of up to 25Mbps.17 Despite the numbers and graphs produced by
+the NBN Co., it is still clear that the NBN is not equitably dispersed through regional Australia, especially the
+Pilbara.
+
+Indeed Internet Australia in its submission to the Productivity Commission’s own Universal Service Obligation
+(USO) inquiry asserts that the USO should be expanded to include the provision of broadband services at
+minimum performance standards and speeds.18
+Whilst Commonwealth investment in the area is currently underway, the Pilbara Regional Council submits access
+to the internet, and at high speeds, with continue to be a challenge for regional Australia as it attempts to
+complete with a global market place.
+At the same time, it is clear that this global marketplace would overcome some of the physical distance
+challenges, leap-frogging the 19th and 20th century imperatives of physical access to major markets, and
+connecting regional Australia via a 21st century imperative, and that of digital access to market. What would have
+been a bare-minimum 50 years ago (water, power, gas, road, telephone), in this new century where the internet is
+the ‘highway’ or route to market, Internet Australia’s recommendations are merited.19
+In much the same way as other infrastructure, volume and traffic are the measures used for determining the
+investment, rather than the strategic importance of a region, and the context of its growth. In the context of a
+16
+17
+18
+19
+
+Robyn Eversole. (2016).Regional Development in Australia: Being Regional. New York, New York: Routledge. 64.
+NBN Co. (2017). Sky MusterTM service: a revolution in satellite broadband.
+Internet Society of Australia. (2016). Internet Australia responds to Productivity Commission USO inquiry, “The Internet is for Everyone”.
+Productivity Commission. (2016). Telecommunications Universal Service Obligation. [Draft Report]. 11.
+
+Page 13 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+population of 67,000 people, maybe it does make sense that not every road is sealed and not every home has
+NBN. But in the context of the Northern Australia White Paper objectives, the State Government Investment
+Blueprint and this inquiry, which seeks to understand the challenges of moving from mining-town to sustainable
+market-place, a ‘build it and they will come’ mentality may be more appropriate.
+As a region significantly impacted, and in some cases literally created by the mining investment and construction
+boom, and as a member of the ‘regional Australia’ population, the Pilbara Regional Council understands that
+infrastructure of any kind that seeks to keep pace just in front or just behind demand fundamentally misses one of
+the vital attraction or pull-factors inherent in this kind of diversified investment; it creates demand. People around
+Australia regularly move out of urban centres - whether it in search of a ‘sea change’ or ‘country change’, or in
+relation to retirement - and seek similar levels of amenity.
+If regional centres are seeking to transition from dependence on the mining investment and construction boom to
+more sustainable and diversified economic bases, they will need to understand the investment and population
+attracting properties of high quality services and infrastructure as precursors to growth, not lagging indicators.
+
+Page 14 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+4.
+
+KEY REFORM PROPOSALS
+
+4.1.
+
+General
+
+Much of the reason the Pilbara Regional Council exists is to advocate on behalf of the region, and all of the
+recommended reforms listed below would have the effect of transitioning the Pilbara’s regional economy from its
+dependence on the mining industry and its associated investment booms, and create the necessary structures and
+tools for an ambitious new era of diverse growth.
+Crucially, many of these proposals in one way or another represent both the challenge of many other regions and
+a viable option for many of them. There is no limited to how many special economic zones a country creates, and
+a much more specific, tailored - perhaps even regional - immigration model for address worker shortages would
+not only benefit the Pilbara but other regional economies struck by the storms created by mining investment and
+construction booms.
+The Kimberley is a supporter - and indeed a crucial beneficiary - of the Pilbara Regional Council’s proposal for a
+Northern Australia Minister in the WA Cabinet, and the concept of regional ministers is not without its supporters
+and merits. Indeed, the WA Labor Party currently has frontbenchers with a dedicated regional focus, however the
+relevance of this to the Commonwealth is limited to the extent this proposal would unlock a collaborative
+partnership between the WA State Government and Commonwealth Government under the banner of the
+Northern Australia White Paper’s objectives for the Pilbara and Kimberley.
+Sealing roads based on strategic importance rather than population size is not of benefit solely for the Pilbara, nor
+is an accurate understanding of water resources for the purpose of supporting the next wave of investment into
+agriculture to feed a growing Asia.
+
+4.2.
+
+Modification of Commonwealth Tax Incentives for FIFO Arrangements
+
+4.2.1.
+
+Strategic Alignment
+
+4.2.2.
+
+Proposal
+
+The Pilbara Regional Council believes the only way to address this problem is to propose non-radical solutions
+that are cognizant of the economic realities and priorities of the major miners, major airlines and majority of
+residents living in the Pilbara.
+The recommended amendments to the Fringe Benefits Tax Assessment Act (1996) Cth change the full exemption
+to a partial exemption, so that the Australian Tax Office may determine the necessary tax required to be collected
+based on the costs of the subsidy program. Should the program require less money to fund the subsidies, the
+companies paying the fringe benefit tax will receive more - as a percentage - exemption. The percentage would
+remain nominal, but responsive to changing economic circumstances.
+
+Page 15 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+This proposal recommends that the exemption rate raises only enough funds to negate the negative side-effects
+for residents, through the development of a model whereby residents have access to a set subsidy based on a set
+amount of flights per year. Any excesses would be returned to the companies in question and the rate revised.
+The scheme would intend to deliver a subsidy to residents. In order to do this successfully, it must overcome
+certain likely obstacles to success:
+§
+§
+§
+§
+§
+
+the subsidy may be absorbed by airlines through higher prices;
+airports may wish to administer and benefit from the scheme but have not yet committed to being a part of
+the solution;
+uncertainty in the uptake of the scheme and its actual cost;
+adequate time is needed for the market to respond to the changes without being forced to withdraw; and
+the flexibility offered in the ability of the exemption rate to change dependent on the cost of the scheme
+also introduces uncertainty into tax liability for major resource companies.
+
+In order to address these challenges, and make the subsidy a reality, the Pilbara Regional Council will seek to
+work with the State Government of Western Australia’s Department of Transport to release a yearly tender for
+participation in the scheme. Airlines will have to offer competitive bids in the form of a flat fee, against which the
+scheme would apply.
+The successful airline would have exclusive access to the scheme’s benefits, artificially lowering their prices. The
+unsuccessful airline would have to reduce prices further to remain competitive.
+Regional airports will also bid for the administration of the scheme, by offering their lowest possible airport
+charges and fees to be associated with the scheme. This process will differ from the formal tender process in that
+no one airport could possibly administer the scheme across all major centres.
+In order to address the uncertainty around the uptake of the program, the funding of the scheme will be delayed
+2 years. FY18’s total scheme cost will be paid by FY20’s tax collection, FY19’s costs by FY21’s collection. FY18’s
+tender process will run one year ahead in FY17, to allow for greater certainty for the airlines.
+By combining this with a floor of a 90% exemption, by capping the total flights offered each year, and by
+providing a flat subsidy, the scheme will remain financially viable whilst providing certainty to the market.
+The Government always maintains an ‘anti-distortion interest’ when dealing with the operation of the free market,
+and legislation that seeks to modify the costs of business and living in order to achieve the desired strategic end.
+This ‘anti-distortion interest’ is paired with its mandate to represent its electors and their interests on the balance
+of things. It is by this rationale that the Pilbara Regional Council asserts that a modification of the exemption is
+reasonable.
+In order to ensure that all parties move together on this ‘compromise’ position, the Pilbara Regional Council is
+intending to set up an ‘Advisory Committee’ made up of all the major stakeholders to ensure that the final scheme
+and structure has the support of as many of the parties as possible.
+4.2.3.
+
+Recommendation 1
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Treasurer and Minister for Revenue and Financial Services,
+commit to joining the Advisory Committee with the understanding that if the group reaches an accord that is
+suitable for all candidates, that the Commonwealth Government will reopen the legislation and make the
+necessary changes to the 47(7) exemption.
+
+Page 16 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+4.2.4.
+
+Key Metrics
+
+4.3.
+
+Designated Area Migration Agreement
+
+4.3.1.
+
+Strategic Alignment
+
+4.3.2.
+
+Proposal
+
+After significant lobbying, the Pilbara Regional Council was pleased to see that the Northern Australia White
+Paper committed the Commonwealth Government to completing a Designated Area Migration Agreement
+(DAMA) for the Pilbara.
+Several years later, the Pilbara Regional Council has reached individual agreements with the State and
+Commonwealth Government, and the only thing standing in the way of the DAMA’s success is an ability of the
+State and Commonwealth Governments to reach an agreement with each other.
+A Designated Area Migration Agreement is an instrument that is used only when needed, and only when all
+options are exhausted. It provides businesses in the Pilbara with access to foreign workers in specific occupations
+where the shortage is radically different to that of the eastern states.
+Melbourne does not now, nor will it ever need, foreign workers to come to Australia to fill a barista shortage. Alas
+this surplus in that profession in Victoria has not resulted in an influx of Melbournians to the Pilbara, where
+significant barista shortages occur each time the mining investment and construction boom swings through the
+region. With the announcement of a new construction, Pilbara workers are pouched by the mining companies for
+much higher salaries, meaning local businesses with strong clientele have to close, because of a shortage of staff.
+Melbournians, and Australians more broadly, do not travel for work. So this surplus in the east and shortage in the
+north continues due to a one-size-fits-all immigration policy. The DAMA is a geographically limited 457 visa,
+based on the Pilbara’s needs, and activated only as a last resort during construction booms that yield very specific
+and very dangerous staff shortages.
+
+Page 17 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+The Pilbara Regional Council remains hopeful that the State and Commonwealth Government will reach an accord
+to allow for the signing of the Pilbara DAMA in time for the coming construction boom expected by the recent
+announcement of the Balla Balla mine between Port Hedland and Karratha. Whilst the construction is predicted
+to not utilise FIFO workforces, this swing in staff from local businesses to higher paying mining jobs will soon hit
+the Pilbara once again. Without this important reform, the Pilbara will continue to be hampered in its attempts to
+transition its regional economy and diversify away from a dependence on mining investment booms.
+4.3.3.
+
+Recommendation 2
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through its Minister for Immigration and Border Protection and Minister
+for Resources and Northern Australia encourage the State Government of Western Australia to vest responsibility
+for the Pilbara Designation Area Migration Agreement into the hands of the Minister for Regional Development,
+and work to resolve any state concerns in order to produce a final agreement by the end of the financial year.
+4.3.4.
+
+Key Metrics
+
+4.4.
+
+Pilbara Enterprise Zone
+
+4.4.1.
+
+Strategic Alignment
+
+4.4.2.
+
+Proposal
+
+The Pilbara Regional Council has long advocated the creation of a Pilbara Enterprise Zone (PEZ) - with similar
+structures to many other special economic zones around the world. Indeed, during the Pilbara Regional Council’s
+EASTxWEST Forum - a trade, investment and cultural exchange event held in Shenzhen, China in April of 2016 delegates visited the Qianhai Free Trade Zone and received briefings on the benefits of the structure to drawing
+diverse investment and supporting industry development.
+
+Page 18 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+The chief objective of the PEZ is to create a long-term competitive environment for domestic and international
+investments, strengthening the capacity of the region and its supply chains while capturing greater value-adding
+and high technology developments.
+The PEZ would leverage an experienced Australian and international management structure utilising global best
+practice zone management. It would establish alliances with Special Economic Zones (SEZs) around the world that
+offer a complimentary industry mix.
+This is the perfect example of the kind of out-of-the-box thinking that is bold enough to bring serious change to
+the region without actually being out-of-the-box in the context of international examples and proven successes.
+The reform would suit the Commonwealth Government’s objective to come to terms with the economic and trade
+opportunities of the next century, and would offer it the opportunity to make the necessarily legislative changes to
+incentives and structures without changing national legislation. The PEZ’s goals would align very well to the
+Commonwealth’s desire to help transition regional economies from the mining investment boom to a much more
+sustainable and diversified place of opportunity, given the goals of the PEZ are to;
+§
+§
+
+§
+§
+§
+§
+
+Attract diversified national and international investment.
+Strengthen and enhance the Pilbara’s resources supply chain:
+•
+Marine construction and specialised services.
+•
+Maintenance and support.
+•
+Power generation and distribution.
+•
+Transport and logistics.
+•
+Process improvement and industry research and development.
+Generate cluster synergies.
+Develop regional skills and capacity.
+Capture new technologies.
+Encourage small-medium enterprise and mid-tier company investment within the Pilbara.
+
+Several key requirements are needed to make this reform possible. The Zone’s foremost requirement would be
+Government support for the concept and its vision for driving high value investment and strengthening the
+capacity of the Pilbara region.
+The second requirement would be to establish the necessary policy and governance framework to establish the
+Pilbara Enterprise Zone. Once this is achieved a suitably experienced and capable consortium and overseeing
+Advisory Board would be appointed. These stakeholders would put in place the necessary aims, objectives and
+key performance indicators to be utilised in developing and operating the Pilbara Enterprise Zone.
+The fourth requirement would be a separate legislative platform for the Zone in order for the Pilbara Enterprise
+Zone to achieve its stated objectives and provide domestic and international investors with long-term confidence.
+The Act would provide the managing consortium the autonomy to operate and develop the Zone and to attract
+and facilitate tenants. The legislation would need to simplify business registration and development regulations
+within the Pilbara Enterprise Zone, and provide a “One-Stop-Shop” for tenants and potential investors.
+The Act would also need to be in accordance with agreed values and objectives set by the Government/s with
+oversight by the high-level Advisory Board.
+The final requirement would be the legislation and implementation of Zone incentives to assist in providing an
+internationally competitive investment proposition.
+4.4.3.
+
+Recommendation 3
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+
+Page 19 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+(1) That the Commonwealth Government, through the Treasurer, work with the State Government of Western
+Australia and the Pilbara Regional Council to fund and complete a cross-government feasibility study to inform a
+go/no-go decision on a Pilbara Enterprise Zone by the end of financial year 17/18.
+4.4.4.
+
+Key Metrics
+
+4.5.
+
+Northern Australia Minister in the WA Cabinet
+
+4.5.1.
+
+Strategic Alignment
+
+4.5.2.
+
+Proposal
+
+The north of Western Australia offers vast potential, well beyond the minerals that currently underpin the national
+economy. Blessed with abundant sunlight, land and water, the Pilbara region contains each of the core
+investment elements required for rapid development of new and innovative industries that will complement
+traditional resource and energy industries.
+Development of these industries is consistent with the Federal Government’s vision for the development of
+Northern Australia, and with the State Government’s Pilbara Development Commission Investment Blueprint,
+supported by the Royalties for Regions fund.
+The Federal Government has appointed a Minister for Northern Australia, and established an Office of Northern
+Australia. Whilst the Pilbara Development Commission offers a State equivalent to the latter, there is no
+comparable State Government ministerial portfolio specifically for Northern Australia.
+A dedicated Northern Australia portfolio within the State Government, the establishment of a Northern Australia
+Development Office in the Department of State Development, and the defining the Department of State
+Development as a lead agency for Northern Australia objectives are three substantial steps forward.
+
+Page 20 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+This would place a centrality to issue of developing Northern Australia, and provide the necessary ministerial
+structures to separate the concepts of ‘state’ and ‘regional’ development from ‘northern’ development.
+By definition, a Minister for State Development must prioritise projects on their significance to the overall
+economic benefit of Western Australia, and a Minister for Regional Development must focus on all of regional
+Western Australia. But what of the future of the north?
+The Chinese Government’s intention to facilitate an increase in outbound capital into stable, capitalist markets
+such as Australia, should be met with a cohesive, coordinated response from both Commonwealth and State
+Governments. China is by no means the only growing superpower in Asia that has an interest in the goods and
+services that can be produced in Australia’s north, as so our State Government has a specific interest in
+developing the necessary infrastructure and industries in the north of Western Australia to meet this growing
+demand.
+Australia’s standing as an economy seemingly unshaken by the economic chaos of the Global Financial Crisis and
+continued European and American volatility, makes it a relatively ‘safe haven’ for capital investments. Wealthy
+foreign investors and Asian corporate giants are looking to combat this volatility by finding safe locations for their
+funds where stable returns are predicted.
+The Minister for Northern Australia in the Western Australian cabinet would have the responsibility and the
+capacity to build on the work done by the Department of State Development, with its international offices, to
+become an investment facilitator and envoy, to ensure all the opportunities waiting overseas are captured.
+By delivering regular ‘investment statements’ to cabinet and the Parliament, the Minister for Northern Australia
+would be providing timely information about the overall policy instrumentation of the State Government with
+regards creating the right business and regulatory environment specifically required for the north west in the
+context of the opportunities and challenges laid out in the Northern Australia White Paper.
+4.5.3.
+
+Recommendation 4
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia, makes clear
+to the State Government of Western Australia their support for the appointment of a Minister Assisting the
+Ministers for State and Regional Development - known as the Minister for Northern Australia - to the Cabinet; and
+(2) That the Commonwealth Government, through the Minister for Resources and Northern Australia, makes clear
+to the State Government of Western Australia their support for and willingness to help fund the creation of a
+Northern Australia Development Office within the Western Australian Department of State Development.
+4.5.4.
+
+Key Metrics
+
+Page 21 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+4.6.
+
+Infrastructure Spending on the Pastoral Industry
+
+4.6.1.
+
+Strategic Alignment
+
+4.6.2.
+
+Proposal
+
+Diversification is a desired outcome for the region, but will require sustained commitment and a willingness to
+explore new regulatory/business models from all Pilbara stakeholders (industry and all tiers of Government) to
+effect any meaningful change. A new regulatory instrument that would attract inbound foreign direct investment
+in emerging sectors such as the provision of protein products to proximate markets is needed.
+Indonesia’s announcement in 2014 that within one decade, it would no longer be able to generate sufficient
+protein to feed its own population ought to have sent an ‘opportunity shockwave’ through the State Government.
+It has certainly featured prominently on the Federal policy agenda with Austrade appointing specialist
+agribusiness advisors to pursue this opportunity.
+Several prominent Australian personalities have also made substantial investments in the north-west in
+anticipation of a new period of demand for protein, including the recent investment’s of the Kidman empire
+seeking to provide premium boxed beef to Shanghai. Asian markets will accept box and frozen beef as long as it
+is fresh. A combination of the Port Hedland International Airport, Lumsden Point and a world class abattoir would
+give the cattle industry faster and cheaper access to Asian markets, and would reduce the reliance on the livecattle variation of the trade - a source of regular contention on animal welfare grounds.
+The Pilbara Regional Council wishes to continue to build momentum for a Pilbara Enterprise Zone, with a vision of
+an Indonesia owned and operated halal slaughter and processing facility (possibly even staffed by Indonesian
+nationals) operating from the Pilbara coastline. Such facility would still pay all taxes in Australia, and be
+provisioned from an Australian supply chain.
+Advantages include reducing the politically-charged live trade, closer proximity to market for shipping, reduced
+transportation cost for stock on the hoof, local employment in the supply chain, and a host of other benefits.
+4.6.3.
+
+Recommendation 5
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia, provide
+support and funding in the form of a Northern Australia Infrastructure Fund concessional loan for the development
+of a world class abattoir;
+(2) That the Commonwealth Government, through the Minister for Resources and Northern Australia, work with
+the State Government of Western Australia to fully fund and determine a suitable Pilbara location for the facility;
+and
+
+Page 22 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+(3) That the Commonwealth Government, through the Minister for Resources and Northern Australia and the
+Minister for Trade and Investment, work with the State Government of Western Australia to find a suitable foreign
+investment partner or corporation to ensure a full supply chain plan and market for the products.
+4.6.4.
+
+Key Metrics
+
+4.7.
+
+Water for Investment
+
+4.7.1.
+
+Strategic Alignment
+
+4.7.2.
+
+Proposal
+
+The Pilbara Regional Council believes that the Western Australian Government’s Water for Food program should
+be extended to speak directly to the development of a sustainable but massively expanded cattle export industry
+in the Pilbara. The document would need to set out a bold reform, including:
+§
+§
+§
+§
+
+addressing water availability for centre pivots,
+committing to red tape reductions through expedited approvals,
+development of pre-approved activities such as tourism operation - especially Indigenous tourism - that
+come as part of a standard pastoral lease (without the need to apply), and
+providing significant funds through collaboration across all levels of government.
+
+Funds should also be made available to shepherd pastoral stations across the Pilbara from current capacity to
+absolute saturation (maximum size and peak production). This would include funds for the development from
+concept to business cases to world-class investment memoranda.
+Department of Agriculture and Food, in collaboration with the Departments of Water and Regional Development,
+would need to develop an export ready working group together with Department of State Development and the
+Commonwealth Australian Trade Commission (Austrade) to provide a viable, supportive, clear path from concept
+through to final export markets in the Indo-Pacific. The ultimate goals of this program would be:
+
+Page 23 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+§
+§
+§
+§
+
+4.7.3.
+
+sophisticated investment opportunities for foreign capital, developed through
+comprehensive support from all levels of government in reducing red tape and providing funds, to create
+a diversified Pilbara economy, and
+a more prosperous State.
+Recommendation 6
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister
+for Agriculture and Food, provide support and funding for the research, analysis and development of a
+sophisticated Northern Australia water availability program that seeks to map the full picture of water in the north
+and the highest possible production based on this data.
+4.7.4.
+
+Key Metrics
+
+4.8.
+
+Sealing of Strategic Roads Based on Importance, Not Population
+
+4.8.1.
+
+Strategic Alignment
+
+4.8.2.
+
+Proposal
+
+Regional economies seeking to transition to a more sustainable and diversified economic base require
+governments that fund key infrastructure based on future strategic value rather than current traffic.
+Given the shared strategic importance of the Pilbara to the national economy, to the future of Northern Australia
+and to the economy of Western Australia, the Pilbara Regional Council has proposed that funding for strategic
+roads be funded as a joint venture between the Northern Australia Roads Programme and the Government of
+Western Australia’s regional development funds, likely from the Royalties for Regions fund.
+
+Page 24 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+In the lead up to the 2016 Federal Election, Minister for Resources and Northern Australia, Senator the Hon
+Matthew Canavan, announced Commonwealth funding for the Marble Bar - Newman Road. This road forms part
+of committed to working with the Government of Western Australia to come up with the full funds required.
+However in order for the Government of Western Australia to join that project, they must break from the traffic
+volume based model that has held back funding for projects such as these.
+4.8.3.
+
+Recommendation 7
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister
+for Infrastructure and Transport, provide support and funding for the sealing of the Tom Price - Karratha Road
+based on its strategic importance in connecting the 3 national parks of the region to Karratha, the city of the
+north;
+(2) That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister
+for Infrastructure and Transport, provide support and funding for the sealing of the Marble Bar - Newman Road
+based on its strategic value in connecting the inland corridor to port and giving it swifter access to markets; and
+That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister for
+Infrastructure and Transport, provide support and funding for Western Australia specific section of the Northern
+Australia Roads Programme, contingent on the Government of Western Australia matching those funds equally.
+4.8.4.
+
+Key Metrics
+
+4.9.
+
+Sub-sea Cable Capacity Increase and NBN Review
+
+4.9.1.
+
+Strategic Alignment
+
+Page 25 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+4.9.2.
+
+Proposal
+
+The Pilbara Regional Council believes that there is a gap between the planned rollout of the National Broadband
+Network (NBN), and the strategic importance of the region in the context of Commonwealth and State
+Government plans. A review by the Minister of Communications of the roll out will answer this question.
+Nextgen Group and Alcatel-Lucent Submarine Networks revealed late last year that the North West Cable System
+(NWCS) which connects Darwin to Port Hedland and several offshore facilities is now fully operational. Additional
+capacity in this network was created to allow for future extension of the cable to the Pilbara.
+The National Broadband Network (NBN) has shown its strategy is to rely on multiple technologies, including the
+use of satellites. Consideration of a joint public-private sector investment into increasing sub-sea internet and
+international connectivity would prove a once-in-a-generation economic boost, providing clear indication from the
+Commonwealth Government that it is serious about the north.
+Combined with a willingness to investigate a special economic zone structure, this would send a strong message
+to the international investment and business community that a real opportunity is starting to flourish in the Pilbara,
+and that the door that iron ore and LNG kicked open will be swiftly followed by a sophisticated plan for the north,
+the Pilbara, and Australia’s newest city.20
+4.9.3.
+
+Recommendation 8
+
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia, provide
+support and funding for the extension of North West Cable System (NWCS) to the Pilbara; and
+(2) That the Commonwealth Government, through the Minister for Communications, conduct a strategic review of
+the current National Broadband Network’s (NBN) Pilbara roll out schedule and coverage to determine whether
+the current investment is consistent with the Commonwealth objectives and clear interest in growing the north
+and assisting the region in transitioning to a more sustainable and diversified economic base.
+4.9.4.
+
+Key Metrics
+
+20
+
+City of Karratha. (2014). Australia’s Newest City. http://karratha.wa.gov.au/blog/city-karratha-%E2%80%93-australia%E2%80%99s-newestcity
+
+Page 26 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+A Bold Future for the Pilbara
+P RO D U CTIV IT Y COMMIS S ION SUB MISSIO N
+T R AN S I TI ON IN G R E G ION AL E CONO MIES
+The Pilbara has undoubtedly been the epicentre of the mining investment and construction boom, and it
+is still struggling to fully transition itself to take advantage of its strategic position in the world and its full
+range of competitive advantages.
+In the Pilbara’s efforts to transition from dependence on the mining investment and construction boom to a
+more sustainable and diversified economy, the region faces a great many challenges. In this submission, we
+have chosen to discuss only those challenges that would (1) be relatively uncomplicated to address and (2)
+bring significant improvement almost instantaneously.
+
+T HE S E CH A L L E N G E S AR E SUM MA RISED A S:
+Australia continues to pursue a one-size-fits-all immigration philosophy. The Pilbara sometimes
+needs baristas, but because Melbourne never will, the Pilbara has to make do.
+Australia can help to feed Asia in the new century, but the Pilbara doesn’t know how much
+water we have to do this.
+Australia can help to feed Asia in the new century, but our market for beef is north of us, and
+we currently truck the product south.
+The world has proven the special economic zone concept a thousand times over, but hasn’t
+been done in Australia, so that’s that.
+
+Population growth is a numbers game. We need to prove a higher population than we have, in order to
+get the funding we need, for infrastructure that we know will bring the people we don’t have. We want
+more people to live in the Pilbara, but it costs more per kilometre to travel to Perth than to London, and
+so the population is starting to fall.
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+6.
+
+Appendix
+
+6.1.
+
+Appendix A: Overview of Recommendations
+
+Recommendation 1
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Treasurer and Minister for Revenue and Financial Services,
+commit to joining the Advisory Committee with the understanding that if the group reaches an accord that is
+suitable for all candidates, that the Commonwealth Government will reopen the legislation and make the
+necessary changes to the 47(7) exemption.
+Recommendation 2
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through its Minister for Immigration and Border Protection and Minister
+for Resources and Northern Australia encourage the State Government of Western Australia to vest responsibility
+for the Pilbara Designation Area Migration Agreement into the hands of the Minister for Regional Development,
+and work to resolve any state concerns in order to produce a final agreement by the end of the financial year.
+Recommendation 3
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Treasurer, work with the State Government of Western
+Australia and the Pilbara Regional Council to fund and complete a cross-government feasibility study to inform a
+go/no-go decision on a Pilbara Enterprise Zone by the end of financial year 17/18.
+Recommendation 4
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia, makes clear
+to the State Government of Western Australia their support for the appointment of a Minister Assisting the
+Ministers for State and Regional Development - known as the Minister for Northern Australia - to the Cabinet; and
+(2) That the Commonwealth Government, through the Minister for Resources and Northern Australia, makes clear
+to the State Government of Western Australia their support for and willingness to help fund the creation of a
+Northern Australia Development Office within the Western Australian Department of State Development.
+Recommendation 5
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia, provide
+support and funding in the form of a Northern Australia Infrastructure Fund concessional loan for the development
+of a world class abattoir;
+(2) That the Commonwealth Government, through the Minister for Resources and Northern Australia, work with
+the State Government of Western Australia to fully fund and determine a suitable Pilbara location for the facility;
+and
+
+Page 28 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+(3) That the Commonwealth Government, through the Minister for Resources and Northern Australia and the
+Minister for Trade and Investment, work with the State Government of Western Australia to find a suitable foreign
+investment partner or corporation to ensure a full supply chain plan and market for the products.
+Recommendation 6
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister
+for Agriculture and Food, provide support and funding for the research, analysis and development of a
+sophisticated Northern Australia water availability program that seeks to map the full picture of water in the north
+and the highest possible production based on this data.
+Recommendation 7
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister
+for Infrastructure and Transport, provide support and funding for the sealing of the Tom Price - Karratha Road
+based on its strategic importance in connecting the 3 national parks of the region to Karratha, the city of the
+north;
+(2) That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister
+for Infrastructure and Transport, provide support and funding for the sealing of the Marble Bar - Newman Road
+based on its strategic value in connecting the inland corridor to port and giving it swifter access to markets; and
+That the Commonwealth Government, through the Minister for Resources and Northern Australia and Minister for
+Infrastructure and Transport, provide support and funding for Western Australia specific section of the Northern
+Australia Roads Programme, contingent on the Government of Western Australia matching those funds equally.
+Recommendation 8
+That the Productivity Commission recommend in its Report to the Treasurer;
+(1) That the Commonwealth Government, through the Minister for Resources and Northern Australia, provide
+support and funding for the extension of North West Cable System (NWCS) to the Pilbara; and
+(2) That the Commonwealth Government, through the Minister for Communications, conduct a strategic review of
+the current National Broadband Network’s (NBN) Pilbara roll out schedule and coverage to determine whether
+the current investment is consistent with the Commonwealth objectives and clear interest in growing the north
+and assisting the region in transitioning to a more sustainable and diversified economic base.
+
+Page 29 of 30
+
+Regional Inequality in Australia
+Submission 87 - Attachment 1
+
+6.2.
+
+Appendix B: Overview of Metrics
+
+Modification of Commonwealth
+Tax Incentives for FIFO
+Arrangements
+
+Designated Area Migration
+Agreement
+
+Pilbara Enterprise Zone
+
+Northern Australia Minister in the
+WA Cabinet
+
+Infrastructure Spending on the
+Pastoral Industry
+
+Water for Investment
+
+Sealing of Strategic Roads Based
+on Importance, Not Population
+
+Sub-sea Cable Capacity Increase
+and NBN Review
+
+Implementation Readiness:
+Foresight Effect:
+Diversification Impact Rating:
+Economic impact:
+
+Page 30 of 30
+
+The current status of the initiative, whether shovel-ready, requiring further feasibility or long-term effort to
+see it completed
+The horizon on which results are expected to show
+The effect of the initiative on the diversification of the regions economic base
+The overall economic impact of the initiative
+
+

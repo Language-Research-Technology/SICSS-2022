@@ -1,0 +1,1189 @@
+Regional Inequality in Australia
+Submission 16
+
+Regional Inequality in Australia
+Economic References Committee
+Regional Inequality for patients reliant on Radiologists on-site for diagnostic imaging and
+intervention in Regional Victoria and Queensland. Key facts comprise:
+•
+
+•
+
+•
+
+•
+
+The calculation of Radiologist DWS status is based on a Statistical Local Area (SLA3)
+which does not necessarily reflect scarcity when the broader actual patient catchment
+or Health Region are considered;
+Patients in regional areas are more reliant on centralised healthcare resources for
+specialised care. The SEIFA index in Toowoomba, Ballarat, Bendigo and Shepparton
+demonstrates inequality in terms of socio-economic status which manifests in increased
+healthcare needs;
+A solution is proposed to provide ministerial or delegate intervention in the
+discretionary approval of a DWS exemption in Regional practice locations when defined
+criteria are demonstrated;
+Patients in regional areas are significantly disadvantaged in terms of Radiologist cover
+compared with Metropolitan areas.
+
+Contents
+Overview ................................................................................................................................................. 3
+Radiologist within a Practice Benefits..................................................................................................... 4
+District Workforce Shortage Calculation ................................................................................................ 5
+What are the key components of DWS?............................................................................................. 5
+How are Geographical Areas identified for Specialists? ..................................................................... 5
+How is DWS calculated for Specialists? .............................................................................................. 5
+Radiologist FTE Ratios ............................................................................................................................. 6
+DWS Inequality in Regional Victoria ....................................................................................................... 8
+Inequality in Ballarat ........................................................................................................................... 8
+Inequality in Bendigo .......................................................................................................................... 9
+Inequality in Shepparton................................................................................................................... 10
+Melbourne has more DWS locations than Regional Victoria ........................................................... 11
+DWS Inequality in Toowoomba and the Darling Downs ....................................................................... 12
+Socio-Economic Status for Toowoomba ........................................................................................... 14
+Brisbane has more DWS locations than the Darling Downs Regional area ...................................... 15
+Recommended Action to Overcome Inequality in Regional DWS ........................................................ 16
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+1|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Submitted by Able Medico Advisors.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+2|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Overview
+There are significant benefits to patients, requesting practitioners, clinical staff and the community
+from having a Radiologist deployed full time within an imaging practice.
+There is a shortage of Radiologists willing to relocate themselves and families to regional centres like
+Toowoomba, Ballarat, Bendigo and Shepparton. Labour Market Testing since 2015 has failed to
+attract non-DWS Radiologists and no 19AB Exemptions have been relevant.
+The current logic within the Medicare system which calculates District Workforce Shortage for
+Radiologists has two inherent problems:
+•
+•
+
+The system cannot distinguish between Radiologists located in a regional practice with those
+undertaking reporting from Major Cities or other locations via Tele-radiology;
+The system does not take into account the broader patient catchment or Health Region
+which is greater than the Statistical Local Area (SLA3) used in the Medicare model.
+
+The result is significant inequality in terms of:
+•
+•
+
+•
+•
+
+Regional practices have ongoing and significant difficulty in securing sufficient Radiologists
+to satisfy patient demand;
+Reliance on locums - who are high cost, do not provide clinical training for regional staff, and
+are not present long enough to form clinical relationships with requesting practitioners in
+the region;
+Reliance on tele-radiology to relieve on-site Radiologists but which does NOT provide a full
+diagnostic imaging service to patients, clinical staff nor requesting practitioners;
+Patients need to travel long distances to access specialist care.
+
+The terms of reference specifically addressed in this submission comprise:
+•
+•
+
+•
+
+•
+•
+
+•
+
+Fiscal policies at Federal, State and local government levels from the perspective of early
+and effective diagnostic imaging reduces health costs in the longer term;
+Improved co-ordination of Federal, State and local government policies. Victorian Health do
+recognise these locations as Area of Need, but this is not recognised by Medicare owing to
+its DWS modelling;
+Regional development from the perspective that a practice-based Radiologist enables
+greater investment in the imaging technology and services available at Regional level rather
+than reliance on Major city or Metropolitan locations;
+Regional based Radiologists provide education to clinical team members within a practice
+and also enhance requesting practitioner understanding of diagnostic imaging;
+Enhancing local workforce skills through education which provides attractive regions for
+young radiographers and sonographers, nursing and clerical staff to remain in regional
+practices rather than relocate to Major cities;
+Building human capital in locating willing overseas qualified specialists in regional locations.
+
+The recommendation proposed is:
+A mechanism for an additional 19AB Exemption to be granted under conditions where a
+Regional practice can provide evidence that DWS based on Health Region served demonstrates
+that DWS based on SLA3 does not reflect community equality.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+3|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Radiologist within a Practice Benefits
+The most effective benefits to Patients, Requesting Practitioners and Imaging team members for
+Rural Non-Hospital practices occurs with the following:
+•
+•
+•
+•
+
+Permanently deployed Radiologist within the practice;
+Accredited general radiology reporting skills;
+Accredited Tier A interventional skills;
+A 5-year commitment to the practice.
+
+For Rural Hospital practices this may be enhanced by:
+•
+
+Accredited Tier B interventional skills.
+
+The table below shows the Benefit Impact from varying grades of Radiology Service typically
+provided in Rural Practice locations:
+
+General
+Reporting
+
+Contrast
+Injections
+All
+Interventional
+procedures
+
+Level of Radiologist Practice Commitment on site
+Tele-Radiology
+Locums
+Locums
+Full Time
+only
+occasionally plus
+Tele-Radiology
+Permitted with
+Permitted
+Permitted
+Permitted
+telephone
+consultation with
+staff or
+requesting
+practitioner if
+required
+Not permitted
+Permitted for Radiologist on-site but
+Permitted
+dependent on locum competency
+and willingness
+Not permitted
+Permitted but dependent on locum
+Permitted
+competency and willingness
+
+Training and
+guidance for
+Clinical team
+members
+
+Sub-optimal, rare
+and telephone
+basis. Highly
+ineffective
+professional
+development.
+
+Sub-optimal, rare
+and telephone
+basis. Highly
+ineffective
+professional
+development.
+
+Information
+sessions for
+Requesting
+Practitioners on
+site
+
+Requesting
+Practitioner
+initiates the call
+on most
+occasions.
+
+Locum may initiate the call for
+adverse findings only.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+Sub-optimal and
+rare. Highly
+ineffective
+professional
+development.
+
+Ongoing on the
+job and formal
+feedback for
+team members.
+Highly effective
+professional
+development.
+Frequent
+Radiologist
+initiated phone
+calls.
+Periodic face to
+face meetings
+providing
+information
+sessions.
+4|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Building trust
+with Patients
+
+Level of Radiologist Practice Commitment on site
+Tele-Radiology
+Locums
+Locums
+Full Time
+only
+occasionally plus
+Tele-Radiology
+No patient
+Minimal patient contact generally.
+Known within the
+contact.
+community.
+Face to face for
+specific case
+management.
+
+Building trust
+with Requesting
+Practitioners
+
+Minimal contact with Requesting Practitioners.
+
+High level of trust
+and collaboration
+in patient
+management.
+
+Outcome
+
+Sub-Optimal
+
+Ideal
+
+Sub-Optimal
+
+Average
+
+District Workforce Shortage Calculation
+What are the key components of DWS?
+The key components of DWS comprise the following:
+•
+•
+•
+
+The latest Medicare billing statistics comprising all active Medicare billing (includes full time
+and part time billing);
+The latest estimates of the Australian resident population as provided by the Australian
+Bureau of Statistics (ABS); and
+Local area boundaries that are defined by the Department with consideration of the ABS
+Australian Statistic Geography Standard (ASGS).
+
+How are Geographical Areas identified for Specialists?
+DWS classifications for Specialists are provided for geographical areas that are referred to as SLA3
+boundaries. SLA3 boundaries are determined using the ASGS.
+Statistical Local Area (SLA) boundaries do not necessarily align with postcode or suburb boundaries.
+
+How is DWS calculated for Specialists?
+The Medicare billing statistics and ABS population data are used to determine the average number
+of FTE specialists of a type within each SLA3 per 100,000 residents.
+The number of FTE specialists per 100,000 persons is then compared with the national average
+number of specialists per 100,000 persons to identify DWS areas.
+DWS determinations are updated annually (generally February of each year).
+When applying the Medicare provider number restrictions under section 19AB of the Health
+Insurance Act 1973 (the Act), DWS areas for medical specialties are defined as:
+•
+
+A SLA3 that is classified as outer regional (RA3), remote (RA4) or very remote (RA5) under
+the ASGS, or
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+5|Page
+
+Regional Inequality in Australia
+Submission 16
+
+•
+
+A SLA3 that is classified as a major city (RA1) or inner regional areas (RA2) under the ASGS
+that has a lower FTE specialist per 100,000 person’s ratio than the current national
+average.
+
+It should be noted that for some medical specialties (for example Nuclear Medicine Physicians) the
+average number of FTE equivalent specialists is not applied, due to the low number of specialists
+across Australia. These specialties are considered to be in acute shortage, and all areas of Australia
+are considered to be DWS.
+
+Radiologist FTE Ratios
+Medicare do NOT publish the Average Radiologist per 100,000 persons ratios. The table below
+shows global ratios for Australia and New Zealand 1, Europe 2 and the USA 3.
+
+Global Ratios - Radiologists per 100,000
+18
+16
+14
+
+15.7
+
+12
+
+14.5
+12.3
+
+10
+
+10.8
+10.4
+
+8
+
+10.4
+
+6
+
+8.4
+
+8.1
+
+NZ
+
+Australia
+
+4
+
+6.8
+
+2
+0
+
+Austria
+
+France
+
+USA
+
+Germany
+
+Turkey
+
+Radiologists per 100,000
+
+UK
+
+Average
+
+The RANZCR College from its annual
+activities report provides the
+following in terms of geographical
+deployment of its Radiologist
+members.
+This data enables the following chart
+showing the Australian Radiologist
+ratio per 100,000 in terms of the
+ASGC-RA classification scheme.
+
+Source: RANZCR Activities Report: Essential data on clinical radiology … training, workforce and research
+activities
+2
+Source: Knoema Physicians by Medical Specialty 2016
+3
+Source: Harvey L Neiman Health Policy Institute (2013) USA
+1
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+6|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+7|Page
+
+Regional Inequality in Australia
+Submission 16
+
+DWS Inequality in Regional Victoria
+We would like to demonstrate the inequality with consideration of the locations in Ballarat, Bendigo
+and Shepparton.
+
+Inequality in Ballarat
+The Ballarat DWS Statistical Local Area is shown
+on the chart in BLUE. The Grampians Health
+Region is shown in ORANGE and the primary
+centre for provision of health services to this
+entire region is centred on Ballarat.
+46% of patients attending imaging services in
+Ballarat reside outside the DWS SLA3.
+The SEIFA index of 960 for the Health Region is an
+indicator of socio-economic inequality which is
+known to manifest itself in increased health risks
+and need for health services.
+All areas outside the Ballarat DWS SLA3 are DWS
+for Radiologists.
+When considering Ballarat alone the
+ratio is slightly below that for RA1
+Major cities. Which explains why
+Ballarat is NOT DWS for Radiologists.
+However, when the actual patient
+catchment or Health Region is
+considered then the ratio is half that of
+Major cities.
+Inequality in DWS status for the Ballarat
+Health Region.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+8|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Inequality in Bendigo
+The Bendigo DWS Statistical Local Area
+is shown on the chart in BLUE. The
+Loddon Mallee Health Region is shown
+in ORANGE and the primary centre for
+provision of health services to this
+entire region is centred on Bendigo.
+57% of patients attending imaging
+services in Bendigo reside outside the
+DWS SLA3.
+The SEIFA index of 949 for the Health
+Region is an indicator of socio-economic
+inequality which is known to manifest
+itself in increased health risks and need
+for health services.
+All areas outside the Bendigo DWS SLA3
+
+are DWS for Radiologists.
+The inequality in Bendigo
+is more apparent.
+One half the major city
+ratio based on using the
+DWS SLA3.
+And almost one quarter
+the major city ratio when
+taking into account the
+patient catchment in the
+Health Region.
+
+Radiologist Average per 100,000
+12.0
+
+10.4
+
+10.0
+8.0
+5.9
+
+6.0
+4.0
+
+3.1
+
+2.0
+0.0
+
+RA1 Major Cities
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+Bendigo DWS
+
+Bendigo HR
+
+9|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Inequality in Shepparton
+The Shepparton DWS Statistical Local
+Area is shown on the chart in BLUE. The
+Hume Health Region is shown in
+ORANGE and the primary centre for
+provision of health services to this
+entire region is centred on Shepparton.
+77% of patients attending imaging
+services in Shepparton reside outside
+the DWS SLA3.
+The SEIFA index of 961 for the Health
+Region is an indicator of socioeconomic inequality which is known to manifest itself in increased health risks and need for health
+services.
+All areas outside the Shepparton DWS SLA3 are DWS for Radiologists.
+When considering Shepparton alone
+the ratio is slightly above that for
+RA1 Major cities. Which has two
+outcomes:
+•
+
+•
+
+It explains why Shepparton
+is NOT DWS for
+Radiologists;
+It reinforces that the
+number of Radiologists
+located in Shepparton are
+based there to service the
+broader Health Region;
+
+Radiologist Average per 100,000
+12.0
+
+10.4
+
+10.6
+
+10.0
+8.0
+6.0
+
+4.3
+
+4.0
+2.0
+0.0
+
+RA1 Major Cities
+
+Shepparton DWS
+
+Shepparton HR
+
+However, when the actual patient catchment or Health Region is considered then the ratio is one
+fifth that of Major cities.
+Inequality in DWS status for the Shepparton Health Region
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+10 | P a g e
+
+Regional Inequality in Australia
+Submission 16
+
+Melbourne has more DWS locations than Regional Victoria
+The Medicare DWS (in green) for Radiologists
+in the Melbourne metropolitan area
+demonstrates the Inequality further where
+the patient catchment more closely matches
+the DWS area rather than the far larger
+actual health areas in regional Victoria.
+68% of the population in the Melbourne
+region live in areas which are DWS for
+Radiology.
+ZERO% of patients in Shepparton, Bendigo
+and Ballarat live in an area which is DWS for
+Radiology.
+
+Figure 1 DWS areas in greater Melbourne
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+11 | P a g e
+
+Regional Inequality in Australia
+Submission 16
+
+DWS Inequality in Toowoomba and the Darling Downs
+The Toowoomba DWS Statistical Local Area is shown on the chart in BLUE. The Darling Downs Health
+Region is shown in ORANGE and the primary centre for provision of health services to this entire
+region is centred on Toowoomba.
+
+Key Facts comprise:
+1. 26% of patients attending imaging at the Darling Downs Imaging practice live outside
+the Toowoomba DWS SLA3;
+2. 42% of the population in the Health Region live outside the Toowoomba DWS SLA3;
+3. 11 radiologists are located in the Health Region (including 9 in Toowoomba). They
+provide reporting services to imaging practices located outside the Toowoomba DWS
+SLA3 and provide coverage in the Health Region;
+4. The Health Region covers 79,660 sq km with the furthest distance being 350+km from
+Toowoomba;
+5. Toowoomba is the health hub for the region and beyond.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+12 | P a g e
+
+Regional Inequality in Australia
+Submission 16
+
+The chart below provides a comparison between ratios for RA1 Major cities in Australia (10.4) and
+the Global Average (10.8) compared with the Toowoomba DWS and the Health Region (HR).
+
+The chart below shows the same geographical location ratios but compared with the Australian
+Average of 8.1 Radiologists per 100,000.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+13 | P a g e
+
+Regional Inequality in Australia
+Submission 16
+
+Key Facts comprise:
+1. The ratio within the Toowoomba DWS SLA3 is well below Global Standards and
+also below that for the Australian average;
+2. More significantly the ratio for the Toowoomba HR is well below both Global,
+Australia and also the RA2 Inner Regional average;
+3. The Medicare calculation of DWS based on Toowoomba SLA3 does NOT accurately
+reflect the patient catchment served within the Health Region;
+4. The patient community within the Darling Downs Health Region is disadvantaged
+in comparison to those in RA1 Major City and RA2 Inner Regional communities.
+
+Socio-Economic Status for Toowoomba
+SEIFA is a key measure of socio-economic condition 4by geographic area and there is a proven
+relationship between socio-economic disadvantage and various health and educational outcomes.
+Any geographic area with a SEIFA score below 1000 is considered to be at a socio-economic
+disadvantage.
+
+Australian Bureau of Statistics, Socio-Economic Indexes
+http://www.abs.gov.au/websitedbs/censushome.nsf/home/seifa
+
+4
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+14 | P a g e
+
+Regional Inequality in Australia
+Submission 16
+
+Key Facts comprise:
+•
+•
+
+•
+
+SEIFA lower than 1000 manifests itself in increasing health needs within the
+community;
+The Health Region has a growing aged population with aging increased health
+needs. 19% of the population is aged 65 years or greater compared with the
+Australian metropolitan average of 13.7%;
+The geographical features of the region in terms of size and distance mean that
+patients needing access to specialist care need to travel long distances to
+Toowoomba.
+
+Brisbane has more DWS locations than the Darling Downs Regional area
+The Medicare DWS (in green) for
+Radiologists in the greater Brisbane area
+demonstrates the inequality further
+where the patient catchment more
+closely matches that used in the DWS
+calculation.
+70% of the population in the Brisbane
+region live in areas which are DWS for
+Radiology.
+ZERO% of patients in Toowoomba live an
+area that is DWS for Radiology, yet that
+area must service the population resident
+in the much larger Darling Downs region.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+15 | P a g e
+
+Regional Inequality in Australia
+Submission 16
+
+Recommended Action to Overcome Inequality in Regional DWS
+The solution is intended to be simple and comprises the following approach:
+•
+•
+•
+
+For RA2 Inner Regional practice locations and above they need to provide evidence of the
+DWS Statistical Local Area in terms of specialists FTE’s; AND
+Provide evidence of the actual patient catchment to form a Health Region. For the health
+region also provide an analysis of specialist FTE’s; AND
+Where it is proven that the Health Region is disadvantaged compared to RA1 Major Cities or
+the DWS SLA3 calculation then either the Minister or a delegate can make a discretionary
+decision to allow a DWS specialist for a specific practice location.
+
+In the case of Toowoomba, Ballarat, Bendigo and Shepparton an additional DWS Radiologist
+permitted for each location would start to reduce the inequality and bring an increasing level of
+Major city diagnostic imaging and interventional services to those health regions.
+
+Regional Inequality in Australia – DWS Limits Radiology
+
+16 | P a g e
+
+Regional Inequality in Australia
+Submission 16
+
+Regional Inequality in Australia
+Economic References Committee
+Regional Inequality exists for patients seeking access to Medicare funded MRI.
+Key facts comprise:
+•
+
+•
+•
+
+•
+•
+
+Regional communities are reliant on centralised specialist services. They tend to have
+lower socio-economic status, higher health status indicators and a greater reliance on
+Medicare funded healthcare than those living in Major Cities;
+Patients in Regional communities have less access to Medicare funded MRI - in terms of
+accessibility they are 29.8% worse off than Major Cities;
+MRI is an imaging technology of significant benefit to patients. The presence of MRI in a
+practice also expands the range of specialist services provided to the community.
+Additionally it attracts and improves retention rates of diagnostic imaging staff;
+Lack of access to Medicare funded MRI may result in the use of Xray or CT with resultant
+exposure to radiation does;
+There is no open process to make application for MRI licences in order for the Inequality
+to be judged and a decision made on specific criteria.
+
+Contents
+Overview ................................................................................................................................................. 2
+Benefits of MRI ....................................................................................................................................... 3
+Specific Sub-Specialty Benefits ........................................................................................................... 3
+Oncology ......................................................................................................................................... 3
+Neurology........................................................................................................................................ 4
+Trauma Management ..................................................................................................................... 4
+Paediatric Services .......................................................................................................................... 4
+Cardiac Services .............................................................................................................................. 4
+Generic MRI Benefits to Patients ........................................................................................................ 5
+Example: Limited Access in Mackay........................................................................................................ 6
+Example: Limited Access in Ballina ......................................................................................................... 7
+Recommended action to overcome Inequality in Regional access to Medicare funded MRI ................ 8
+
+Submitted by Able Medico Advisors.
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+1|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Overview
+There are significant benefits to patients, requesting practitioners, clinical staff and the community
+from having access to Medicare rebates for MRI. In Regional Australia this access is more limited.
+•
+•
+•
+•
+•
+
+Regional health services provide coverage to patients in a broader catchment than
+metropolitan locations;
+Patients in regional locations often travel significant distance to access specialist services;
+Patients in regional locations may delay specialist consultation owing to transport or cost;
+Per head of population patients in Major Cities have 29.8% greater access to Medicare
+funded MRI;
+Regional communities often have significantly lower socio-economic status and higher
+health status indicators than communities in Major Cities. There is a high reliance on public
+health services.
+
+There is no current process to request a Medicare rebate for an MRI. Licences have been granted at
+the discretion of the Federal Health Minister outside the tender process. These have been largely in
+metropolitan locations with one exception.
+The result is significant inequality as follows:
+•
+•
+
+•
+
+Regional practices cannot offer Medicare rebated MRI services with impacts on patients in
+terms of cost, time and early diagnosis;
+Increased use of less appropriate imaging technology such as Xray or CT as Medicare rebates
+are available to patients for these technologies, with resultant increased radiation exposure
+to patients;
+Patients need to travel long distances to access specialist care.
+
+The terms of reference specifically addressed in this submission comprise:
+•
+•
+•
+
+•
+
+Fiscal policies at Federal, State and local government levels from the perspective of early
+and effective diagnostic imaging reduces health costs in the longer term;
+Regional development from the perspective of improving the healthcare infrastructure and
+support for regional communities;
+Enhancing local workforce skills through education which provides attractive regions for
+young radiographers and sonographers, nursing and clerical staff; and Radiologists to remain
+in regional practices rather than relocate to Major cities where MRI is more prevalent;
+Building human capital in locating willing overseas qualified specialists into regional
+locations.
+
+The recommendation proposed is:
+An open process to enable application to be made for MRI licences in Regional areas meeting
+specific criteria.
+
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+2|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Benefits of MRI
+Multiple factors are contributing to increasing MRI usage including:
+•
+•
+•
+•
+•
+
+New MRI applications;
+Rapidly expanding and aging local population;
+Higher radiation awareness and the preference for MRI over ionising radiation modalities such
+as CT;
+Expanding clinical services within Regional Health Districts; and
+Expanded MRI services attract and retain specialists with greater clinical expertise.
+
+There are two categories of benefits to patients comprising:
+•
+•
+
+Specific sub-specialty benefits for patients; and
+Generic benefits from the use of MRI in contrast to other imaging modalities.
+
+Specific Sub-Specialty Benefits
+Subspecialty Services include:
+•
+•
+•
+•
+•
+
+Oncology
+Neurology
+Trauma Management
+Paediatric services
+Cardiac services
+
+Oncology
+Head and Neck Tumours
+MRI is the modality of choice for accurately staging primary head and neck cancers and the extent of
+any associated lymph nodal metastases. Primary sites in tongue base, floor of mouth larynx etc can
+be only assessed with MRI and CT has limited role.
+Breast and Lung Cancer
+MRI with contrast enhancement is used to compliment Ultrasound and Mammography in the
+preoperative evaluation of Breast Cancer. MRI imaging is required for disseminating metastatic
+cancers such as Breast and Lung in the investigation of:
+•
+•
+
+Spine for spinal cord compression; and
+Brachial Plexus involvement/peri neural spread.
+
+Brain Tumours
+MRI is the major diagnostic modality for the diagnosis, preoperative planning, and follow-up of Brain
+tumour. The following clinical signs of disease can be assessed only with MRI:
+•
+•
+•
+•
+•
+•
+
+Characterising brain tumour biology;
+Guiding therapy;
+Assessing therapeutic response;
+Detecting early treatment failure;
+Distinguishing tumour recurrence from treatment effects; and
+Predicting clinical outcome.
+
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+3|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Gynaecological Cancer
+MRI is used routinely in the staging of cervical cancer as the preoperative test of choice.
+Colorectal Cancer
+All patients with newly diagnosed colorectal cancer should receive a staging MRI within a week of
+diagnosis for pre-surgical planning and staging. Accurate determination of the extent and spread of
+the cancer is pivotal in optimising treatments and improving patient outcomes.
+Hepato Biliary Cancer
+MRI imaging is the non-invasive test of choice for evaluation of the biliary tree. Patients with known
+HBV/ HCV receive a serial liver MRI to monitor the status of the liver and exclude Hepatocellular
+Carcinoma.
+Lymphoma and Haematological Cancers
+MRI imaging is pivotal in providing an accurate preoperative diagnosis of CNS Lymphoma and
+providing a differential diagnosis from GBM which is non-operative. MRI of the spine is routinely
+required in the follow up of Lymphoma cancers to assess the treatment response and exclude spinal
+cord compression.
+
+Neurology
+Stroke Service
+MRI full brain imaging with diffusion and perfusion techniques enables excellent assessment of all
+vascular territories and exceptional delineation of acutely infarcted tissue.
+MRI provides superior detection of small and posterior circulation stroke. At least 15% of all ischemic
+strokes occur in the vertebro-basilar region (posterior circulation). MRI is superior to CT in imaging the
+vertebro-basilar territory. MRI can detect multiple small acute embolic infarcts. Use of MRI reveals
+that 5% of suspected ischaemic stroke patients have other pathology and that 10% have a bleed.
+Patients who have had a TIA have a 24–29% estimated risk of stroke in the first 5 years after the event.
+MR Imaging is ideally performed within 72 hrs of the event.
+Multiple Sclerosis & Neuro Myelitis Optica
+Dementia, Alzheimer’s & Parkinson’s
+MRI is a valuable tool in the initial assessment of patients with cognitive decline. Diagnosis of FrontoTemporal dementia or AD can be established only on MRI.
+MRI also plays a pivotal role in the initial assessment of movement disorders like Parkinson ’s disease,
+Epilepsy management is heavily dependent on the use of MRI to exclude a treatable cause of epilepsy.
+
+Trauma Management
+MRI is the modality of choice for the investigation of spinal cord injuries and brachial plexus
+pathologies.
+
+Paediatric Services
+MRI is particularly suited to paediatric examinations. Avoidance of exposure to radiation is key.
+
+Cardiac Services
+Cardiac MRI may be utilised in the investigation of the following pathologies:
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+4|Page
+
+Regional Inequality in Australia
+Submission 16
+
+•
+•
+•
+•
+•
+
+Structure and Function;
+Congenital Anomaly;
+Tumours/ Masses;
+Viability and Function; and
+Myocardial Abnormality – HOCM, RV Dysplasia.
+
+Generic MRI Benefits to Patients
+MRI is particularly useful for the scanning and detection of abnormalities in soft tissue structures in
+the body like the cartilage tissues and soft organs like the brain or the heart. MRI is the Gold
+standard diagnostic tool for these. Common uses of MRI in diagnosis comprise:
+•
+•
+•
+•
+•
+
+Tumours of the chest, abdomen or pelvis;
+Diseases of the liver, such as cirrhosis and abnormalities of the bile ducts and pancreas;
+Inflammatory bowel disease such as Crohn’s disease and ulcerative colitis;
+Heart disease such as congenital heart disease;
+Malformations of the blood vessels and inflammation of the vessels;
+
+MRI enables the discovery of abnormalities that might be obscured by bone with other imaging
+methods;
+MRI scans have specific advantages over X-rays as they can:
+•
+•
+
+Show swelling and inflammation; and
+Show both three-dimensional and cross-section images of the body without repositioning
+the patient;
+
+Patients do not receive a Radiation dose from MRI so it is safe for patients vulnerable to the effects
+of radiation such as pregnant women or babies;
+MRI scans can provide information about the blood circulation throughout the body and blood
+vessels and enabling detection of problems related to blood circulation;
+MRI scans provide very detailed diagnostic pictures of most of the important organs and tissues in
+your body and are sometimes able to show unique information that other tests are unable to show;
+Safety studies have found no long-term negative effects from MRI scans;
+Unlike the contrast media used in X-rays, the contrast dye used in MRI scans (gadolinium chelate)
+does not contain iodine and rarely causes allergic reactions;
+Advanced techniques such as diffusion, spectroscopy and perfusion allow for precise tissue
+characterisation rather than merely “macroscopic” imaging;
+MRI is non-invasive and has fewer complications. A comparison could be MRI Brain versus 4 vessel
+Cerebral Angio;
+MRI is a cost-effective diagnostic imaging tool.
+MRI offers a wide scope of application for Radiologists:
+•
+•
+
+Imaging value across all body area (Neuro, MSK, Abdomen, Pelvic, Neonatal, Cardiovascular,
+Breast), and
+All patient demographics from paediatric to geriatric;
+
+MRI diagnostic capabilities continues to grow each year with further research providing new
+sequences, faster scans and new disease targets.
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+5|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Example: Limited Access in Mackay
+There is one full Medicare rebated MRI located in Mackay, within the Base Hospital. The MRI in the
+Mackay Health District also provides services for patients located in the Central West where no
+rebated MRI are provided.
+
+PRACTICE CRITERIA
+Comprehensive practice YES
+On-site radiologist YES
+Integrated RIS/PACS YES
+DWS for Radiology YES
+Practice Zone is 1 MRI per 106324 persons
+Patient Catchment is 1 MRI per 166812
+Metropolitan comparative is 1 MRI per 86819
+7 Hospitals in Patient Catchment with ED and 2
+Hospitals without ED
+
+SOCIO-ECONOMIC CRITERIA
+SEIFA 1002
+Lower level of private health insurance
+Higher unemployment
+Higher low-income families
+Higher single parent
+Higher disability support and aged pensioners
+Higher rental assistance
+
+HEALTH STATUS INDICATORS
+Higher self-reported poor health status
+Higher smokers
+Higher physical inactivity
+Higher obesity
+Lower daily intake of fruit
+Higher people with at least 1 of 4 factors
+Higher cancer incidence
+Higher avoidable mortality and death rate
+Higher ED presentations
+High health status indicators
+
+COMPARATIVE SCORES
+193.2 for the Practice Zone (benchmark 166)
+193.9 for the Patient Catchment (benchmark
+142)
+
+High reliance on Medicare funded healthcare
+
+Score highlights need to consider another MRI
+licence in Mackay to serve the patient
+catchment.
+
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+6|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Example: Limited Access in Ballina
+Ballina is a region that is characterised by a growing population, large proportion of aged over 65,
+higher levels of health status indicators and very low socio-economic status. There is a high level of
+delayed medical consultation owing to lack of transport.
+
+PRACTICE CRITERIA
+Comprehensive practice YES
+On-site radiologist YES
+Integrated RIS/PACS YES
+DWS for Radiology YES
+Practice Zone is ZERO MRI per 90748 persons
+Patient Catchment is 1 MRI per 142514
+Metropolitan comparative is 1 MRI per 86819
+2 Hospital in Patient Catchment with ED and 2
+Hospitals without ED
+HEALTH STATUS INDICATORS
+Higher self-reported poor health status
+Higher smokers
+Higher physical inactivity
+Higher obesity
+Lower daily intake of fruit
+Higher people with at least 1 of 4 factors
+Very High cancer incidence
+Higher avoidable mortality and death rate
+Higher ED presentations
+High ATSI population
+High health status indicators
+
+SOCIO-ECONOMIC CRITERIA
+SEIFA 950 which is VERY LOW
+Lower level of private health insurance
+Higher unemployment
+Higher low-income families
+Higher single parent
+Higher disability support and aged pensioners
+Higher rental assistance
+High reliance on Medicare funded healthcare
+COMPARATIVE SCORES
+179.5 for the Practice Zone (benchmark 166)
+258.4 for the Patient Catchment (benchmark
+142)
+Score highlights need to consider another MRI
+licence in Ballina to serve the patient
+catchment.
+
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+7|Page
+
+Regional Inequality in Australia
+Submission 16
+
+Recommended action to overcome Inequality in Regional access to
+Medicare funded MRI
+A solution to provide an open application process which comprises meeting specific criteria
+covering:
+•
+•
+•
+
+•
+•
+
+Patient catchment serviced and comparison with metropolitan MRI per 100,000 patients;
+Evaluation of the practice location comprising: MRI located within a comprehensive facility
+with an on-site FTE Radiologist and geographically accessible RIS/PACS; DWS status;
+Evaluation of the referrer base comprising number of Medicare rebatable MRI within the
+patient catchment; Hospitals with and without ED; distance to MRI; number of GP and
+specialists, and patient presentations;
+Evaluation of socio-economic data to determine the ability of the patient community to
+afford MRI services and their reliance on public funded health services;
+Evaluation of health demographic data to determine the state of health in terms of level of
+aged population; level of ATSI population; obesity; smokers; diet; cancer incidence; child and
+youth mortality; at risk alcohol consumption; GP and specialist presentations; ED
+presentations.
+
+Each of the criteria are weighted to provide an overall score enabling comparison and decision
+making.
+A prototype model comprising 47 criteria for a Practice Zone (30k for Regional) and actual Patient
+Catchment was used to evaluate a benchmark location versus the two examples:
+
+In short both Ballina and North Mackay rank higher for both the practice zone and the actual patient
+catchment.
+
+Regional Inequality in Australia – Lack of Medicare Rebatable MRI
+
+8|Page
+
+

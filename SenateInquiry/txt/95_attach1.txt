@@ -1,0 +1,6192 @@
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Pillars of communities
+Service delivery professionals in small Australian towns 1981 – 2011
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+1
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Disclaimer and copyright
+This research report translates and analyses findings of research to enable an informed public
+discussion of regional issues in Australia. It is intended to assist people to think about their
+perspectives, assumptions and understanding of regional issues. No responsibility is accepted
+by the Regional Australia Institute Limited, its Board or its funders for the quality of advice or
+decisions made by others based on the information presented in this publication.
+Unless otherwise specified, the contents of this report remain the property of the Regional
+Australia Institute (RAI). Reproduction for non-commercial purposes with attribution of authorship
+is permitted.
+
+Acknowledgements
+The RAI gratefully acknowledges the contribution of the government departments and
+organisations who have assisted with the development of this report, including the Department
+of Infrastructure and Regional Development, New South Wales Department of Premier and
+Cabinet, the Department of State Development Queensland, the Royal Flying Doctor Service,
+Virtual Health, The Benevolent Society, Royal Far West, the National Rural Health Alliance,
+and the National Farmers Federation.
+
+Reference
+This report can be referenced as:
+Bourne, K., Nash, A., Houghton, K. (2017) Pillars of communities: Service delivery professionals
+in small Australian towns 1981 – 2011. The Regional Australia Institute.
+
+Contacts and Further Information
+
+To discuss this research report please contact:
+Dr Kylie Bourne
+Senior Researcher
+
+Further information can be found at www.regionalaustralia.org.au
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+2
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Contents
+Executive Summary ........................................................................................................... 4
+Introduction ....................................................................................................................... 6
+Small Towns in Australia .................................................................................................. 9
+Face-to-Face Access to Service Delivery Professionals ................................................... 11
+The Impact of Remoteness on Professional Availability................................................. 15
+The Impact of Town Size on Professional Availability .........................................................17
+Are the Gaps Closing? .................................................................................................... 19
+Health services in Hay, NSW....................................................................................................24
+Education in Queenstown, TAS..................................................................................................25
+Service provision in the remote town of Bourke, NSW ........................................................26
+Incentive programs for regional policing ...............................................................................27
+Where to From Here? ........................................................................................................................29
+Supporting places in most need to solve local access problems ........................................30
+Increasing the scope and accessibility of digital services ...................................................31
+Helping the professionals who are there do more ...............................................................32
+Reviewing what works................................................................................................................32
+Conclusion.............................................................................................................................................34
+Appendices...................................................................................................................... 35
+A1: Compendium of rates of service delivery professionals in Australia’s small towns
+1981 to 2011..............................................................................................................................35
+A2: Growth in service delivery professionals 1981 – 2011 (headcount)........................55
+A3: Developmental vulnerability service professionals by remoteness and town size. .56
+A4: Definitions and Data ...........................................................................................................59
+What we analysed .....................................................................................................................59
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+3
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Executive Summary
+Providing access to services for small towns is a national challenge in Australia. Our
+geography and our settlement patterns are dominated by large cities and their hinterlands,
+making service networks difficult to sustain for many small and distant places. Yet as difficult
+as this might be, getting basic services right for these places is a key to supporting these
+communities and their economies.
+To understand the services picture in our smallest towns, the Regional Australia Institute (RAI)
+reviewed the long term change in the availability of services delivery professionals in these
+communities across 30 years from 1981 to 2011. We measured the number of doctors, nurses,
+dentists, police officers, psychologists, teachers, paramedics and social welfare professionals
+in small towns in 1981 and again in 2011. Face-to-face service delivery is increasingly
+becoming just one of several modes – which now encompass fly-in visits and digital
+technologies. But in the period we look at, the number of local service professionals was the
+key measure of availability, and analysis of the trends shows some important findings.
+We found a mixed picture. While the number of service delivery professionals in some towns
+had greatly improved, this growth was limited mainly to inner regional areas. Efforts to
+increase the number of service delivery professionals in small towns in other areas were much
+less successful. Between 1981 and 2011, the number of professionals in inner regional small
+towns grew by 85 per cent, but there was growth of only seven per cent in small towns in
+remote and very remote areas. This is despite the fact that education and health outcomes are
+consistently worse in remote and very remote areas.
+This research found that most towns were more likely to have a nurse or a primary school
+teacher than any other type of service delivery professional, including police officers and
+health specialists. Small towns are ten to twelve times more likely to have a nurse in their
+communities than a GP, and three times more likely to have a primary school teacher than a
+police officer. Very few small towns have health specialists within their communities, including
+psychologists and dentists, even though mental health and dental health are nationally
+significant service priorities. The gaps between small towns and the rest of Australia are
+growing for these types of specialist professionals.
+Similarly, while the rates of developmental disadvantage in children increase with remoteness,
+the number of preschool teachers has gone from an advantage for small towns on a per
+capita basis, to a deficit. Getting service delivery professionals into small towns in very remote
+areas remains challenging.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+4
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Although there are instances where the gap in service delivery personnel between major cities
+and small towns is closing, overall these gaps remain significant and for some professions the
+trend is that the gaps are widening rather than narrowing. Across the country billions of
+dollars are provided from governments in support for professionals to work in small places,
+but clearly these initiatives are not always working as well as hoped.
+This research has several implications for policy makers, specifically:
+• Support community led initiatives. Some towns are bypassing state and
+Commonwealth processes in order to attract service delivery professionals to their
+communities. Some places have worked around administration-heavy procedures to
+entice education and health professionals by offering attractive housing or low-rent
+business premises. These efforts should be encouraged and supported as part of
+professional support programs.
+• Flexibility in the roles of professionals in small towns. Where there are service
+professionals located in small towns, their scope of work needs to be flexible enough
+to better meet community needs. For example, perhaps pharmacists and nurses should
+be able to provide vaccinations, dress wounds and take x-rays.
+• Virtual service delivery methods such as online services should complement the
+presence of service delivery professionals in small towns rather than replace them
+outright. Virtual services have the potential to significantly widen the scope of services
+that can be delivered to small town populations without the need for extensive travel.
+However, there is still considerable debate about the effectiveness of virtual only
+services that are delivered in isolation from local professionals, and how to embed
+virtual services most effectively. Services that complement and extend the scope of
+practice for local generalists rather than seeking to replace them should be the
+priority.
+• Incentives need to target hard to staff areas. The growth in inner regional service
+professionals combined with their proximity to more populous places with a great
+range of services lessens their need for support. Incentives to professionals should be
+closely targeted to promote growth in the professionals available in the remote areas
+that need them most.
+Consistent face-to-face access to service delivery professionals is an important part of
+improving outcomes in small towns and in improving longer-term economic and social prospects
+in some of Australia’s most disadvantaged places.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+5
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Introduction
+In Australia, small towns were originally settled to develop and service the nation’s rural
+industries. Governments also promoted inland settlement and agricultural communities in
+regional areas.i Small towns continue to be foundations of the economic and social life of
+regional Australia, and core professional services are the community pillars built on these
+foundations.
+The quality of access to services in these communities is fundamental to community wellbeing. It
+also has a direct relationship to productivity of its local economy. If people have poor health
+or are poorly educated, they are more likely to rely on social welfare, to have lower wages
+and living standards. When people cannot access the services and support their family needs,
+they may move to areas where they can access this support or choose not to move to a small
+town at all.
+Although there are trends of population decline, the perception that small towns are, in and of
+themselves, ‘dying’ does not hold.ii Between 1981 and 2011, the number of Australians living
+in small towns rose, both as a raw number and as a proportion of the national population.iii
+Some small towns experience population decline and associated losses, but others have grown.
+In 1981 7.9 per cent of the Australian population lived in small towns. By 2011 this proportion
+had grown to 8.5 per cent.
+As the economic base and populations of small towns shift, so too do the kinds of social, health
+and education resources and services that they require. Needs are different, but often not well
+understood. While the divide between regional and urban Australia has been well publicised,
+the growing division within ‘regional Australia’ is less well appreciated. When pooled together
+with other non-urban areas and places, the divide dilutes any focus on the unique issues that
+are faced by small towns outside major cities.
+With this in mind, the Regional Australia Institute (RAI) has explored the smaller towns of
+Australia in their own right – those communities outside of major metropolitan areas and with
+populations less than 5,000 people. To begin to understand the unique challenges of service
+provision in these communities, we have tracked over the long term the prevalence and percapita ratio of service delivery professionals in small Australian towns from 1981 to 2011.
+The research is based on a customised data set provided by the Australian Bureau of Statistics
+on census counts of specific occupations over the period for small towns with populations
+between 200 and 5,000 people.
+Tracking this change does not provide a complete picture of changes in services delivery, as
+other ways of delivering services are emerging beyond face-to-face modes. Fly-in specialists
+are becoming more commonplace, as is use of digital technologies to both deliver previously
+unavailable services and augment existing services. But tracking the number of local
+professionals provides a consistent foundation for assessing a community’s capacity to access
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+6
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+face-to-face services over the long term. Our results can be updated with data from the
+2016 census, but we chose the 30 year period to 2011 to separate the long term trends from
+the shorter term influences of current policy settings.
+People are the foundation of small town economies. When people in small towns are
+supported, communities can more successfully meet economic challenges and can better adapt
+to structural change.iv A town’s ability to do this depends not only on its natural assets,
+capacity to access investors or even on the experience and skills of its labour force. Crucially,
+it also depends on the level of social capital in a town, on people’s ability to share ideas,
+work together and to build a community.v The Australian Governments most recent regional
+policy statement Regions 2030 asserts that, “regional Australia’s greatest asset has always
+been its people.” vi
+Small towns outside major cities continue to punch above their weight in the economy. They are
+home to primary producing industries including agriculture, mining and some manufacturing,
+which together accounted for 22 per cent of the GDP in 2010 and 16 per cent of national
+employment. vii
+But Australia has not been able to nurture and develop the people who live in its small towns.
+These people continue to experience poorer health outcomes than their fellow Australians.
+Those living in rural and remote small towns have lower life expectancy, higher rates of
+disease and injury than people living in urban areas do. More people die of coronary heart
+disease or diabetes and the rate of death by suicide is four times that of cities.viii The rate of
+hospitalisation from mental health conditions, intentional self-harm and from drug or alcohol
+use is higher in rural and remote communities as well. They are also higher for youth in rural
+and remote settings than in urban settings.ix
+Education outcomes are poorer for communities in these areas too. One third of students in
+regional and rural areas do not finish year 12 and only 18 per cent will go on to complete a
+university degree. Rural students are up to one and a half years behind their metropolitan
+counterparts on NAPLAN and PISA tests.x Worryingly, this disadvantage manifests in early
+childhood as children in rural, regional and remote areas are more likely to be
+developmentally vulnerable than children in metro areas. This trend worsens with remoteness
+as children in very remote areas are twice as likely as those in major cities to be
+developmentally vulnerable. xi
+The presence of service delivery professionals is one key way that social outcomes in a
+community can be improved. In turn, there is clear evidence that improved social outcomes
+help to sustain rises in the income and living standards of people in a community.xii Failure to
+change these headline results is not for want of trying. Governments in all jurisdictions continue
+to invest in programs to entice teachers, nurses, GPs and police officers to underserviced small
+towns in rural and remote locations.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+7
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+The 2017-18 Commonwealth budget alone allocated over $2 billion to be spent over four
+years on workforce and incentive programs to improve the numbers of health delivery
+professionals in rural and remote areas. A similar Commonwealth program for teachers called
+‘Teach for Australia’ has been allocated $77.6 million and supplements a variety of ongoing
+state based incentive programs to entice teachers to schools in small towns. The analysis in the
+report shows, however, that while the number of service professionals in small towns went up
+between 1981 and 2011, including for GPs and teachers, numbers are falling in the smaller
+and more remote places.
+The absence of these services (and their poorer quality when they are provided) in smaller
+and more remote towns is one of the reasons that people, especially those with young families,
+move away from towns in these areas.xiii
+As well as providing impetus to move away from small towns, poor educational, health and
+social outcomes do not allow people in small towns to fulfil their potential. Lower rates of
+wellbeing are associated with poorer productivity in an area and poor levels of educational
+attainment jeopardises the long-term strength of an area’s economy, weakening its bank of
+human capital. xiv xv A lack of access to GPs, dentists, pharmacies and other primary health
+facilities for rural and remote individuals in Australia results in more than 60,000 preventable
+hospitalisations every year.xvi
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+8
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Small Towns in Australia
+In this report we look at small towns by population size and by remoteness. In Australia in
+2011 there were 1,555 small towns – towns with population from 200 to 5,000 residents.
+Most of these were in the eastern states though WA has a large number of towns with
+populations under 1,000.
+State
+
+Under 1,000
+
+1,000 to 2,499
+
+2,500 to 5,000
+
+Total
+
+NSW
+
+266
+
+111
+
+60
+
+437
+
+VIC
+
+194
+
+61
+
+41
+
+296
+
+QLD
+
+242
+
+80
+
+43
+
+365
+
+SA
+
+98
+
+35
+
+16
+
+149
+
+WA
+
+110
+
+27
+
+14
+
+151
+
+TAS
+
+66
+
+15
+
+9
+
+90
+
+NT
+
+52
+
+8
+
+3
+
+63
+
+Total
+
+1,031
+
+338
+
+186
+
+1,555
+
+Table 1: Small towns in Australia, 2011 by size.
+
+Being a small town is actually a dynamic state. Most places have stayed within our population
+ranges for the whole period of the data. While other places have grown beyond the 5,000
+threshold, and a few settlements, mainly around the fringes of east coast capital cities, have
+grown to reach the small town population benchmark.
+Small towns are spread across the Australian land mass. The spread mirrors the town size
+distribution, with most categorised as ‘Inner Regional’ in the ARIA Remoteness classification. A
+map showing the different remoteness classifications across the country is shown on the
+following page, and more detail on the remoteness classification is presented in Appendix A4.
+Inner Regional areas are those closest to the great capital city fringes, and the remoteness
+classification increases with distance from major population centres.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+9
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+10
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Face-to-Face Access to Service Delivery Professionals
+The total number of service delivery professionals in small towns increased between 1981 and
+2011. Across Australia, the number of these professionals grew by 61per cent during this
+period. In small towns, it grew by 70 per cent, outstripping the rate of population growth.
+However this growth was uneven both because some professions increased more than others
+did, and because the growth was affected by remoteness. In 2011, there were twelve times
+as many psychologists in small towns than in 1981, an additional 1,000 GPs and around
+10,000 more nurses. In 2011, 58 per cent of service delivery professionals were in small
+towns in inner regional areas, 28 per cent in outer regional, 7 per cent in remote and 7 per
+cent in very remote areas.
+
+Australia
+
+All
+Small
+Towns
+
+Inner
+Regional
+Small
+Towns
+
+Outer
+Regional
+Small
+Towns
+
+Remote
+Small
+Towns
+
+Very
+Remote
+Small
+Towns
+
+Number of
+small towns
+
+1,555
+
+1,555
+
+743
+
+531
+
+118
+
+163
+
+GPs
+
+202
+
+83
+
+80
+
+87
+
+109
+
+69
+
+Nurses
+
+1,045
+
+1,009
+
+1,114
+
+898
+
+883
+
+756
+
+Psychologists
+
+87
+
+29
+
+37
+
+20
+
+21
+
+5
+
+Dentists
+
+81
+
+19
+
+23
+
+18
+
+6
+
+7
+
+Preschool
+Teachers
+
+85
+
+65
+
+76
+
+48
+
+75
+
+41
+
+Primary School
+Teachers
+
+639
+
+726
+
+700
+
+688
+
+856
+
+1,004
+
+Secondary
+School Teachers
+
+581
+
+583
+
+610
+
+586
+
+504
+
+421
+
+Police Officers
+
+230
+
+269
+
+248
+
+224
+
+395
+
+540
+
+Paramedics
+
+56
+
+79
+
+79
+
+87
+
+79
+
+45
+
+Social Welfare
+Professionals
+
+155
+
+96
+
+107
+
+71
+
+105
+
+111
+
+Table 2: Rate of service delivery professional per 100,000 population, 2011 by remoteness.
+
+Table 2 highlights the extent of the service gap facing residents of small towns. The numbers
+show that on a per-capita basis (the number of service delivery professionals per 100,000
+population equivalent), nationally nurses are the most numerous – at an average of 1,045 per
+100,000 residents. Australia has a quite high ratio of teachers to population as well,
+averaging 639 primary school and 581 high school teachers per 100,000 residents. Least
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+11
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+numerous nationally are paramedics (56 per 100,000 residents) and dentists (81 per
+100,000 residents).
+These ratios show the importance of decentralised and widely distributed nurses and teachers
+as vital service providers in all communities across Australia. The ratios also show that more
+specialist professionals such as dentists and paramedics are much less likely to be distributed
+across smaller communities.
+The scale of the service gap in small
+towns is clear. Small towns, on
+average, have 83 doctors per
+100,000 people, well under half
+the national average of 202. The
+gap in psychologists is even greater
+– just 29 per 100,000 small town
+residents compared with a national
+average of 87. This is despite the
+well-studied importance and
+prevalence of mental health needs
+and issues in regional areas.xvii
+Social welfare professional numbers
+in small towns are also well below
+the national average.
+
+Behind the data
+The information presented is drawn from a customised
+dataset provided by the Australian Bureau of Statistics
+showing people in selected professional service
+occupations in small towns from 1981 to 2011. More
+details are provided in Appendix A4. Mapping the
+long term 30 year trends in the number of these
+professionals in small towns gives a consistent
+foundation to the analysis. However census counts are
+unreliable when small numbers (eg less than 5 people)
+are present and so may not always reflect the actual
+number of professionals living in a place. Our report
+therefore presents numbers aggregated to town size
+and remoteness classifications.
+
+Small towns are well serviced with some professions. The gap in nursing is much smaller (1,009
+per 100,000 compared with the national average of 1,045). The nursing numbers show that
+small towns have over 10 times the availability of nurses compared with GPs – emphasising
+the crucial role that nurses play in regional health. Also of note, while there are far fewer
+paramedics per 100,000 residents, this ratio is also higher in small towns than the national
+average, indicating that this occupation too is helping to fill the gap left by the much lower
+representation of GPs. As an example of how these ratios play out in small towns, the 1981
+Census of the town of Hay in NSW counted 23 nurses and three GPs, a ratio of 7.7 nurses per
+GP.
+Small towns are also quite well served with teachers. While there is a small gap for small
+towns in preschool teachers, the ratios of primary and high school teachers per 100,000 are
+above the national average. This confirms the importance placed on education by all
+governments, and the efforts the nation goes to, to ensure that a good education is available
+at all levels across our smallest and most decentralised communities.
+Policing is the other occupation well represented in small towns – with per capita ratios above
+the national average.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+12
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+When we look at the availability of service delivery professionals across small towns in
+different locations, the table shows clearly that the more remote the town, the lower the ratios
+of professionals to population. The exceptions are primary school teachers, police and social
+welfare professionals, with each higher on a per-capita basis in very remote towns than in less
+remote towns. These figures demonstrate the importance of these three professions in
+supporting a viable remote small town. It could be said that the presence of a nurse and a
+primary school now defines a small town.
+For all the other health and education professions, the more remote your small town the less
+likely you are to have a person in the occupation actually in your community. This holds for
+general health (GPs and nurses) as it does for specialist health professionals (psychologists
+and dentists). In fact at a ratio of just five psychologists per 100,000 residents equivalent, in
+very remote small towns availability is less than one fifteenth of the national average. This
+brings long travel times to residents of these small towns wanting to use psychological services,
+and highlights the underlying need for tele and video links of suitable quality to be available
+as a matter of national urgency.
+To understand how this picture has changed over time, Table 3 looks at the share of small
+towns with at least one of these professionals in 1981 and 2011.
+The picture since 1981 is mixed. In 2011, there were twelve times as many psychologists in
+small towns than in 1981, an additional 1,000 GPs and around 10,000 more nurses. In 2011,
+58 per cent of service delivery professionals were in small towns in inner regional areas, 28
+per cent in outer regional, 7 per cent in remote and 7 per cent in very remote areas.
+In 2011, there were fewer small towns with a dentist, a pre-school, primary or secondary
+school teacher or a police officer than there had been previously. However, there were
+slightly more or about the same number of small towns that had a general practitioner, a
+nurse, a paramedic, or a social welfare professional in its community. Although the gap
+compared to wider Australia remains very large, six times more small towns do have access to
+a psychologist than in 1981.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+13
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Service Delivery
+Professional
+
+Percentage of small
+towns 1981 (per cent)
+
+Percentage of small
+towns 2011 (per cent)
+
+Comment
+
+GP
+
+14
+
+18
+
+Slight increase
+
+Nurse
+
+77
+
+78
+
+Slight increase
+
+Psychologist
+
+1
+
+6
+
+Increase
+
+Dentist
+
+9
+
+5
+
+Decrease
+
+Preschool teacher
+
+25
+
+16
+
+Decrease
+
+Primary school teacher
+
+78
+
+74
+
+Decrease
+
+Secondary school teacher
+
+66
+
+63
+
+Decrease
+
+Police officer
+
+55
+
+46
+
+Decrease
+
+Paramedic
+
+18
+
+19
+
+Slight increase
+
+Social Welfare worker
+
+17
+
+17
+
+No change
+
+Table 3: Proportion of all small towns with service delivery professions within the community,
+1981 – 2011
+
+Overall, most small towns are more likely to have a nurse, a primary school teacher or a
+secondary school teacher than any other service delivery professional. Where a small town
+has a teacher in their community, they are most likely to teach at primary school. Small towns
+are more than twice as likely to have a police officer as a paramedic or a social welfare
+worker. They are around four times more likely to have a nurse than a GP.
+These ratios show the importance of decentralised and widely distributed nurses and teachers
+as vital service providers in all communities across Australia.
+Box One: Coonamble, NSW
+Coonamble in NSW is 161 kilometres north of
+Dubbo. Between 1981 and 2001, the town’s
+population fell by 21% to 2,447. The 1981
+Census counted six GPs, 17 nurses, 29
+primary school teachers, 41 secondary school
+teachers and five social welfare professionals
+in the town. In 2011, Census data indicated
+the number of nurses had increased by one to
+10 (6% increase), primary school teachers to
+16 (45% fall) and secondary school teachers
+to 15 (63% fall). The 2011 Census also
+recorded no GP or social welfare
+professional in Coonamble.
+
+Box Two: Tully, Queensland
+Tully is a small town 141 kilometres south of
+Cairns, Queensland. According to Census
+data, Tully had a 2011 population of
+2,264, which was a 17% decrease from
+1981. Census data indicates that during the
+30 years to 2011, the number of GPs in the
+town remained constant although the
+number of nurses fell from 18 to eight and
+the number of primary school teachers from
+20 to nine. This means that the number of
+both nurses and primary school teachers fell
+by around 55% between 1981 and 2011,
+even though Tully’s population fell by only
+17%.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+14
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+The Impact of Remoteness on Professional Availability
+It is well understood that the severity of health, education and welfare divides in regional
+communities is greater according to remoteness. The corresponding challenges that small towns
+face in accessing service delivery professionals in remote areas is a fundamental contributor to
+these persistent inequalities in Australia.
+Table 4 shows the proportions of small towns with each type of service delivery professional in
+1981 and 2011 broken down by remoteness.xviii With the exception of primary school
+teachers, remote or very remote towns have lower per-capita rates of service delivery
+professionals in their communities than the average Australian small town.
+Unfortunately the situation has not improved in the last 30 years. There were fewer remote
+and very remote towns in 2011 with a nurse, psychologist, dentist, preschool or secondary
+teacher, police officer, paramedic, or social welfare professional, than in 1981. Towns in outer
+regional areas had fewer service delivery professionals in their communities than they did 30
+years previously. Slightly more towns in these regions had GPs, nurses and psychologists than
+in 1981, but this trend was limited to these occupations.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+15
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+All small
+towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+1981
+(%)
+
+2011
+(%)
+
+1981
+(%)
+
+2011
+(%)
+
+1981
+(%)
+
+2011
+(%)
+
+Remote and
+Very Remote
+small towns
+1981
+2011
+(%)
+(%)
+
+Proportion of small
+towns with a GP
+
+14
+
+18
+
+16
+
+20
+
+14
+
+18
+
+7
+
+12
+
+Proportion of small
+towns with a nurse
+
+77
+
+78
+
+80
+
+87
+
+74
+
+74
+
+76
+
+58
+
+Proportion of small
+towns with a
+psychologist
+
+1
+
+6
+
+1
+
+9
+
+1
+
+5
+
+24
+
+11
+
+Proportion of small
+towns with a dentist
+
+9
+
+5
+
+9
+
+6
+
+9
+
+4
+
+11
+
+1
+
+25
+
+16
+
+23
+
+21
+
+24
+
+11
+
+31
+
+10
+
+78
+
+73
+
+83
+
+77
+
+76
+
+64
+
+69
+
+76
+
+66
+
+62
+
+69
+
+73
+
+67
+
+58
+
+58
+
+40
+
+55
+
+46
+
+51
+
+49
+
+54
+
+39
+
+66
+
+51
+
+Proportion of small
+towns with a paramedic
+
+18
+
+19
+
+17
+
+20
+
+20
+
+19
+
+14
+
+13
+
+Proportion of small
+towns with a social
+welfare professional
+
+17
+
+17
+
+17
+
+22
+
+15
+
+12
+
+24
+
+11
+
+Proportion of small
+towns with a preschool
+teacher
+Proportion of small
+towns with a primary
+school teacher
+Proportion of small
+towns with a secondary
+school teacher
+Proportion of small
+towns with a police
+officer
+
+Table 4: Proportion of Small Towns with service delivery professionals within the community, by remoteness
+Key:
+Increased
+
+Little change
+
+Decreased
+
+More small towns in inner regional areas were more likely to have GPs, nurses and
+psychologists, secondary school teachers, paramedics or social welfare professionals in their
+communities in 2011 than they did in 1981. These Inner Regional towns are located in
+regional areas but tend to border urban hubs or metropolitan centres making the local
+populations reliance on local service professional much less important than in more remote
+towns.
+For example, the small Inner Regional town of Mount Torrens in South Australia is 46
+kilometres from Adelaide and recorded a population of 336 in 2011. Between 1981 and
+2011, the census counts of the number of nurses doubled from four to eight. Over the same
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+16
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+period Boonah, 48 kilometres south of Ipswich in Queensland, census counts showed an
+increase of three psychologists, nine nurses and three secondary teachers.
+There were more small towns in all remoteness categories with GPs in their communities in
+2011 than there were in 1981. However, there were fewer remote and very remote small
+towns with a nurse in their community in 2011 than in 1981. There were more small towns in
+inner and outer regional areas with psychologists than in 1981; however, there were fewer
+psychologists within remote and very remote small towns in 2011 than 30 years previous.
+There were also fewer dentists in small towns in all remoteness categories than there were in
+1981.
+
+The Impact of Town Size on Professional Availability
+Town size influences a community’s capacity to directly access and support a mix of service
+delivery professionals. In 2011, all small towns with populations from 2,500 to 5,000
+residents (to meet our small town criteria) had a nurse and a primary school teacher in their
+communities. Just under half of them had a police officer too. The picture for other service
+delivery professionals is more mixed.
+In general, small towns with populations of 2,500 or over tend to have better access to service
+professionals both in raw numbers and on a per-capita basis. However, these towns still have
+poorer per-capita rates associated with access to GPs, nurses, dentists, and social welfare
+professionals than the average Australian. Yet there has been some improvement and the
+rates for all teachers, police officers and paramedics have matched or bettered national percapita averages.
+Towns with populations under 1,000 continue to experience poorer direct access to service
+delivery professionals. Proportionally, there were fewer towns of this size with professionals in
+their community than there were in 1981 (except for GPs and nurses, which stayed about the
+same). These towns fare the worst on per-capita access measures, experiencing gaps in access
+to most health care professionals, preschool and secondary school teachers, paramedics and
+social welfare professionals.
+Towns with populations between 1,000 and 2,499 continued to experience poorer per-capita
+rates than the Australian average for all professionals except primary school teachers, police
+officers and paramedics.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+17
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Population
+below 1,000
+
+Population
+1,000 to 2,499
+
+Population
+2,500 +
+
+1981
+(%)
+
+2011
+(%)
+
+1981
+(%)
+
+2011
+(%)
+
+1981
+(%)
+
+2011 (%)
+
+Towns with a GP
+
+3
+
+5
+
+16
+
+25
+
+29
+
+72
+
+Towns with a nurse
+
+66
+
+67
+
+93
+
+98
+
+83
+
+100
+
+Towns with a psychologist
+
+9
+
+0
+
+19
+
+7
+
+30
+
+40
+
+Towns with a dentist
+
+2
+
+1
+
+9
+
+2
+
+20
+
+19
+
+Towns with a preschool teacher
+
+16
+
+4
+
+29
+
+25
+
+36
+
+67
+
+Towns with a primary school
+teacher
+
+68
+
+62
+
+86
+
+95
+
+88
+
+100
+
+Towns with a secondary school
+teacher
+
+54
+
+47
+
+80
+
+90
+
+75
+
+99
+
+Towns with a police officer
+
+44
+
+29
+
+69
+
+72
+
+64
+
+94
+
+Towns with a paramedic
+
+8
+
+6
+
+27
+
+30
+
+27
+
+68
+
+Towns with a social welfare
+professional
+
+9
+
+5
+
+19
+
+25
+
+30
+
+64
+
+As a proportion of all
+Australian small towns
+
+Table 5: Proportion of towns with service delivery professionals in their communities by town size.
+Key:
+Higher proportion
+
+Little change
+
+Decreased
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+18
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Are the Gaps Closing?
+Overall, small town communities continue to have poorer per-capita access rates to service
+delivery professionals than the national average. Exceptions to this are for police officers,
+primary school teachers and paramedics. Although there have been improvements since 1981
+the gap between small towns and national rates continues to be significant.
+On headcount numbers, the numbers of all service delivery professionals increased in small
+towns between 1981 and 2011 (see Appendix A2). Not only this, but the average growth
+was higher than the national average for the same period (70 per cent compared to 61 per
+cent). For small towns this growth outstripped population growth in all service categories
+except dentists, secondary teachers and preschool teachers, and helped close the service gap
+in key areas. Between 1981 and 2011 small towns maintained better per-capita access to
+primary school teachers, police officers and paramedics than the Australian average. Percapita access to secondary school teachers has fallen over this period but remains slightly
+above the national average.
+Small towns continue to experience a lower per-capita access to psychologists and dentists
+than the Australian average. While small towns had a twelve-fold increase in the number of
+psychologists within their communities, there was still a substantial gap in per-capita rates
+between small towns and the national average. Per-capita access to dentists also deteriorated
+considerably for residents of small towns between 1981 and 2011. Tables 6 and 7 below
+show the improvement in per-capita access for small towns in the thirty years to 2011.
+This per-capita measure is important because it tracks the service benchmark across Australia
+as a whole. It shows that while there may be more service delivery professionals in a
+particular town, this increase does not guarantee equal access to services between small towns
+and larger cities or regional centres. In fact, a comparison of the per-capita rates (per
+100,000 population) of service delivery professionals in small towns against national
+averages shows that in many cases, the service gap has not been closed.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+19
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Increase
+
+No
+service
+gap
+
+Outer Regional
+Small Towns
+2011
+No
+Increase service
+gap
+
+Remote Small
+Towns
+2011
+No
+Increase
+service
+gap
+
+Very Remote Small
+Towns
+2011
+No
+Increase
+service
+gap
+
+GPs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gap closing, but still significant especially in very remote
+small towns.
+
+Nurses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gap closing, but less direct access to service delivery
+professionals in very remote towns than in 1981.
+
+Psychologists
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gap closing, but less direct access to service delivery
+professionals in very remote towns than in 1981.
+
+Dentists
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Significant gap that has widened in the face of improved
+national averages since 1981.
+
+Preschool
+Teachers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Primary
+School
+Teachers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secondary
+School
+Teachers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Police Officers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paramedics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Social Welfare
+Professionals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Small Towns
+2011
+
+Comment
+
+In 1981, small towns in all areas had above average rates.
+Now a gap has opened and all towns have fallen behind the
+national rate.
+In 1981, all small towns had above average rates. This
+advantage has been maintained, and even slightly widened,
+in 2011.
+In 1981, all small towns in all areas had above average
+rates. This has advantage has been reduced in outer regional
+towns and eliminated in the others.
+In 1981, all small towns had above average rates. This
+advantage has been maintained in all except outer regional
+towns.
+In 1981, all small towns had above average rates. This
+advantage has been maintained in all except very remote
+small towns.
+Small increases in rates in all but very remote areas.
+Significant gap remains, especially in the face of improved
+national averages since 1981. Advantage diminished.
+
+Table 6: Movement in per-capita rates of direct access to service delivery professionals in small towns 1981 – 2011, by remoteness.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+20
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Increase
+
+No service
+gap
+
+Small towns 1,000 to
+2,499
+No service
+Increase
+gap
+
+GPs
+
+
+
+
+
+
+
+Nurses
+
+
+
+
+
+Dentists
+
+
+
+Preschool Teachers
+
+Small towns Below 1,000
+
+Small towns 2,500 +
+
+Comment
+
+Increase
+
+No service
+gap
+
+
+
+
+
+
+
+Increase for all towns under 2,499 but this only closed the
+gap for small towns under 1,000.
+
+
+
+
+
+
+
+
+
+Increases in all town sizes, but gap remains unclosed.
+
+
+
+
+
+
+
+
+
+
+
+Decreases in per-capita rates in all towns. Significant gap
+that has widened in the face of improved national
+averages since 1981.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Increase in towns with 2,500 but falls elsewhere.
+Significant fall in the rate for towns under 1,000.
+
+Primary School
+Teachers
+
+
+
+
+
+
+
+
+
+
+
+
+
+In 1981, all small towns had above average rates. This
+has advantage has been maintained in 2011.
+
+Secondary School
+Teachers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decreases in all towns sizes but small towns over 2,500
+remained above national per-capita average.
+
+Police Officers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Increases in towns with populations over 1,000 with all
+towns having above average per-capita rate.
+
+Paramedics
+
+
+
+
+
+
+
+
+
+
+
+
+
+Increases in all town sizes, gap closing or closed in all
+towns.
+
+Social Welfare
+Professionals
+
+
+
+
+
+
+
+
+
+
+
+
+
+Increases in towns with populations over 1,000 yet gap
+has not closed in towns of all sizes.
+
+Table 7: Movement in per-capita rates of direct access to service delivery professionals in small towns 1981 – 2011, by town size.
+(NB: psychologist data not available)
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+21
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Per-capita provision of police officers in small towns tracked above the national average over
+the period. The gap between small towns and the national average in the per-capita rate for
+paramedics halved between 1981 and 2011 although the gap for welfare service
+professionals closed only slightly.
+Psychologists and dentists present the starkest gaps between small towns and the Australian
+averages. While small towns had a twelve-fold increase in the number of psychologists within
+their communities, there was still a substantial growth in the gap in per-capita rates between
+small towns and the national average (Figure 1). The significance of this growing gap needs to
+be seen in the context of a concentration of mental health issues and suicides in regional and
+remote Australia.
+
+Psychologists per-capita, 1981 to 2011.
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+1981
+
+1986
+
+1991
+Australia
+
+1996
+
+2001
+
+2006
+
+2011
+
+Small Towns
+
+Figure 1: Per-capita rates of psychologists 1981 to 2011.
+
+Per-capita access to dentists also deteriorated considerably for residents of small towns
+between 1981 and 2011. Again, dental health is an issue that is considerably worse in
+regional and remote areas.
+New gaps are also emerging in crucial areas for small towns. Per-capita rates also show that
+although in 1981 small towns had an advantage in the number of preschool, primary school
+and secondary school teachers in their community, this advantage has been maintained only in
+the case of primary school teachers. While the per-capita rate of secondary school teachers in
+small towns is more or less level with the national average, it is a significant decrease from the
+1981 measure. From a place of advantage in 1981, the per-capita rate of preschool
+teachers has now fallen well below the national rate in 2011 (Figure 2). Again, this lack of
+service professionals coincides with substantially higher rates of early childhood development
+issues and an increasing recognition of the role that early childhood development plays in
+later life.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+22
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Preschool Teachers per capita, 1981 to 2011.
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+1981
+
+1986
+
+1991
+Australia
+
+1996
+
+2001
+
+2006
+
+2011
+
+Small Towns
+
+Figure 2: Per-capita rates of preschool teachers 1981 to 2011.
+
+These gaps have significant impact on the wellbeing of those in small town communities. Taking
+health as an example, it is estimated that a lack of access to GPs, dentists and other health
+services in rural and remote areas results in 60,000 preventable hospitalisations each year.
+People defer seeking health services because of out-of-pocket expenses, including the costs
+associated with transport, accommodation and income forgone to travel to appointments
+where services are not locally available. As the population of regional Australia ages, the
+demands placed on service delivery professionals will increase. Worryingly, small towns in
+outer regional and remote areas that already experience lower per-capita rates of direct
+access to some health professionals are ageing more quickly than other parts of the country.
+This is set to place greater strain on already stretched resources.xix
+Overall in 2011, small town per-capita rates for psychologists, preschool teachers and social
+welfare professionals were all well below comparable national rates. Given the high rates of
+children in regional Australia who are developmentally vulnerable, it is unlikely that these
+issues can be resolved without better access to professional support.
+In general, the more remote a small town, the poorer its per-capita access to the professionals
+who can most effectively address developmental vulnerability. For example, towns in very
+remote areas where the rate of developmental vulnerability is close to double that of major
+cities, per-capita access to psychologists and preschool teachers is lower than in any other
+part of regional Australia. Towns with populations under 1,000 record lower per-capita rates
+to psychologists, preschool teachers and social welfare professionals than do towns with larger
+populations. A brief discussion of the impact of remoteness and town size on these rates is at
+Appendix A3.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+23
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Case Studies
+Census data provides a compelling but broad picture of the distribution of service delivery
+professionals in Australian small towns. To supplement this, we have prepared case studies so
+that we can better understand the effect of access gaps for people in these communities.
+These case studies show that people in small towns without service delivery professionals have
+little choice but to travel to access services. This is costly, burdensome and can ultimately
+compel people with a greater need for services to move to larger, regional centres.
+These studies also show that small towns have trouble not only attracting service delivery
+professionals, but also retaining them. Small towns are more likely to attract professionals at
+the beginning of their career who may be getting a compulsory rural rotation ‘over and done
+with’ before settling down in a metropolitan centre. xx Attracting and retaining professionals in
+rural and remote areas is no easy task and successful efforts have tended to be multi-faceted,
+balancing financial incentives, quality accommodation and opportunities for ‘escape’ to cities
+with broader efforts to improve the amenity of a small town itself.
+
+Health services in Hay, NSW
+Hay is a small town located in the south-western, Murray-Riverina region of New South Wales,
+with a strong agricultural industry and around 3,000 residents in the township and surrounding
+Shire. It is around 150km from the regional hubs of Deniliquin and Narrandera, and 200km
+from the Victorian border.
+1981 Census data shows Hay had a population of 2,952. The census recorded three GPs and
+23 nurses in 1981. By 2011, Hay’s population had declined to 2,296 – a reduction of 22 per
+cent. Census data records that in the same period the town lost all of its GPs and 26 percent
+of its nurses. Conversely, Hay gained two paramedics up from three to five. In both the 1981
+and 2011 censuses, there was no recognised mental health professional (such as a
+psychologist, social worker or counsellor)
+recorded in the town.
+Without direct access to service delivery
+professionals within the town, residents of
+Hay travel 150km to Deniliquin or
+Wagga Wagga, or interstate to Victoria
+Figure 1 - Travel of residents of Hay, NSW for medical services
+for specialist treatment and some
+basic health services. For one
+resident suffering an asthmatic episode,
+it was easier to make the 300km round
+trip to Deniliquin for assistance than seek
+treatment in Hay.xxi While the Council is
+able to provide some patient transportation, usually a patient’s friends and family shoulder
+the burden of ensuring a patient reaches a service provider.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+24
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Aside from the personal toll of such arrangements on individual patients, a lack of medical
+services in Hay impacts on the business sector and the overall productivity of the town. For
+example, locals who need a medical certificate face a choice between a lengthy wait at the
+only available local GP, or a full day round trip to neighbouring towns.
+As a consequence, small town community members are more likely to put off or skip medical
+visits, treatments, tests and medications because of the time and financial costs associated with
+this task. As research shows, a lack of access to GPs, dentists, pharmacies and other primary
+health facilities for rural and remote individuals in Australia is estimated to result in more than
+60,000 preventable hospitalisations every year.xxii
+Communities like Hay 200km from major service centres keenly experience the limitations of a
+model that relies on population measures to distribute service professionals. Under hub and
+spoke service models, the part-time presence of a service representative provides ‘outreach’
+to the community. The intention of these visiting officers is to ‘plug’ any gap created by the
+town’s lack of full time service professionals. Government departments can claim this part-time
+outreach program as a ‘local presence’ in a community. In Hay for example, a representative
+from the NSW government’s Ageing, Disability and Home Care services is in the town for one
+day each fortnight doing ‘outreach’. This professional is based in a nearby hub. Some have
+expressed concern that the time allocated for Hay is insufficient for the officer to both provide
+services to townspeople and to liaise with local planners about service delivery, especially if
+an issue involves other government departments.
+
+Education in Queenstown, TAS
+Long associated with the mining industry,
+Queenstown is a small town in the mountainous
+West Coast region of Tasmania. Queenstown’s
+economy has long experienced the cycles of boom
+and bust as mines have opened and closed (and
+sometimes reopened). As a terminus for the West
+Coast Railway, Queenstown is well placed to invest
+in tourism as a counter to the fluctuations that come
+from its reliance on mining. However, this shift takes
+time and the impact of a slow population decline is
+reflected in falling numbers of service delivery professionals, such as teachers.
+In 1981, Queenstown’s population was 3,721 but this had fallen to 1,971 by 2011, and
+corresponded to a decline in the number of primary and secondary school teachers over the
+same period. In 1981, the census counted 36 primary and 28 secondary teachers in the town
+but by 2011, the counts had fallen to 18 and six respectively. While the population had fallen
+by 47 per cent in this time, the number of primary school teachers fell by 50 per cent and the
+number of secondary teachers by 79 per cent. These falls were in line with a broader trend
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+25
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+within the town where townspeople noted a lack of access to welfare and social workers,
+dentists and health professionals.xxiii
+Although there are financial incentives offered to attract teachers to remote and rural areas,
+these alone are insufficient to counter disincentives such as a lack of development
+opportunities, inadequate housing and a perceived lack of social and cultural amenities.xxiv In
+1999, teachers in Queenstown identified the quality of the accommodation as a deterrent for
+new teaching staff:
+Basically we are provided with accommodation but it is costing an arm and a leg
+to live here … it is very basic housing and we had the union official here only last
+week to complain about the state of the housing. xxv
+Twelve years later housing continued to be an issue for teachers in Queenstown. An audit
+commissioned by the state Department of Education found that several of the properties
+provided to teachers were “considered to require significant refurbishment” and there were
+issues with security as well as “mould and the cost of heating.”xxvi The audit identified a
+particular ‘complex’ of units, about which teachers had long complained, which was at risk of
+flooding and erosion from a nearby river and was in such a state of disrepair that it “would
+be difficult to bring up to a better standard.”xxvii
+Queenstown’s situation is not unique. In many remote or rural locations, there is a limited
+housing market and where private rental properties are available these are usually at
+inflated prices and thus unaffordable for teachers newly appointed to these communities who
+are generally just entering the profession and so at the bottom of the salary range. xxviii Access
+to safe, well-maintained accommodation is important to attract and maintain teachers in small
+town communities.
+
+Service provision in the remote town of Bourke, NSW
+Located in north-western NSW, Bourke is a small town of around 2,600 people. It is 350km
+from the regional city of Dubbo and 500km from Orange. Under the ABS remoteness
+structure, Bourke is classified as being in the highest category of geographic remoteness.
+Despite this remoteness, across a number of service professional categories Bourke appears to
+have a per-capita rate of access that is in line with or above national average. Per-capita
+access to GPs and nurses was below the national average in 1981, but above it in 2011.
+Similarly, the town continues to have higher rates of access to teachers and police than the
+average Australian.
+Yet residents of Bourke are increasingly attending the regional hubs of Dubbo and Orange to
+access primary health care. This is a consequence of what many in the town see as a
+withdrawal of local clinical health services by NSW Health to its hub centres of Dubbo and
+Orange. The local ‘disinvestment’ means that many forms of primary care are no longer
+available in Bourke. Where positions are filled (such as with GPs), professionals are often
+earlier in their career or International Medical Graduates still under clinical supervision.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+26
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Bourke has experienced a complete loss
+of dental services. The 2011 Census
+recorded that there are no dentists
+within the town, even though three were
+counted in 1981. Neither Census
+records Bourke as having a psychologist
+in the town. Residents can wait for
+months to receive dental treatment and
+are often unable to receive mental
+health support they require. Some
+pregnant women have moved to Dubbo
+400km away to access effective pre
+and antenatal services.
+
+Incentive programs for regional policing
+In 2011, 46 per cent of small towns had direct access to a police officer in their community.
+Although this total figure was down from 55 per cent in 1981, the per-capita rate had
+improved for most small towns (with the exception of those in outer regional areas, which
+experienced a decrease that shifted them below the national average). The gap between the
+small towns and the national average had closed in all but these outer regional areas. This
+held for small towns across all three of the population thresholds. xxix
+Attracting and retaining staff in remote and rural small towns has been an issue for police
+forces in all Australian jurisdictions. During the mining boom in the mid to late 2000s this was
+especially difficult as a police officer’s salary was outstripped by the wages that mining
+companies were able to offer in these remote areas. As with other service delivery
+professionals, a lack of adequate accommodation and social infrastructure, access to
+professional development opportunities and the prospect of being always ‘on duty’ have
+provided disincentives to officers to move to some small towns. Additionally, some officers are
+disinclined to work in these areas because of the nature of the work, which with a heavy
+emphasis on community police can be seen as ‘not real policing’ ‘welfare work’.xxx
+Faced with these disincentives and with persistent shortages of staff, some Australian states
+have introduced programs to attract and retain police officers in small towns, especially in
+remote areas. In Western Australia, the police service enhanced relocation packages and
+facilities and improved the number of local and regional recruits, who are more likely to
+remain in small communities. They also requested funds from large organisations in small and
+remote towns to invest in community initiatives and facilities. And although the option was
+never used, there was a program that would use Fly in Fly out (FIFO) police officers to
+augment existing numbers.xxxi
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+27
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+The FIFO model has been considered by several states and a variation of it was trialled in the
+Northern Territory in 2013. Here, six Darwin based officers worked on a rotational roster,
+spending some time in the small community of Maningrida but rostered days off back in
+Darwin. In 2015, the town was a trial site for the successful introduction of Aboriginal Liaison
+Officers, who worked alongside police officers in remote communities. xxxii
+In South Australia, a police FIFO arrangement at Anangu Pitjantjatjara Yankunytjatjara (APY
+Lands) also engaged Community Constables from the local indigenous communities. After it
+became difficult to recruit the Community Constables, other officers were flown in temporarily,
+with a lack of infrastructure including police housing preventing a more permanent
+arrangement. Subsequently the state and Commonwealth governments cooperated to build
+the necessary infrastructure, particularly housing for officers and their families and developed
+incentives for officers to live and work in the location. xxxiii
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+28
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Where to From Here?
+People in regional and remote areas have poorer access to service delivery professionals
+than those in metropolitan centres and regional cities. While outright numbers of professionals
+in small towns increased through to 2011, the increases were mostly in the easier-to-service
+Inner Regional and larger small towns. The continuing access gaps in other places make it
+difficult if not impossible for Australia to make any progress in reducing the significant gaps
+which underpin the divides between regional and metropolitan health and education outcomes.
+They require a more effective policy response than efforts to date.
+Over the last thirty years, face-to-face access to service delivery professionals in small towns
+has been heavily influenced by wider service reforms. Within these reforms, the drive for
+economies of scale in service provision has invariably come to include per-capita thresholds,
+which are difficult to meet in sparsely populated and non-urban areas.
+The mechanisms that determine the placement and access to service delivery professionals
+have different effects in small towns and communities than they do in our more highly
+populated major cities and regional towns. Services in smaller, more sparsely populated
+communities have been reduced or relocated to larger regional hubs so that economies of
+scale can be realised. Those in small towns have often had to travel further to access face-toface service delivery professionals than those in more urbanised parts of the country as a
+consequence of these changes.
+At the same time as achieving efficiencies in the wider services systems, governments of all
+levels have attempted to address gaps in service availability with regional specific initiatives
+that include both substantial funding and policy effort. The 2017-18 Commonwealth budget
+alone allocated over $2 billion to be spent over four years on workforce and incentive
+programs to improve the numbers of health delivery professionals in rural and remote areas.
+These are in addition to bonded places at universities or discounted HECS fees. A similar
+Commonwealth program for teachers called ‘Teach for Australia’ has been allocated $77.6
+million and supplements a variety of ongoing state based incentive programs to entice
+teachers to schools in small towns. Millions of dollars of incentives have been offered to
+teachers, nurses and police officers over the last few decades and have included specialised
+professional development, affordable or even free accommodation, allowances, cash
+payments and extra leave. However, even these are not always enough to bring and keep
+enough service delivery professionals into small communities.
+Australia is not unique in facing these issues. Policy makers in the UK have recognised that
+rural communities face issues of distance and sparse populations that can diminish their
+capacity to access government provided services. Official guidance has been developed for
+policy makers so that when designing programs or service changes, consideration is given to
+the particular demography of rural communities as well as specific issues related to access to
+roads or digital connectivity.xxxiv In Canada, policy makers now focus on developing specific
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+29
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+resources, infrastructure and networks of care to counteract the inequality of access to health
+services that remoteness produces for rural and sparsely populated communities.
+While this report does not recommend definitive resolutions to these issues, it does point
+towards three approaches that should be further developed:
+1. Support places in most need to solve local access problems
+2. Increase access to specialist digitally provided services
+3. Increase the capacity and scope of effective services that the professional presence in
+these communities can provide.
+
+Supporting places in most need to solve local access problems
+In the light of persistent underservicing, several towns and their councils are trying to plug
+service gaps themselves. Some are avoiding the administrative burden of state and
+Commonwealth systems altogether and offering their own tailored incentives to service
+delivery professionals to relocate to their towns.
+In Hay, the local council chose to subsidise medical and dental services out of one of its own
+buildings. The council also organised and funded counselling and mental health services
+independently of other levels of government. In nearby Temora, the local Council has adapted
+a council property into a medical complex and offered low cost rent to new doctors in an
+effort to spur on private sector growth. The complex has seen the number of practising doctors
+triple and there has been an associated expansion of supporting services such as medical
+imaging and telemedicine. The Temora Council has built on this success by introducing in-home
+and community care, leading to the introduction of Pinnacle Community Services, offering
+disability services and aged care to the community.
+When Ceduna, South Australia, had trouble attracting general practitioners to the area, the
+local Council stepped in to provide high quality accommodation as an incentive. A number of
+lodges were built on the picturesque foreshore for the town’s doctors and now, several years
+later, the accommodation is wholly managed by the state agency SA Health.
+While there is much to gain in studying the effectiveness of these initiatives and while such
+innovation is to be applauded, these initiatives are band-aid solutions to a larger problem.
+They are ad-hoc programs that rely on the financial and entrepreneurial agility of individual
+local governments and as such cannot address the systemic issues that drive poor access to
+service delivery professionals in small towns in the first place. While these local governments
+are to be commended for plugging a service gap, a broader, holistic approach is needed to
+understand and address the persistent service gaps between small towns and other parts of
+the country.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+30
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Increasing the Scope and Accessibility of Digital Services
+As services have moved away from small towns, governments have sought to ameliorate the
+physical absences of service delivery professionals by offering access through call centres
+and, in time, the internet.
+Digital services are a clear priority for many governments looking to improve service delivery
+in remote regions. But they should not be seen as a panacea as they bring with them issues of
+digital capacity (both digital literacy of users and availability and reliability of required
+bandwidth and connection speed) and the need to define the most appropriate role of digital
+support in providing services. xxxv
+Digital services are likely to be more effective when they work to support, complement and
+augment face to face service services rather than replace them entirely. In health, face to face
+service is still regarded as the first preference, but if this is not available then virtual follow up
+can be valuable. xxxvi Digital technologies are well suited to augmenting generalist services
+with specialist services, especially when there is a generalist service professional available to
+incorporate the specialist expertise.xxxvii Digital services also have potential to coordinate
+clients or providers, and bring virtual economies of scale in sparsely populated regions. The
+role and potential of digital services in remoter regions is worthy of further investigation.
+Remote provision can easily disadvantage regional service users. When the Commonwealth
+government disbanded the Commonwealth Employment Service and established Centrelink
+and the Job Network, service providers began to leave small towns and centralise in larger
+regional hubs. Centrelink established several call centres and separate, dedicated telephone
+numbers for different services were set up although many calls went unanswered and waiting
+times of one hour were expected.xxxviii Job seekers in remote areas were 50 per cent more
+likely to contact their job network provider by telephone than those in metropolitan areas.xxxix
+People in remote and rural areas who used mobiles also faced increasing costs associated
+with wait times and being placed on hold. Similarly, a GP helpline has been established for
+Australians to access GP services after hours. In 2016, Health Direct Australia reported that
+70 per cent of calls to this line were made by people without access to a local GP in the
+evenings, on the weekend or on public holidays.xl
+More recently, people in rural and remote areas have been able to access health services
+over the internet. Using Skype, people can access a specialist (where they are located over
+150km away) and still claim a Medicare rebate. While people are able to use Skype to
+access GPs and even to arrange a medical certificate, these services are not covered by the
+Medicare rebate. Even where internet or call centres can help deliver services to small towns,
+face-to-face contact is still essential. The Black Dog Institute reports that while online
+technologies increasingly play a role in delivering mental health support to young people in
+remote and rural areas, it is vital that they be able to directly access a service delivery
+professional for intensive assistance.xli The cost effectiveness of online and telephone services
+clearly has to be balanced with access to professionals within the community.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+31
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+State and Commonwealth governments have also moved to offer more services online or
+through mobile apps. This move is not necessarily a response to the withdrawal of service
+delivery professionals from towns and cities but rather a trend facilitated by improvements in
+digital technology. However, as this trend rolls out it brings into sharp relief the digital
+inequality that exists between metropolitan and urban cities and the more regional and
+remote areas of Australia. This ‘country-city digital divide’ limits the capacity of those in small
+towns to access services that are partially or entirely provided online and presents a serious
+challenge for Australia’s Digital Reform Agenda.xlii
+Often conceived of as access to an internet connection, this focus on connection captures only
+part (albeit an important part) of the entire problem. By itself, lack of access to a reliable
+connection can have an impact on using online portals like MyGov and it can severely hamper
+with the delivery of distance education.xliii However, the ‘digital access’ issue also involves
+access to larger data limits and to improved digital literacy for those outside metropolitan
+centres. Efforts to address the divide that focus on connection alone are unlikely to be
+successful in closing the digital divide or addressing inequalities in service deliveries.xliv
+
+Helping the professionals who are there do more
+Another way in which these shortages can be addressed is by giving the professionals who are
+there better scope to support local services needs. As well as interacting with digital services,
+changes to the scope of practice could provide substantial gains. This approach can build on
+existing knowledge and practices.
+For example, in 2013, the Grattan Institute argued that the worst GP gaps could be
+addressed through better utilisation of pharmacists and the introduction of physicians
+assistants.xlv More recently, Australia’s Rural Health Commissioner has announced the rolling
+out of the ‘National Rural Generalist Pathway’ program that aims to extend the training of
+rural GPs to include skills in key specialist areas. This program, already underway in
+Queensland, aims to provide ‘multi-skilled’ doctors to areas unlikely to attract health
+specialists. xlvi In this rollout however, the vital health and social role of rural nurses should not
+be overlooked. Nurses and pharmacists in small towns could, for example, be enabled to do
+things like give vaccinations, dress wounds and take x-rays. This is already common practice in
+small towns where there is no GP or a part-timer.
+
+Reviewing what works
+The RAI’s work on service delivery professionals in small Australian towns is ongoing. While this
+report looks at how occupational data has changed between 1981 and 2011, it has not
+specifically set out to understand what drives these numbers. The RAI is currently undertaking
+further work to understand what is ‘behind the numbers’ in this report. This includes exploring
+the impact that policy decisions have had on the numbers of service delivery professionals –
+policies including the centralising of government services and the marketization or contracting
+out of service delivery.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+32
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Although government policy shapes the numbers of professionals in small towns, this upcoming
+work explores other influential factors as well. These include delivery methods such as the
+move to digital services, professional limitations that may restrict the scope of work of some
+service delivery professionals and the impact of incentive programs in addressing the
+shortages of professionals.
+Our first report raises a number of challenging questions for professions, communities and
+policy makers. The RAI will explore these in subsequent work, and welcomes contributions from
+readers. Some of the questions up for discussion are:
+- How effective are incentive schemes for professions in health and education?
+- Are incentives what is needed or are there broader issues – e.g. training of rural
+doctors?
+- Is the scope of professional work in regions (generally broad and applied rather than
+narrow and specialist) a turn off for many professionals?
+- How important is a live-in presence? Where there is no service professional in a
+community (if it relies on FIFO for example), are there continuity and quality of care
+issues?
+- What’s the link between the presence of health and education professionals, health
+and education outcomes? How effective are other delivery modes (e.g. virtual or part
+time services? Is the assumption valid that more service professionals in a town = better
+access = better health and education? Most people regard it as broadly true but with
+virtual technology and increasing DIDO and FIFO models, views are broadening.
+- Are there restrictive policies and programs that are impacting on professionals
+numbers? For example limitations on the practice roles of GPs, nurses and specialists?
+Should nurses (10 times as numerous in small towns) be able to take on low risk tasks
+where there is no local GP, for example?
+- How effective can service provision alone be when individual responsibility is also very
+important in health and education?
+- What about service coordination – is scope as important as scale? In health in
+particular there is a close connection between private and public employment, and
+GPs typically need a minimum population to maintain a Medicare income base.
+- Do jurisdictions have minimum service standards in these professions? If so how are they
+being monitored and how do they compare?
+If you’d like to contribute to this upcoming work, please get in touch with our team.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+33
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Conclusion
+This report has documented some progress. Some small town communities are more able to
+directly access some service delivery professionals in 2011 than they were in 1981.
+However, with the exception of police officers, primary school teachers and paramedics,
+people in small towns continue to experience less face-to-face access to generalist
+professionals than the average Australian. The shortage of dentists, psychologist and
+preschool teachers in small towns represent significant gaps, gaps that are widening and that
+coincide with significant community service priorities for policy.
+With the economic prospects of a town so closely linked to the wellbeing of its community, it is
+essential that social, health and educational outcomes are improved. Improving the access of
+communities to service delivery professionals will help not only improve outcomes, but also to
+build social and human capital that in turn ensures economic resilience and prosperity.
+Policy makers need to consider more flexible approaches to improving access to service
+delivery professionals in small towns. Although on paper one town may seem just the same as
+another, each has unique needs and strengths. Rigid program design that does not adequately
+allow for distance, road quality or the complexity of the digital divide is unlikely to improve
+outcomes for small town communities.
+There are opportunities for policy makers to more directly target access to service delivery
+professionals in towns where needs are great by supporting communities to solve their most
+pressing local needs. This is an alternative approach to the current preference for subsidising
+specific professionals through expensive programs that have mostly raised access only in inner
+regional areas that some may consider to be more attractive places to live.
+Digital access to specialist services and supporting local professionals to engage in more
+diverse professional practice also provide promising ways to overcome these divides. These
+mechanisms should complement service delivery professionals within the community rather than
+replace them so that small towns can leverage their social capital and build their resilience.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+34
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+APPENDICES
+A1: Compendium of rates of service delivery professionals in
+Australia’s small towns 1981 to 2011
+Health
+General Practitioners
+
+In the 30 years to 2011, slightly more
+small towns had a GP in their
+community. In 1981, 14 per cent of
+small towns had a GP and this rose to
+18 per cent in 2011.
+
+Regional presence of service delivery professionals
+
+Improvements were made across all
+categories of remoteness. In 2011,
+72 per cent of small towns with
+populations above 2,500 had a GP,
+which is up from 29 per cent of towns
+in 1981.
+
+Figure 2 - 2011 general practitioner service availability (by SA2)
+Table 1 - Small Towns with no identified general practitioner (1981 and 2011, by Urban Centre and Locality
+(UCL) and remoteness)
+
+Total number of
+towns without a
+recognised GP
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small
+towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+960
+
+1,280
+
+371
+
+597
+
+400
+
+436
+
+188
+
+247
+
+86%
+
+82%
+
+84%
+
+80%
+
+86%
+
+82%
+
+93%
+
+88%
+
+Table 2 - Small towns with no identified General Practitioner (1981 and 2011, by UCL and town size)
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+Total number of towns without a
+recognised GP
+
+517
+
+975
+
+218
+
+252
+
+225
+
+53
+
+As a proportion of all Australian small towns
+
+97%
+
+95%
+
+84%
+
+75%
+
+71%
+
+28%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+35
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+General Practitioners
+Per-capita rates
+
+Although per-capita access to GPs
+improved overall between 1981
+and 2011, the rate for small towns
+is still well below the Australian
+average. In 2011, there were 83
+GPs for every 100,000 people in
+small towns, compared to a
+national rate of 202 per 100,000.
+Between 1981 and 2011, remote
+small towns had the biggest
+improvement in per-capita rates
+(from 28 to 109 per 100,000).
+Conversely, towns of 2,500 to
+5,000 population saw their percapita rate drop from 65 to 23
+per 100,000.
+
+Figure 3 - 2011 general practitioners per 100,000 people
+(by SA2 and quintile)
+
+Table 3 - General Practitioners per-capita against national average (1981 and 2011, by UCL)
+
+Australia
+
+GPs per 100,000 of local population
+
+Small Towns
+
+Gap
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+186
+
+202
+
+45
+
+83
+
+- 76%
+
+- 59%
+
+Table 4 - General Practitioners per-capita (1981 and 2011, by UCL and remoteness)
+
+GPs per 100,000 of
+local population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small towns
+
+Very Remote small
+towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+45
+
+83
+
+48
+
+87
+
+28
+
+109
+
+23
+
+69
+
+Table 5 - General Practitioners per-capita (1981 and 2011, by UCL and town size)
+
+GPs per 100,000 of
+local population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+24
+
+210
+
+46
+
+64
+
+65
+
+23
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+36
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Nurses
+Regional presence of service delivery professionals
+
+In 2011, there were slightly more small
+towns with a nurse than in 1981.
+However; this increase was driven by
+inner regional areas.
+There were about the same proportion
+of outer regional towns with nurses in
+1981 and in 2011 but fewer towns in
+remote and very remote areas had
+nurses in 2011 than 30 years
+previously.
+2011 Census data records that all
+towns with a population over 2,500
+had a nurse in their communities,
+however towns under 1,000 recorded
+only a modest improvement.
+
+Figure 4 - 2011 nurse service availability (by SA2)
+Table 6 - Small towns with no identified nurse (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+nurse
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+257
+
+351
+
+86
+
+95
+
+123
+
+139
+
+48
+
+117
+
+23%
+
+22%
+
+20%
+
+13%
+
+26%
+
+26%
+
+24%
+
+42%
+
+Table 7 - Small towns with no identified nurse (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+nurse
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+184
+
+344
+
+19
+
+7
+
+54
+
+0
+
+34%
+
+33%
+
+7%
+
+2%
+
+17%
+
+0%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+37
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Nurses
+
+Per-capita access to nurses in small
+towns improved between 1981
+and 2011. The gap between the
+small town rate and the national
+average has begun to close.
+
+Per-capita rates
+
+However, the gap is closing more
+quickly for outer regional and
+remote small towns than for those
+in very remote areas. In fact, small
+towns in very remote areas
+experienced a decline in percapita rates, with 855 nurses per
+100,000 population in 1981, but
+only 756 nurses in 2011.
+
+Figure 5 - 2011 nurses per 100,000 people (by SA2 and quintile)
+
+Table 8 - Nurses per-capita against national average (1981 and 2011, by UCL)
+
+Nurses per 100,000 of local
+population
+
+Australia
+1981
+957
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+1,045
+
+740
+
+- 23%
+
+- 4%
+
+1,009
+
+Table 9 - Nurses per-capita (1981 and 2011, by UCL and remoteness)
+
+Nurses per 100,000 of
+local population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small towns
+
+Very Remote small
+towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+740
+
+1,009
+
+723
+
+898
+
+716
+
+883
+
+855
+
+756
+
+Table 10 - Nurses per-capita (1981 and 2011, by UCL and remoteness)
+
+Nurses per 100,000 of
+local population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+684
+
+1,009
+
+765
+
+1,034
+
+771
+
+933
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+38
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Psychologists
+Regional presence of service delivery professionals
+
+In 2011, there were more small towns
+with a psychologist in their communities
+than in 1981. In 1981, only one per
+cent of towns had a psychologist and
+this had risen to six per cent by 2011.
+While the proportion of small towns
+with a psychologist increased in inner
+and out regional areas, it decreased
+for towns in remote and very remote
+areas.
+More towns with populations of 2,500
+or over had a psychologist in 2011
+than they did in 1981. However, fewer
+towns with smaller populations had a
+psychologist within their communities.
+
+Figure 6 - 2011 psychologist service availability (by SA2)
+
+Table 11 - Small towns with no identified psychologist (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+psychologist
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1,098
+
+1,455
+
+436
+
+674
+
+460
+
+505
+
+155
+
+249
+
+99%
+
+94%
+
+99%
+
+91%
+
+99%
+
+95%
+
+76%
+
+89%
+
+Table 12 - Small towns with no identified psychologist (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+psychologist
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+533
+
+1,001
+
+256
+
+311
+
+309
+
+112
+
+91%
+
+100%
+
+81%
+
+93%
+
+70%
+
+60%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+39
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Psychologists
+Per-capita rates
+
+Small towns continue to have a
+significantly lower level of percapita access to psychologists
+when compared with the Australian
+average, even though there were
+more
+small
+towns
+with
+psychologists in their communities.
+Between 1981 and 2011, the
+national per-capita rate rose from
+18 to 87 psychologists per
+100,000, but the rate for small
+towns rose from three to 29 per
+100,000 people.
+Very Remote small towns remain
+worst-serviced, with a per-capita
+rate of five psychologists per
+100,000 people.
+
+Figure 7 - 2011 psychologist service availability (by remoteness)
+
+Table 13 - Psychologists per-capita against national average (1981 and 2011, by UCL)
+
+Psychologists per 100,000 of local
+population
+
+Australia
+1981
+18
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+87
+
+3
+
+- 81%
+
+- 67%
+
+29
+
+Table 14 - Psychologists per-capita (1981 and 2011, by UCL and remoteness)
+
+Psychologists per
+100,000 of local
+population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small towns
+
+Very Remote small
+towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+3
+
+29
+
+4
+
+20
+
+3
+
+21
+
+0
+
+5
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+40
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Dentists
+Regional presence of service delivery professionals
+
+In 1981, 9 per cent of small towns had
+a dentist in their communities. In 2011,
+this had fallen to five per cent of small
+towns. This decline was seen across all
+remoteness categories. In 2011, only
+one per cent of towns in Remote or
+Very Remote areas had a dentist.
+Where a small town did have a dentist,
+they were more likely to have
+populations over 2,500. In 2011, one
+per cent of towns with 1,000 people
+had dentists and only two per cent of
+those with populations between 1,000
+and 2,499. This compares to 19 per
+cent of towns with populations over
+2,500.
+
+Figure 8 - 2011 dentist service availability (by SA2)
+Table 15 - Small towns with no identified dentist (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+dentist
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1,011
+
+1,481
+
+403
+
+695
+
+425
+
+509
+
+183
+
+277
+
+91%
+
+95%
+
+91%
+
+94%
+
+91%
+
+96%
+
+90%
+
+99%
+
+Table 16 - Small towns with no identified dentist (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+dentist
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+522
+
+1,023
+
+234
+
+330
+
+255
+
+150
+
+98%
+
+99%
+
+91%
+
+98%
+
+80%
+
+81%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+41
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Dentists
+
+In 1981, the per-capita rate of
+those in small towns was below that
+of the Australian average. By
+2011, this gap had widened.
+
+Per-capita rates
+
+In 2011, there were 19 dentists
+per 100,000 residents of small
+towns compared to a national
+average of 81 per 100,000.
+Rates for small towns in remote
+and very remote areas fell
+significantly.
+The per-capita rate fell across
+towns of all sizes, with the largest
+decrease in towns between 1,000
+and 2,499 people.
+
+Figure 9 - 2011 dentists per 100,000 people (by SA2)
+
+Table 17 - Dentists per-capita against national average (1981 and 2011, by UCL)
+
+Dentists per 100,000 of local
+population
+
+Australia
+1981
+38
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+81
+
+27
+
+- 30%
+
+- 76%
+
+19
+
+Table 18 - Dentists per-capita (1981 and 2011, by UCL and remoteness)
+
+Dentists per 100,000
+of local population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small towns
+
+Very Remote small
+towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+27
+
+19
+
+27
+
+18
+
+34
+
+6
+
+30
+
+7
+
+Table 19 - Dentists per-capita (1981 and 2011, by UCL and town size)
+
+Dentists per 100,000
+of local population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+17
+
+8
+
+28
+
+6
+
+36
+
+19
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+42
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Education
+Preschool Teachers
+Regional presence of service delivery professionals
+
+In 1981, three quarters of small towns
+did not have a preschool teacher in
+their community. This rose to 84 per
+cent of towns in the 2011 Census.
+In 1981, three quarters of Outer
+Regional towns did not have a
+preschool teacher in the community,
+but this rose to eight per cent in 2011.
+Over the same time, the number of
+Remote and very remote small towns
+without a preschool teacher rose from
+69 to 90 per cent.
+By town size, there were more towns
+2,500 with preschool teachers in
+2011 than in 1981, but fewer in towns
+with smaller populations.
+
+Figure 10 - 2011 preschool teacher service availability (by SA2)
+Table 20 - Small towns with no identified preschool teacher (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+preschool teacher
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+835
+
+1,309
+
+341
+
+585
+
+355
+
+471
+
+139
+
+253
+
+75%
+
+84%
+
+77%
+
+79%
+
+76%
+
+89%
+
+69%
+
+90%
+
+Table 21 - Small towns with no identified Preschool Teacher (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+preschool teacher
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+449
+
+994
+
+182
+
+253
+
+204
+
+62
+
+84%
+
+96%
+
+71%
+
+75%
+
+64%
+
+33%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+43
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Preschool Teachers
+Per-capita rates
+
+In 1981, small towns had higher percapita rates of preschool teachers than
+the Australian average. In 2011, not
+only had this advantage diminished, but
+a gap had opened.
+In 2011, the per-capita rate for small
+towns was 65 preschool teachers per
+100,000 people, although the national
+rate was 85 per 100,000.
+The 2011 per-capita rate falls as town
+population decreases and towns in very
+remote areas have smaller per-capita
+rates than those in other areas.
+
+Figure 11 - 2011 preschool teachers per 100,000 people (by SA2)
+Table 22 - Preschool teachers per-capita against national average (1981 and 2011, by UCL)
+
+Preschool teachers per 100,000 of
+local population
+
+Australia
+1981
+65
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+85
+
+79
+
++21%
+
+- 24%
+
+65
+
+Table 23 - Preschool teachers per-capita (1981 and 2011, by UCL and remoteness)
+
+Preschool teachers
+per 100,000 of local
+population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small
+towns
+
+Very Remote
+small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+79
+
+65
+
+78
+
+48
+
+105
+
+75
+
+122
+
+41
+
+Table 24 - Preschool teachers per-capita (1981 and 2011, by UCL and town size)
+
+Preschool teachers per
+100,000 of local
+population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+93
+
+31
+
+71
+
+61
+
+73
+
+88
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+44
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Primary School Teachers
+Regional presence of service delivery professionals
+
+In the 30 years to 2011, there were
+fewer small towns with primary school
+teachers in their communities. This trend
+held across all remoteness categories
+except those in remote or very remote
+areas.
+In 2011, 62 per cent of small towns
+with populations under 1,000 had a
+primary school teacher in their
+community. The rate was higher was
+towns with populations over 1,000,
+where nearly every town had a
+Primary School Teacher.
+
+Figure 12 - 2011 primary school teacher service availability (by SA2)
+Table 25 - Small towns with no identified primary school teacher (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+primary school teacher
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+245
+
+425
+
+73
+
+170
+
+110
+
+189
+
+62
+
+66
+
+22%
+
+27%
+
+17%
+
+23%
+
+24%
+
+36%
+
+31%
+
+24%
+
+Table 26 - Small towns with no identified primary school teacher (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+primary school teacher
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+170
+
+395
+
+36
+
+16
+
+39
+
+0
+
+32%
+
+38%
+
+14%
+
+5%
+
+12%
+
+0%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+45
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Primary School Teachers
+Per-capita rates
+Small towns maintained – and slightly
+improved – their per-capita rates for
+primary school teachers. This rate
+continues to be above the national
+average.
+Towns in all remoteness categories
+had improvements in per-capita rates,
+although this rate remains below the
+national average for towns in outer
+regional areas.
+
+Figure 13 - 2011 primary school teachers per 100,000 people (by SA2)
+
+While per-capita rates improved for
+towns with populations over 2,500,
+they worsened in towns with smaller
+populations.
+
+Table 27 - Primary school teachers per-capita against national average (1981 and 2011, by UCL)
+
+Primary school teachers per 100,000
+of local population
+
+Australia
+1981
+631
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+639
+
+698
+
++11%
+
++14%
+
+727
+
+Table 28 - Primary school teachers per-capita (1981 and 2011, by UCL and remoteness)
+
+Primary school
+teachers per
+100,000 of local
+population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small
+towns
+
+Very Remote
+small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+698
+
+727
+
+685
+
+688
+
+623
+
+856
+
+667
+
+1,004
+
+Table 29 - Primary school teachers per-capita (1981 and 2011, by UCL and town size)
+
+Primary School
+Teachers per 100,000
+of local population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+718
+
+754
+
+669
+
+721
+
+710
+
+713
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+46
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Secondary School Teachers
+Regional presence of service delivery professionals
+
+In 2011, there were fewer small towns
+with a secondary school teacher in
+their communities than in 1981. This
+decline was larger the more remote
+the town.
+Fewer towns in outer regional, remote
+and very remote areas had
+secondary school teachers in 2011
+than in 1981.
+In 2011, towns with higher
+populations were more likely to have
+a secondary school teacher. Around
+half of towns with populations under
+1,000 had a secondary school
+teacher compared to almost all towns
+with populations over 2,500.
+
+Figure 14 – 2011 Secondary school teacher service availability (by SA2)
+Table 30 - Small towns with no identified secondary school teacher (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+secondary school
+teacher
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+373
+
+593
+
+135
+
+202
+
+153
+
+222
+
+85
+
+169
+
+34%
+
+38%
+
+31%
+
+27%
+
+33%
+
+42%
+
+42%
+
+60%
+
+Table 31 - Small towns with no identified secondary school teacher (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+secondary school
+teacher
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+244
+
+547
+
+51
+
+35
+
+78
+
+1
+
+46%
+
+53%
+
+20%
+
+10%
+
+25%
+
+1%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+47
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Secondary School Teachers
+Per-capita rates
+
+In 1981, small towns had higher percapita rates of secondary school teachers
+in their communities than the average
+Australian. In 2011, this advantage had
+been eliminated and the per-capita rate
+on par with the national rate.
+Per-capita rates of secondary school
+teachers decline as remoteness increases.
+They also decline as a small town’s
+population decreases.
+In 2011, towns with populations under
+1,000 and towns in remote and very
+remote areas had per-capita rates below
+the national average.
+
+Figure 15 - 2011 Secondary school teachers per 100,000 people (by SA2)
+Table 32 - Secondary school teachers per-capita against national average (1981 and 2011, by UCL)
+
+Secondary school teachers per
+100,000 of local population
+
+Australia
+1981
+631
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+581
+
+810
+
++28%
+
++1%
+
+583
+
+Table 33 - Secondary school teachers per-capita (1981 and 2011, by UCL and remoteness)
+
+Secondary school
+teachers per
+100,000 of local
+population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small
+towns
+
+Very Remote
+small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+810
+
+583
+
+884
+
+586
+
+1,000
+
+504
+
+884
+
+421
+
+Table 34 - Secondary school teachers per-capita (1981 and 2011, by UCL and town size)
+
+Secondary school
+teachers per 100,000
+of local population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+822
+
+556
+
+848
+
+580
+
+756
+
+602
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+48
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Public Safety and Emergency Services
+Police Officers
+Regional presence of service delivery professionals
+
+There were fewer small towns with a
+police officer in their communities in
+2011 than there were in 1981. This
+decline held across all remoteness
+categories.
+In 1981, 66 per cent of towns in remote
+and very remote areas had a police
+officer, but this dropped to 51 per cent
+in 2011.
+In 2011, towns with larger populations
+were more likely to have a police
+officer than were towns with fewer
+people.
+
+Figure 16 - 2011 police officer service availability (by SA2)
+Table 35 - Small towns with no identified police officer (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+police officer
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+495
+
+841
+
+215
+
+381
+
+212
+
+323
+
+68
+
+137
+
+45%
+
+54%
+
+49%
+
+51%
+
+46%
+
+61%
+
+34%
+
+49%
+
+Table 36 - Small towns with no identified police officer (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+police officer
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+301
+
+734
+
+80
+
+96
+
+114
+
+11
+
+56%
+
+71%
+
+31%
+
+28%
+
+36%
+
+6%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+49
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Police Officers
+
+The per-capita rate of police officers
+in small towns continues to track
+above the national average. In 2011,
+the national rate was 230 officers
+per 100,000 people but the rate for
+small towns was 270 per 100,000.
+
+Per-capita rates
+
+The per-capita rate increased as
+remoteness increased, so that towns in
+remote and very remote areas had
+higher rates than those in outer
+regional areas.
+
+Figure 17 - 2011 police officers per 100,000 people (by SA2)
+
+The 2011 per-capita rate increased
+for small towns of all sizes, except
+those with populations of under
+1,000. The per-capita rate for these
+towns dropped slightly from the
+1981 rate.
+
+Table 37 - Police officers per-capita against national average (1981 and 2011, by UCL)
+
+Police officers per 100,000 of local
+population
+
+Australia
+1981
+217
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+230
+
+240
+
++10%
+
++17%
+
+270
+
+Table 38 - Police officers per-capita (1981 and 2011, by UCL and remoteness)
+
+Police officers per
+100,000 of local
+population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small
+towns
+
+Very Remote
+small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+240
+
+270
+
+231
+
+224
+
+287
+
+395
+
+419
+
+540
+
+Table 39 - Police officers per-capita (1981 and 2011, by UCL and town size)
+
+Police officers per
+100,000 of local
+population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+263
+
+255
+
+226
+
+285
+
+230
+
+267
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+50
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Paramedics
+Regional presence of service delivery professionals
+
+There were about the same proportion
+of towns with paramedics in 1981 as in
+2011.
+While there were slightly more inner
+regional small towns with paramedics
+in 2011 than in 1981, there were
+slightly fewer in towns in outer
+regional, remote and very remote
+areas.
+In 2011, only six percent of towns with
+populations under 1,000 had a
+paramedic, compared with 30 per cent
+of those with populations between
+1,000 and 2,499 and 68 per cent of
+towns with over 2,500 people.
+
+Figure 18 - 2011 paramedic service availability (by SA2)
+Table 40 - Small towns with no identified paramedic (1981 and 2011, by UCL and remoteness)
+
+Total number of towns
+without a recognised
+paramedic
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+914
+
+1,264
+
+368
+
+591
+
+371
+
+430
+
+175
+
+243
+
+82%
+
+81%
+
+83%
+
+80%
+
+80%
+
+81%
+
+86%
+
+87%
+
+Table 41 - Small towns with no identified paramedic (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised
+paramedic
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+494
+
+969
+
+189
+
+235
+
+231
+
+60
+
+92%
+
+94%
+
+73%
+
+70%
+
+73%
+
+32%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+51
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Paramedics
+
+In 2011, the per-capita rate for small
+towns was 79 paramedics to 100,000
+population. This was higher than the
+national rate of 56 paramedics per
+100,000. These rates maintain the
+advantage recorded in the 1981
+Census, where per-capita rates for
+small towns were higher than the
+national rate.
+
+Per-capita rates
+
+Only small towns in very remote areas
+had per-capita rates below the
+national average in 2011..
+
+Figure 19 - 2011 paramedics per 100,000 people (by SA2)
+
+In 2011, per-capita rates were
+inversely related to town size. Towns
+with populations under 1,000 had a
+per-capita rate below the national
+average.
+
+Table 42 - Paramedics per-capita against a national average (1981 and 2011, by UCL)
+
+Paramedics per 100,000 of local
+population
+
+Australia
+1981
+31
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+56
+
+58
+
++83%
+
++42%
+
+79
+
+Table 43 - Paramedics per-capita (1981 and 2011, by UCL and remoteness)
+
+Paramedics per
+100,000 of local
+population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small
+towns
+
+Very Remote
+small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+58
+
+79
+
+66
+
+87
+
+53
+
+79
+
+42
+
+45
+
+Table 44 - Paramedics per-capita (1981 and 2011, by UCL and town size)
+
+Paramedics per
+100,000 of local
+population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+37
+
+51
+
+70
+
+83
+
+65
+
+93
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+52
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Social Welfare
+Social Welfare Professionals
+Regional presence of service delivery professionals
+
+Overall, the proportion of towns with
+no direct access to social welfare
+professionals has remained relatively
+constant between 1981 and 2011.
+However, while about a quarter of
+small towns in remote and very remote
+areas had a social welfare
+professional in 1981, this had fallen to
+around one in ten by 2011.
+Towns with over 2,500 people are
+more likely to have a social welfare
+professional in their community than
+towns of any other size.
+
+Figure 20 - 2011 social welfare professional service availability (by SA2)
+Table 45 - Small towns with no identified social welfare professional (1981 and 2011, by UCL and
+remoteness)
+
+Total number of towns
+without a recognised
+social welfare
+professional
+As a proportion of all
+Australian small towns
+
+All small towns
+
+Inner Regional
+small towns
+
+Outer Regional
+small towns
+
+Remote and Very
+Remote small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+918
+
+1,293
+
+365
+
+577
+
+398
+
+467
+
+155
+
+249
+
+83%
+
+83%
+
+83%
+
+78%
+
+85%
+
+88%
+
+76%
+
+89%
+
+Table 46 - Small towns with no identified social welfare professional (1981 and 2011, by UCL and town size)
+
+Total number of towns
+without a recognised social
+welfare professional
+As a proportion of all
+Australian small towns
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+486
+
+974
+
+210
+
+253
+
+222
+
+66
+
+91%
+
+95%
+
+81%
+
+75%
+
+70%
+
+36%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+53
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Social Welfare Professionals
+Per-capita rates
+
+Although the 2011 per-capita rate
+for social welfare professionals rose
+for small towns, it remains below the
+national rate across all remoteness
+categories.
+While per-capita rates increased for
+outer regional and remote small
+towns, it fell for towns in very remote
+areas.
+Between 1981 and 2011, the percapita rate improved for towns with
+populations over 1,000 people, but
+fell for towns with fewer residents.
+
+Figure 21 - 2011 social welfare professionals per 100,000 people (by SA2)
+
+Table 47 - Social welfare professionals per-capita against national average (1981 and 2011, by UCL)
+
+Social welfare professionals per
+100,000 of local population
+
+Australia
+1981
+112
+
+2011
+
+Small Towns
+1981
+2011
+
+Gap
+1981
+
+2011
+
+155
+
+63
+
+- 44%
+
+- 38%
+
+96
+
+Table 48 - Social welfare professionals per-capita (1981 and 2011, by UCL and remoteness)
+
+Social welfare
+professionals per
+100,000 of local
+population
+
+All small towns
+
+Outer Regional
+small towns
+
+Remote small
+towns
+
+Very Remote
+small towns
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+63
+
+96
+
+52
+
+71
+
+87
+
+105
+
+139
+
+111
+
+Table 49 - Social welfare professionals per-capita (1981 and 2011, by UCL and town size)
+
+Social welfare
+professionals per
+100,000 of local
+population
+
+Below 1,000
+
+1,000 to 2,499
+
+2,500 +
+
+1981
+
+2011
+
+1981
+
+2011
+
+1981
+
+2011
+
+62
+
+57
+
+56
+
+84
+
+73
+
+129
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+54
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+A2: Growth in service delivery professionals 1981 – 2011 (headcount)
+Australia
+
+1981
+
+2011
+
+Small Towns
+1981
+
+2011
+
+Aggregate Change
+Australia
+Small Towns
+
+Percentage Change
+Australia
+Small Towns
+
+GPs
+
+27,108
+
+43,429
+
+517
+
+1,513
+
+16,321
+
+996
+
+60.2%
+
+192.6%
+
+Psychologists
+
+2,632
+
+18,602
+
+40
+
+521
+
+15,970
+
+481
+
+606.8%
+
+1,202.5%
+
+Nurses
+
+139,436
+
+224,817
+
+8,525
+
+18,346
+
+85,381
+
+9,821
+
+61.2%
+
+115.2%
+
+Dentists
+
+5,586
+
+17,320
+
+311
+
+352
+
+11,734
+
+41
+
+210.1%
+
+13.2%
+
+Primary School
+Teachers
+
+92,007
+
+137,425
+
+8,043
+
+13,208
+
+45,418
+
+5,165
+
+49.4%
+
+64.2%
+
+Secondary School
+Teachers
+
+91,959
+
+125,040
+
+9,325
+
+10,606
+
+33,081
+
+1,281
+
+36.0%
+
+13.7%
+
+Preschool
+Teachers
+
+9,483
+
+18,314
+
+909
+
+1,183
+
+8,831
+
+274
+
+93.1%
+
+30.1%
+
+Police
+
+31,694
+
+49,551
+
+2,760
+
+4,894
+
+17,857
+
+2,134
+
+56.3%
+
+77.3%
+
+Firefighters
+
+8,880
+
+12,324
+
+378
+
+973
+
+3,444
+
+595
+
+38.8%
+
+157.4%
+
+Paramedics
+
+4,579
+
+11,941
+
+662
+
+1,435
+
+7,362
+
+773
+
+160.8%
+
+116.8%
+
+Social Welfare
+Professionals
+
+16,386
+
+33,264
+
+729
+
+1,750
+
+16,878
+
+1,021
+
+103.0%
+
+140.1%
+
+262,277
+
+22,582
+
+61%
+
+70.1%
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+55
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+A3: Developmental vulnerability service professionals by remoteness
+and town size.
+In 2011, small towns in very remote areas have lower per-capita rates with respect to
+psychologists and preschool teachers, compared not only to comparable national rates but
+also to small towns in other remoteness classifications. Conversely, towns in very remote areas
+had better per-capita access to social welfare professionals than outer regional and remote
+small towns.
+Psychologists per-capita, 1981 to 2011
+(by remoteness)
+
+Professionals per 100,000
+
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+
+1981
+
+1986
+
+1991
+
+1996
+
+2001
+
+2006
+
+All Small Towns
+
+Outer Regional
+
+Remote
+
+Very Remote
+
+2011
+
+Preschool Teachers per-capita, 1981 to 2011
+(by remoteness)
+
+Professionals per 100,000
+
+140.0
+120.0
+100.0
+80.0
+60.0
+40.0
+20.0
+0.0
+
+1981
+
+All Small Towns
+
+1986
+
+1991
+
+1996
+
+Outer Regional
+
+2001
+Remote
+
+2006
+
+2011
+
+Very Remote
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+56
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Social Welfare Workers per-capita, 1981 to 2011
+(by remoteness)
+160.0
+
+Professionals per 100,000
+
+140.0
+120.0
+100.0
+80.0
+60.0
+40.0
+20.0
+0.0
+
+1981
+
+1986
+
+All Small Towns
+
+1991
+
+1996
+
+Outer Regional
+
+2001
+
+2006
+
+Remote
+
+2011
+
+Very Remote
+
+However, when we compare the per-capita rates by town size, two distinct patterns emerge:
+•
+•
+
+First, towns with populations of over 2,500 have per-capita rates well above those
+with populations between 1,000 and 2,500 and under 1,000.
+Second, per-capita rates decrease with town size so that towns with smaller
+populations have poorer per-capita rates.
+Psychologists per-capita, 1981 to 2011 (town size)
+
+Professionals per 100,000
+
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+
+1981
+
+1986
+
+1991
+
+1996
+
+2001
+
+All Small Towns
+
+Under 1,000
+
+1,000 to 2,500
+
+Over 2,500
+
+2006
+
+2011
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+57
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Professionals per 100,000
+
+Preschool Teachers per-capita, 1981 to 2011 (town size)
+100.0
+80.0
+60.0
+40.0
+20.0
+0.0
+
+1981
+
+1986
+
+1991
+
+1996
+
+2001
+
+All Small Towns
+
+Under 1,000
+
+1,000 to 2,500
+
+Over 2,500
+
+2006
+
+2011
+
+Professionals per 100,000
+
+Social Welfare Professionals per-capita, 1981 to 2011
+(town size)
+140.0
+120.0
+100.0
+80.0
+60.0
+40.0
+20.0
+0.0
+
+1981
+
+1986
+
+1991
+
+1996
+
+2001
+
+All Small Towns
+
+Under 1,000
+
+1,000 to 2,500
+
+Over 2,500
+
+2006
+
+2011
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+58
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+A4: Definitions and Data
+What we analysed
+In our analysis, we defined a small town as a community outside of major metropolitan areas
+and with populations between 200 and 5,000 people. We have used the ABS’ Urban Centre
+and Locality (UCL) boundaries for our analysis, and have chosen the upper population limit of
+5,000 to better focus on the issues of service delivery in small communities as distinct from the
+regional level.
+While we have tracked a cohort of 1,111 small Australian towns over time beginning 1981,
+we have also permitted the entry of new small towns into our study in subsequent Censuses. By
+2011, they represented close to 40 per cent of total towns in our cohort, highlighting their
+significance in any study of smaller Australian communities.
+We tracked people in the service delivery occupations related to health, education, social
+welfare, and public safety and emergency services. Table below lists the individual
+occupations that feature in the analysis.
+Service Category
+
+Occupations Analysed
+
+Health
+
+General Practitioners (GPs), Nurses, Psychologists, Dentists
+
+Education
+
+Preschool Teachers, Primary School Teachers, Secondary School Teachers
+
+Public Safety and Emergency
+Services
+
+Police Officers, Paramedics
+
+Social Welfare
+
+Social Workers and Counsellors
+
+We analysed these occupations in the cohort of small towns, focussing on two key measures:
+1. The number of small towns with these professionals working in their communities.
+This gave an indication of how many towns had face-to-face access to a professional
+who spent most of, if not all, of their time located in that particular town.
+2. The per-capital rate of service delivery professionals in a small town compared to
+national averages.
+This comparison gives us a sense of how these rates of service are tracking against regional
+and national trends. We also compared these rates across small towns themselves between
+1981 and 2011, to get a sense of how these rates have changed over time.
+Census data is ‘confidentialised’ when it reveals small numbers of people (under 5) in certain
+categories. This is designed to protect the confidentiality of census data by not allowing
+someone to drill into the data to find, for example, the income level of a person in a small
+community with a certain occupation. The ABS therefore randomises the numbers if the count is
+less than 5 people in a particular category. This means that where the specific counts of
+people in small towns are under 5, the numbers may not reflect the actual census responses.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+59
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+For this reason we report here on trends in professional numbers by small town size and
+remoteness classification rather than reporting numbers for each small town itself.
+
+Definition of a ‘small town’
+For the purposes of this research, a small town has been defined as a community outside of
+metropolitan areas with a population between 200 to 5,000 residents. Following Collits,
+(2000) we acknowledge that the definition of a small town has varied both across government
+departments and peer-reviewed research.xlvii Notwithstanding this subjectivity, the definition
+used in this research is both practical and is consistent with the intention of the research itself.
+We concede that the lower limit of 200 excludes some small towns from our analysis.
+However, this minimum reflects the constraints on data availability. By selecting the ABS’ Urban
+Centre and Locality (UCL) boundaries as the primary measure for our analysis, we have
+inherited the population parameters in this initial data collection, including a lower limit of 200
+residents. UCL boundaries were preferred because their boundaries clearly differentiate
+between individual towns and they remain relatively consistent over time.
+The upper population limit of 5,000 population reflects the intention to more keenly
+understand the prevalence of service delivery professionals in small communities as distinct
+from the regional level.
+
+Available Data
+Evaluating the prevalence and per-capita ratios of service delivery professionals across small
+Australian towns since 1981 is no small undertaking. While peer-reviewed research provided
+a basis for the changing role and the broad effect of policy responses on small towns, it did
+not provide specific occupational data.xlviii Consequently, the RAI identified aggregate and
+per-capita measures of selected service delivery occupations in UCLs from Census data as far
+back as 1981.
+While using Census data by UCL provides many advantages, it also provides some
+drawbacks. As others have discussed,xlix the rate of non-response to a Census is typically
+around 1-2 per cent of Australia’s total population. In addition, the particular Census question
+about an individual or household member’s occupation focuses solely on ‘the main job held’,
+meaning that full occupation details may not necessarily be captured. Both of these factors
+can often contribute to an underestimation of the total workforce.
+Further to this, under the ABS UCL classification system, rural areas of state that are adjudged
+by the ABS as being external to a particular UCL are categorised under a separate ‘Rural
+Balance’ entity. This can sometimes include individuals or households that consider themselves a
+part of a nearby town or city but for the purposes of our study, are not. Both of these factors
+mean that disaggregation at a regional or town level carries some risk of error. Where
+possible, these numbers have been locally verified to mitigate this risk.
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+60
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Cohort
+The list of UCLs that makes up the cohort of small towns at every Census is dynamic. From
+Census to census, existing small towns may have fallen below the threshold necessary to
+identify them as a town (<200), or grown into Major Towns or Regional Cities, or been
+absorbed into metropolitan zones. Additionally, newer communities, as well as those previously
+captured in the rural balance category (owing to a recognised population below 200), that
+grew into recognised towns in subsequent Censuses (acquiring a unique UCL from the ABS)
+have been included in our cohort. This means that over time, the observed cohort of small
+towns has grown considerably, with a largely constant group of existing small towns in 1981
+joined by a significant number of new entrants.
+
+Remoteness
+In our analysis, we filtered towns by remoteness categories using the ABS’ Remoteness Area
+classification (Inner Regional, Outer Regional, Remote and Very Remote) to better understand
+the impact that remoteness has on the prevalence and per-capita ratios of service delivery
+professionals in small towns. This ABS measure is only available for 2001 onward,
+complicating comparisons to data before this time. Where possible we have avoided
+comparing remoteness before and after 2001 as much as possible. However where this
+comparison has been made we have worked on the assumption that no town has increased in
+remoteness between 1981 and 2011.
+The distribution of small towns across Australia by remoteness classification is shown below.
+Most remote and very remote small towns are in Queensland and South Australia, and
+Victoria has no very remote small towns.
+Inner Regional
+
+Outer Regional
+
+Remote
+
+Very Remote
+
+NSW
+
+266
+
+152
+
+12
+
+7
+
+VIC
+
+206
+
+84
+
+6
+
+-
+
+QLD
+
+152
+
+126
+
+34
+
+53
+
+WA
+
+56
+
+61
+
+21
+
+11
+
+SA
+
+42
+
+44
+
+27
+
+38
+
+TAS
+
+20
+
+62
+
+7
+
+1
+
+Total
+
+743
+
+531
+
+118
+
+163
+
+Finally, comparison using SA2 boundaries has occurred as well. This allows the data to be
+presented in geospatial maps (provided in the appendices) – giving greater insight into
+regional trends in the data.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+61
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Occupations Data
+Limitations
+There are several limitations in using occupational data.
+First, the classification of occupations over the period 1981 to 2016 has changed.l These
+changes have occurred to the classification of occupations used in this research, disrupting
+continuity of observed professions and making time-series comparison more difficult.li For
+instance, while Dental Practitioners were considered the single occupation that provided dental
+services to the community in the 1981 Census, by 2011, this had expanded to include
+Hygienists, Orthodontists, and more. While the ABS recognises these as separate occupations,
+for the purposes of our research they are all considered dental service professionals and
+needed to be included in our reporting. Efforts have been made to identify and account for
+inconsistencies and structural changes in the data so as to preserve the underlying purpose of
+our research – recognising professionals who work to provide these basic services to their
+community, regardless of the specific title they carry. Notwithstanding these efforts, we
+acknowledge that there may be some professionals delivering services that are unintentionally
+excluded from the research.
+Second, there are concerns that the complexity of health related occupations might not be
+fully captured in the Census collection such that some measures in the research might be
+overstated. For example, the Census has limited capacity to reflect the itinerant nature of
+General Practitioners in small towns. These GPs may base themselves in one particular town
+for a given percentage of their time (say for example 0.5 FTE), but also provide outreach
+services to other towns on a regular or semi-regular basis. Census data is unlikely to pick up
+the services they may provide as outreach, instead attributing their location to one town only.
+lii
+
+Nurses
+In the 1981 Census, nurses were classified under four separate ISCO codes (023 to 027),
+representing anything from Enrolled Nurses, Bush Nurses, those with general or psychiatric
+certification, and those still under probation or training. However, by 2011 the ANZSCO list of
+occupations involved a far more complicated subdivision of nursing, recognising the growing
+certification and training adopted by the profession. For our purposes, Registered Nurses
+(ANZSCO 2544) and Enrolled and Mothercraft Nurses (ANZSCO 4114) have both been
+included in our research, so as to best meet our definition of nursing in the community and still
+ensure continuity with the 1981 definition.
+Dentists
+In the 1981 Census, dentists were a single ISCO code (022) representing Dental Officers,
+Dental Surgeons, Dental Doctors and Orthodontists and other professionals. However, the
+ANZSCO list of occupations used in the 2011 Census was split between Dental Practitioners
+(ANZSCO 2523) and Dental Hygienists, Technicians and Therapists (ANZSCO 4112). Both
+have been included in the 2011 research.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+62
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+Education
+There were two issues with using Census data to identify primary and secondary teachers:
+(i)
+Narrow employment codes that risk exclusion of some categories of occupation
+that nevertheless are involved in the provision of core education services, such as
+middle school teachers and special education teachers. However as these
+categories were overwhelmingly located within metropolitan areas, the impact on
+the analysis was minimal. liii
+(ii)
+Census data does not reliably capture the fact that education is provided by
+parents and guardians trained specifically in primary and secondary education,
+yet who may identify as stay-at-home parents. However, as only 0.3per cent of
+the total Australian school student population are home schooled, their small
+representation does not significantly impact our analysis.liv
+
+The evolution of Australian towns, BITRE Research Report 136, Canberra, 2014.
+The population of Australia’s rural and remote Heartlands regions rose by 1.6% between the
+2011 and 2016 censuses.
+iii In 1981, there were 1,111 small towns in Australia, accounting for 7.9% of total population.
+In 2011, this rose to 1,555 towns and 8.5% of the national population.
+iv https://www.pc.gov.au/inquiries/current/transitioning-regions/initial/transitioning-regionsinitial.pdf
+v https://www.extension.iastate.edu/article/small-town-quality-life-driven-more-economics
+vi http://regional.gov.au/regional/publications/regions_2030/
+vii Connolly, E. and Lewis, C. 2010.’Structural Change in the Australian Economy’, Reserve bank
+of Australia Quarterly Bulletin. Available at:
+http://www.rba.gov.au/publications/bulletin/2010/sep/1.html ’
+viii https://www.aihw.gov.au/getmedia/6d6c9331-5abf-49ca-827b-e1df177ab0d3/ah165-11-rural-remote-health.pdf.aspx
+ix https://pdfs.semanticscholar.org/1b4d/98cdba2f108875217ae79ea00a94bcf9fbe2.pdf
+x http://www.aare.edu.au/blog/?p=2128
+xi http://www.royalfarwest.org.au/invisible-children
+xii Productivity and Income — The Australian Story, Shifting the Dial: 5 year Productivity Review ,
+Productivity Commission 2017 available at
+https://www.pc.gov.au/inquiries/completed/productivity-review/report/productivity-reviewsupporting1.pdf
+i
+
+ii
+
+xiii
+
+www.drd.wa.gov.au/publications/Documents/Living_in_the_Regions_2013_State_Report.pdf
+xiv OECD Regional Outlook 2016. Productive Regions for Inclusive Societies, p. 183.
+xv www.crikey.com.au/2017/09/20/koukoulas-penny-pinching-on-education-leaves-thenationlagging/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+com/rCTl+(Cri
+key)
+xvi National Rural Health Alliance. 2016. ‘The extent of the rural health deficit.’ Available at:
+http://ruralhealth.org.au/sites/default/files/publications
+xvii National Rural Health Alliance. 2017. ‘Mental Health in Rural and Remote Australia: Fact
+Sheet.’ Available at: http://ruralhealth.org.au/sites/default/files/publications/nrha-mentalhealth-factsheet-2017.pdf
+xviii Australian Bureau of Statistics remoteness classifications have been used in this work
+http://www.abs.gov.au/websitedbs/D3310114.NSF/4a256353001af3ed4b2562bb00121
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+63
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+564/6b6e07234c98365aca25792d0010d730/$FILE/ASGS%20Remoteness%20Structure%
+20-%20Fact%20Sheet.pdf
+xix In 1981, the proportion of the population aged over 65 years was 9.8% nationally,
+11.1% for all small towns, 8.7% for remote towns and 11.6% for towns in outer regional
+areas. In 2011, 14% of the national population was aged over 65 years, as was 17% of the
+population of all small towns. 17.5% of the population of small towns in remote areas was
+aged over 65, as was 21% of the population of small towns in outer regional areas.
+xx Reid, J., While, S., Green, B., Lock, G., Cooper, M. and Hastings, W. 2012. ‘Terra Nova:
+Renewing Teacher Education for Rural and Regional Australia: Project Report,’ CSU print,
+Wagga Wagga.
+xxi Nash, A. 2017. Pers comm, 24 August 2017.
+xxii National Rural Health Alliance. 2016. ‘The extent of the rural health deficit.’ Available at:
+http://ruralhealth.org.au/sites/default/files/publications
+xxiii Australian Human Rights Commission. 1999. ‘Queenstown public meeting, 4 November
+1999 – notes.’ Available at: https://www.humanrights.gov.au/publications/rural-and-remoteeducation-tasmania-2
+xxiv Productivity Commission. 2011. ‘Early Childhood Development Workforce: Research
+Report. Melbourne’. Available at: http://www.pc.gov.au/inquiries/completed/educationworkforce-early-childhood/report/early-childhood-report.pdf . See especially Chapter Nine.
+xxv Australian Human Rights Commission. 1999. ‘Queenstown public meeting, 4 November
+1999 – notes.’ Available at: https://www.humanrights.gov.au/publications/rural-and-remoteeducation-tasmania-2
+xxvi Guenther, J. 2011. ‘Review of teacher accommodation in north west Tasmania: Final report
+for the Department of Education, Tasmania.’ pp 2-10. Available at:
+http://www.catconatus.com.au/docs/110215_review_of_teacher_accommodation_nw_tas_D
+OE_final_updated.pdf
+xxvii Ibid, p. 14.
+xxviii Roberts, P. 2004. ‘Staffing an empty schoolhouse: attracting and retaining teachers in
+rural, remote and isolated communities.’ NSW Teachers Federation. Sydney. pp 31-33.
+Available at:
+https://www.nswtf.org.au/files/staffing_an_empty_schoolhouse_roberts_2004_1.pdf
+xxix Although there was a small decrease in the per-capita rate in towns under 1,000 people.
+xxx Putt, J. (ed.) 2010. ‘Community Policing in Australia.’ Australian Institute of Criminology.
+Available at: http://aic.gov.au/media_library/publications/rpp/111/rpp111.pdf Chapter
+Eight
+xxxi Burgess, M. 2013. ‘Submission to Productivity Commission Inquiry into Geographic Labour
+Mobility by the Police Federation of Australia.’ p. 4. Available at:
+https://www.pc.gov.au/__data/assets/pdf_file/0016/125620/sub002-labour-mobility.pdf
+xxxii Rigby, M. 2017. ‘NAIDOC Week: Aboriginal liaison officers bring their own kind of
+authority to remote NT policing.’ Australian Broadcast Corporation. Available at:
+http://www.abc.net.au/news/2017-07-06/naidoc-week-aboriginal-officers-bring-own-kindof-authority/8680896 and ‘Aboriginal Liaison Officer Trial Program Begins.’ 2015. E Drum:
+the Northern Territory Police, Fire and Emergency Services online magazine. Available at:
+http://www.pfes.nt.gov.au/Media-Centre/eDrum/eDrumArchive/2015/Aboriginal-LiaisonOfficers-begin.aspx
+xxxiii Burgess, M. p. 8
+xxxiv Department of Environment, Food and Rural Affairs (2017) Rural Proofing: Practical
+guidance to assess impacts of polices on rural areas. Available at:
+https://www.gov.uk/government/publications/rural-proofing
+xxxv Measuring Australia’s Digital Divide; The Digital Inclusion Index 2017 available at
+Measuring Australia’s Digital Divide: The Australian Digital Inclusion Index 2017’
+xxxvi Royal Australian College of General Practitioners, Submission to the Finance and Public
+Administration References Committee review of digital delivery of government services, October
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+64
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+2017 available at
+https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Finance_and_Public_A
+dministration/digitaldelivery/Submissions
+xxxvii Clough, BA and Casey, LM (2011) ‘Technological adjuncts to enhance current
+psychotherapy practices: a review’, Clin Psychol Rev. 2011 Apr;31(3):279-92
+xxxviii Money Help. 2017. Centrelink Payments. Available at:
+http://www.moneyhelp.org.au/losing-your-job/centrelink-entitlements/
+xxxix Productivity Commission. 2002. ‘Independent Review of Job Network: Inquiry Report No.
+21’, AusInfo, Canberra. Available at: https://www.pc.gov.au/inquiries/completed/jobnetwork/report/jobnetwork.pdf
+xl Health Direct. 2016. ‘Equity of access for all Australians.’ Available at:
+https://about.healthdirect.gov.au/equity-of-access-for-all-australians
+xli Mission Australia and The Black Dog Institute. 2017. ‘Youth mental health report: Youth
+Survey 2012-2016.’ Available at: https://blackdoginstitute.org.au/docs/defaultsource/research/evidence-and-policy-section/2017-youth-mental-health-report_missionaustralia-and-black-dog-institute.pdf?sfvrsn=6 page 31
+xlii Ewing, S. 2016. ‘Australia’s digital divide is narrowing but getting deeper,’ The
+Conversation. Available at: https://theconversation.com/australias-digital-divide-is-narrowingbut-getting-deeper-55232
+xliii Tugwell, N. 2015. ‘Slow internet in regional Australia creating a “digital divide: and
+harming education and business,’ Lateline, Australian Broadcasting Corporation. Available at:
+http://www.abc.net.au/lateline/content/2015/s4292363.htm
+xliv Thomas, J., Barraket, J., Ewing, S., Wilson, C., Rennie, E. and Tucker, J. 2017 ‘Australian
+Digital Inclusion Index.’ Available at: https://digitalinclusionindex.org.au/
+xlv Duckett, S., Breadon, P. and Ginnivan, L., 2013, Access all areas: new solutions for GP
+shortages in rural Australia, Grattan Institute, Melbourne https://grattan.edu.au/wpcontent/uploads/2014/04/196-Access-All-Areas.pdf
+xlvi http://www.health.gov.au/internet/ministers/publishing.nsf/Content/health-mediarelyr2017-gillespie050.htm
+xlvii See Collits, 2000.
+xlviii Although remaining broadly consistent over time, the method of determining UCL
+boundaries changed in 2011. Prior to 2011, UCLs were formed using the Australian Standard
+Geographical Classification (ASGC) Collection Districts (CDs), but from 2011 onward have
+been defined using the Australian Standard Geographical Standard (ASGS) SA1 boundaries.
+We have pooled UCLs into major groupings such as All Small Towns, Outer Regional Small
+Towns, and Remote and Very Remote Small Towns to help mitigate against any inconsistencies
+brought on by these changes.
+xlix http://blog.id.com.au/2017/economic-analysis/missing-millions-the-problem-with-usingcensus-data-for-employment-estimates/
+l In 1981, the ABS adhered to the International Labour Office’s International Standard
+Classification of Occupations (ISCO). For the period 1986 to 2001, it was the Australian
+Standard Classification of Occupations (ASCO), and most recently, the Australian and New
+Zealand Standard Classification of Occupations (ANZSCO) has been in use since 2006.
+li A useful example is dental services. While in 1981, dental practitioners existed as the sole
+available category for occupations we would ascribe to ‘dental’, by 2011 there were Dental
+Practitioners, Dental Hygienists, Dental Technicians and Dental Therapists. While in some cases
+there is a temptation (and in others, a need) to continue to only include Dental Practitioners to
+ensure consistency over time and permit time series analysis, it would fail to accurately capture
+the level of dental services being delivered in communities. In many instances like this, a growing
+list of professions have needed to be included over time to account for the growing nuance of
+the industry, and the changing workforce patterns in Australia.
+lii A meaningful example of the shortcomings of census data has been provided in the next
+section, drawing heavily on the work of Rural Health Workforce Australia. It demonstrates how
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+65
+
+Regional Inequality in Australia
+Submission 95 - Attachment 1
+
+inconsistencies manifest across the Australian Institute of Health and Welfare’s Workforce
+data, ABS census data, and Medicare data for a measure like General Practitioners
+operating in Australia. While it is acknowledged that census data is found to have several
+issues, as discussed above, it also holds a number of advantages over other data for the
+purposes of our research, making it the most appropriate in spite of its limitations. As
+demonstrated in the Rural Health Workforce Australia’s publication, Regional, Rural and
+Remote GP Workforce Trends (RHW, 2014), there are several sources available for
+information on Australia’s regional and remote health workforce, and their existence
+demonstrates certain limitations with census data.
+liii While primary and secondary schooling are typically recognised as separate 4-digit
+categories by the ABS (ANZSCO codes 2412 and 2414 respectively in 2011), selecting these
+two (to ensure consistency over time) has also meant the exclusion of Middle School Teachers
+(2413), Special Education Teachers (2415) and School Teachers nfd (2410, No Further
+Details).
+Fortunately, all three categories were overwhelmingly located within metropolitan areas (in
+the 2011 Census, it was around 94-96% of all professionals) and therefore have minor impact
+on our analysis.
+liv Source: Stuart Chapman. Home School Legal Defense Association. Available at
+https://www.hslda.org/hs/international/201510190.asp
+
+Note: all links correct at time of publication.
+
+Pillars of communities: Service delivery professionals in small Australian towns 1981 – 2011
+
+66
+
+

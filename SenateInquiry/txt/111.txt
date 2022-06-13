@@ -1,0 +1,2133 @@
+Regional Inequality in Australia
+Submission 111
+
+28 May 2018
+
+Senate Standing Committees on Economics
+PO Box 6100
+Parliament House
+Canberra ACT 2600
+Phone: +61 2 6277 3540
+Fax: +61 2 6277 5719
+
+economics.sen@aph.gov.au
+Letter of Transmittal
+Dear Committee Secretary and Committee Members,
+Please accept this submission in response to the inquiry into ‘The indicators of, and impact of, regional
+inequality in Australia’ from the National Rural Health Alliance.
+The submission highlights the need to include health inequality as an indicator and outcome of regional
+inequality. It provides examples of how health inequality impacts on people in regional areas. It also
+suggests that regional development strategies should be prioritised for health infrastructure and the
+health workforce in rural and remote Australia.
+The Alliance has five recommendations for the Senate committee to consider:
+1. Include health as an indicator and outcome of regional inequality: Any consideration of regional
+inequality indicators must include measures of health and wellbeing. Outcomes of social and fiscal
+policy are reflected in these measures. Health equality means looking beyond measure of GDP.
+Indicators of mortality, life expectancy, chronic illness, risk factors, psychological distress, and access to
+health care are examples of indicators that can be used as benchmarks for measuring health equality.
+2. National approach to address regional inequality: regional inequality is not unique to any one state or
+territory. Therefore, a coordinated national approach is required to addressing regional inequality that
+exists within and between jurisdictions, states and territories.
+3. Prioritise equality for Aboriginal and Torres Strait Islander people: Any strategies to address regional
+inequality must address inequality and inequities that exist for Aboriginal and Torres Strait Islander
+people. They must be a priority.
+4. Adopt a Health in all policies approach - use this framework to coordinate intersectoral action to
+address inequality.
+5. Mandate the use of Health Impact Assessments to inform decisions made by all governments for new
+regional Australian policies, regulation, services and programs.
+
+We will gladly answer any questions you have regarding this submission.
+My regards,
+
+Mark Diamond
+Chief Executive Officer, National Rural Health Alliance
+
+Regional Inequality in Australia
+Submission 111
+
+The indicators of, and impact of, regional
+inequality in Australia
+Senate Economics References Committee
+
+May 2018
+
+National Rural Health Alliance
+PO Box 280
+DEAKIN WEST ACT 2600
+
+Regional Inequality in Australia
+Submission 111
+
+Table of Contents
+Introduction ..................................................................................................................... 2
+The National Rural Health Alliance.................................................................................... 3
+Inquiry Terms of Reference ............................................................................................... 4
+Definition of health equality, equity and the determinants of health ................................ 5
+Indicators and impacts of health inequality ...................................................................... 6
+Income inequality .................................................................................................................... 7
+Education .............................................................................................................................. 12
+Employment, underemployment and unemployment ............................................................. 13
+Access to health care ............................................................................................................. 16
+Risk Factors and Chronic illness .............................................................................................. 17
+Mortality rates....................................................................................................................... 19
+Mental health ........................................................................................................................ 19
+Aboriginal and Torres Strait Islander people ........................................................................... 20
+
+Rural and Remote People’s experience of health inequality ............................................ 22
+Any other related matters .............................................................................................. 24
+Health in All Policies............................................................................................................... 24
+Heath Impact Assessments ..................................................................................................... 24
+
+Recommendations (policy settings) ................................................................................ 25
+Sources and further reading ........................................................................................... 26
+
+Regional Inequality in Australia
+Submission 111
+
+Introduction
+The National Rural Health Alliance (the Alliance) welcomes the opportunity to provide this
+submission* for consideration by the Senate Economic References Committee inquiry into
+regional inequality in Australia.
+The focus of this inquiry is the indicators of, and impact of, regional inequality.
+The Alliance notes that this inquiry has emerged following last year’s Productivity
+Commission report on Transitioning Regional Economies (Productivity Commission, 2017).
+The report provided evidence into the effectiveness of regional policies designed to improve
+prosperity and reduce disadvantage†. Improving daily living conditions and reducing
+disadvantage are key determinants of health; and are therefore very relevant to the
+Alliance’s 34-member organisations.
+A significant proportion (around 40%) of the expression of health is a consequence of the
+social determinants of health. Access to education, opportunity for a career, social
+interactions, physical and social development and emotional support during the first years
+of life all contribute to a sense of control over one’s life. Access to healthy food, safe and
+secure housing and the cost of living are all relevant factors.
+The Alliance notes that the Productivity Commission stated that: “Past assistance to
+industries and regions has often been costly, ineffective, counter-productive, wasteful, poorly
+targeted and inequitable.”‡
+In response to this statement, the Alliance poses this question - did the Productivity
+Commission consider the cost to the taxpayer, and to our society more broadly, of the
+health and wellbeing outcomes in rural and remote Australia when it made its assessment
+of the worth of development assistance?
+Country people§ experience significantly worse health outcomes than their metropolitan
+counterparts. The fatal burden of disease is at least 20% higher in regional areas and at least
+50% higher in remote areas (AIHW 2016).
+While these indicators show a significant inequality in health outcomes across all groups in
+rural and remote Australia, Indigenous Australians suffer the worst health outcomes.
+A ten-year gap in life expectancy is just one of the stark health outcomes highlighted in the
+Closing the Gap targets: 2017 analysis of progress and key drivers of change (AIHW 2018).
+The report states:
+“Increased remoteness is associated with poorer outcomes [for Indigenous people] on a
+
+range of target-related measures. Geographic differences in outcomes within the Indigenous
+*
+
+In preparing this submission, the Alliance has drawn on work done by Jarrod Sansom, Annabel Robinson,
+Jasmine Martens and Emily Evans, students in the Bachelor of Communications in the School of Creative
+Industries, University of Newcastle. We acknowledge with thanks their contribution.
+†
+http://parlinfo.aph.gov.au/parlInfo/download/chamber/hansards/5bb8ba07-678d-41a7-a3607109e871eeed/toc_pdf/Senate_2018_02_14_5860_Official.pdf;fileType=application%2Fpdf
+‡
+https://www.pc.gov.au/inquiries/completed/transitioning-regions/report
+§
+Modified Monash categories 2 to 7, or ASGS Remoteness categories 2-5.
+
+2
+
+Regional Inequality in Australia
+Submission 111
+
+population are sometimes greater than the national gap between the Indigenous and nonIndigenous populations. An understanding of the additional factors behind such regional
+variations in the Indigenous population can help focus efforts.” (AIHW 2018)
+
+The Alliance believes that the omission of health and wellbeing from the terms of reference
+is not in the best interests of the Inquiry, nor rural and remote Australia.
+Health is the product of the environment, society, economy and culture in which we live
+(WHO 2018a). As such the health and wellbeing of regional communities is inextricably
+linked to social and economic policy.
+Further, the measurement of health inequalities is an important consideration in any
+examination of social or economic equality.
+As such the topic of regional inequality cannot be fully considered in isolation from the
+health and wellbeing of individuals and communities in rural and remote Australia.
+Indicators used to measure regional inequality, and the impact of them, must include
+indicators of health and wellbeing.
+In this submission, the Alliance provides a detailed analysis of health inequalities in rural and
+remote Australia.
+The Alliance strongly suggests the Committee consider the many advantages of giving
+priority to improving health infrastructure and the health workforce development when it
+considers recommendations for future development plans.
+
+The National Rural Health Alliance
+The Alliance is comprised of 34 national organisations. It is committed to improving the
+health and wellbeing of the almost 7 million people living in rural, regional and remote
+Australia.
+Our members include consumer groups (such as the Country Women’s Association of
+Australia), representation from the Aboriginal and Torres Strait Islander health sector,
+health professional organisations (representing doctors, nurses and midwives, allied health
+professionals, dentists, pharmacists, optometrists, paramedics, health students,
+chiropractors and health service managers) and service providers (such as the Royal Flying
+Doctor Service and the Council of Ambulance Authorities).
+For a full list of our members see Attachment A.
+
+3
+
+Regional Inequality in Australia
+Submission 111
+
+Inquiry Terms of Reference
+On 14 February 2018, the Senate referred an inquiry into the indicators of, and impact of,
+regional inequality in Australia to the Senate Economics References Committee for inquiry
+and report by the last day on sitting in June 2019.
+The indicators of, and impact of, regional inequality in Australia, with particular reference to
+government policies and programs in the following areas:
+A) Fiscal policies at federal, state and local government levels;
+B) improved co-ordination of federal, state and local government policies;
+C) Regional development policies;
+D) Infrastructure;
+E) Education;
+F) Building human capital;
+G) Enhancing local workforce skills;
+H) Employment arrangements;
+I) decentralisation policies;
+J) Innovation;
+K) Manufacturing; and
+L) Any other related matters.
+The Inquiry’s terms of reference are broad. They reflect the complex array of issues that
+impact Australian regional communities. The Alliance welcomes the Committee’s decision
+to consider the specific issues of, and challenges posed by, regional inequality.
+The Alliance notes that each aspect of the terms of reference has direct relevance and
+impact on regional inequality, particularly the experiences of individuals and localities of
+unequal access to opportunities.
+However, the Alliance also notes that health and wellbeing has not been included as an
+indicator of unequal outcomes between non-metropolitan and metropolitan Australia
+areas.
+Therefore, the Alliance urges the Committee to consider including health and wellbeing as a
+measure of regional inequality. In determining its recommendations, the Committee should
+ensure that health infrastructure and health workforce are core strategies of any future
+regional development plans.
+Noting the Committee’s interest in considering ‘any other related matters’ (item l), the
+Alliance would also like to draw attention to:
+1. Health in All Policies - this is an approach that can be used by governments as a
+framework to facilitate across and within government action to address regional
+inequality; and
+2. The value of using Health Impact Assessments to determine the impact on health
+outcomes on regional development initiatives, particularly the impact of
+transitioning regional economies.
+4
+
+Regional Inequality in Australia
+Submission 111
+
+Definition of health equality, equity and the determinants of health
+This section clarifies the terminology used by the Alliance. It outlines the concept of health,
+health equality and health equity, as well as the determinants of health.
+Health is more than the absence of disease, personal behaviours, genes and medical
+treatments. There are many factors that combine to affect the health of individuals and
+communities. Whether people are healthy or not, is determined by their circumstances and
+their environment (social, political, cultural and natural environment).
+Health equality measures difference in health outcomes. The difference does not take into
+account the nature or direction of the difference or who may be adversely affected by it,
+just that a difference exists. It is a dimensional concept that quantifies and shows
+distributions that can be measured and compared. Health equality therefore is the
+measurable difference in health attainment of individuals and groups (Kawaichi et al 2002).
+Health equity is the measure of differences in health status between population groups
+that are socially produced, systematic in their unequal distribution across the population,
+avoidable and unfair (VicHealth 2015).
+“Health equity is the notion that all people should have a fair opportunity to attain
+their full health potential, and that no one should be disadvantaged from achieving
+this potential if it can be avoided” (VicHealth 2015).
+Health equity is not just about the distribution of health or the even narrower focus on the
+distribution of health care (Sen 2002). Healthy equity must pay attention to daily conditions
+(and the fairness of social arrangements) in which people live, work and play (Sen 2002).
+It is the Alliance’s position that any consideration of the dimension of equality must also
+consider the relational concept of equity.
+Figure 1 The difference between equality and equity
+
+Source: Interaction Institute for Social Change | Artist: Angus Maguire interactioninstitute.org and
+madewithangus.com
+
+5
+
+Regional Inequality in Australia
+Submission 111
+
+Determinants of health and wellbeing - The World Health Organization (WHO) defines the
+social determinants of health (SDOH) as the conditions in which people are born, grow, live,
+work and age (WHO 2018a). These circumstances are shaped by the distribution of money,
+power and resources at global, national and local levels (WHO 2018a).
+Determinants of health and wellbeing are the building blocks for health and include (but are
+not limited to):
+•
+
+education
+
+•
+
+housing
+
+•
+
+transport
+
+•
+
+social inclusiveness and social support
+
+•
+
+food security
+
+•
+
+a stable health natural environment (clean air, water, safety and protection from
+climatic events)
+
+•
+
+employment and occupation
+
+•
+
+access to health care.
+
+Many determinants are outside the responsibility of the health care sector.
+The terms of reference for this Inquiry include many of the social and economic
+determinants of health and wellbeing; including education, employment, infrastructure
+development and building human capital (which integrates all of the previous categories).
+As these determinants are all interacting together at the same time, no one agency can be
+solely responsible for targeting inequity and inequality – it requires a whole of government
+and intersectoral coordinated approach.
+
+Indicators and impacts of health inequality
+The health of people living in rural, regional and remote Australia is influenced by a range of
+complex factors, not just the availability of health services.
+A significant proportion (around 40%) of the expression of health is a consequence of the
+social determinants of health. Access to education, opportunity for a career, social
+interactions, physical and social development and emotional support during the first years
+of life all contribute to a sense of control over one’s life. Access to healthy food, safe and
+secure housing and the cost of living are all relevant factors.
+Almost all risk factors that contribute to the development of chronic illness (smoking,
+physical inactivity, unhealthy diets and excessive alcohol consumption) are higher in rural
+areas and particularly high in the smaller and more remote communities. For Indigenous
+Australians (65% of which live outside major urban centers), poorer social and health
+outcomes are magnified.
+
+6
+
+Regional Inequality in Australia
+Submission 111
+
+This section presents examples of health inequality indicators and their impacts and
+compares the differences between regional communities and major cities. Indicators
+include:
+•
+
+a sample of determinants of health – employment, occupation, income, education
+and access to health services;
+• early deaths related to cancer, diabetes, respiratory illness and heart disease;
+• data on mental health risk factors – the factors that expose and predispose the onset
+of mental ill-health.
+These indicators are examples of measures that can be used to determine changes to
+regional inequality. As the indicators can also be measured across social groups, they help
+determine if the health gap has decreased or increased between different socio-economic
+populations groups within society.
+
+Income inequality
+Globally, the factor most closely associated with health status is income. This is because
+income provides people with an ability to:
+•
+
+control their lives
+
+•
+
+have access to good food and housing
+
+•
+
+afford a range of health care options
+
+•
+
+live in a ‘safe’ neighbourhood
+
+•
+
+afford time to recreate
+
+•
+
+increase their opportunity to be better educated (NRHA 2011)
+
+Figure 1 shows the Organisation for Economic Co-operation and Development, (OECD 2018)
+analysis of inequality within Australia from 1995 to 2014. These trends reveal that, after
+2004, inequality increased considerably until 2008. Inequality then decreased slightly until
+2012. However, inequality then began to rise again.
+Figure 2 Income equality in Australia 1995-2014 OECD (2018)
+
+Source: ACOSS https://www.acoss.org.au/wp-content/uploads/2015/06/Inequality_in_Australia_FINAL.pdf
+
+7
+
+Regional Inequality in Australia
+Submission 111
+
+On average, disposable household incomes outside capital cities are 18% lower than inside
+capital cities ($1,058 per week versus $874), with median incomes 15% lower ($883 per
+week versus $746) see Table 1.
+Income varies substantially between communities. Within the 100 Local Government Areas
+(LGAs) those with the lowest household incomes are almost exclusively rural, regional or
+remote.
+Table 1 Disposable household income AND Net hosuhold worth 2015-2016
+
+Capital Cities
+Disposable household income
+Net household worth
+
+$1,072
+$1,033,000
+
+Outside of capital
+cities
+$880
+$737,000
+
+% difference
+18%
+29%
+
+Source: http://www.abs.gov.au/AUSTATS/abs@nsf/DetailsPage/6523,02015-16?OpenDocument
+
+Rural and remote Australia have (see Table 2 below)
+•
+
+more people living in single parent families
+
+•
+
+more families on welfare support
+
+•
+
+more families that are jobless
+
+•
+
+a higher rate of unemployment
+
+•
+
+of those that are employed, there are higher numbers of people who occupy lower
+income jobs e.g. machinery operators, drivers, and labourers.
+
+There are additional challenges for those on lower incomes in rural and remote areas:
+•
+
+Goods and services can be significantly more expensive. For example, a food basket
+survey in the Northern Territory showed that the average cost of the basket was
+$824 in remote stores, $726 in district centre corner stores and $558 in district
+centre supermarkets. East Arnhem was the most expensive remote district ($866) in
+the survey (Northern Territory Government, 2014).
+
+•
+•
+•
+
+There are fewer employment and career options.
+Housing stress is just as likely in rural and remote Australia.
+Access to health care is more limited. People have to pay more in travel and
+accommodation to access health care, which in part results in people choosing to
+delay or avoid visiting health professionals.
+
+The cumulative impact of these additional challenges means that people living in rural and
+remote Australia have worse health outcomes. Their capacity to afford nutritious food and
+health care and medicine is limited. Their access to adequate housing can be compromised.
+Their ability to earn a higher income is diminished. As a result, they experience higher rates
+of avoidable hospitalisations for chronic conditions, and higher death rates than
+experienced by their metropolitan counterparts.
+
+8
+
+Regional Inequality in Australia
+Submission 111
+
+Table 2 Selected social indicators for rural and remote populations
+MC
+
+IR
+
+OR
+
+R
+
+VR
+
+MC
+
+regional
+
+remote
+
+Percentage of employed people who are managers or professionals5
+
+40
+
+30
+
+40
+
+Percentage of employed people who are machinery operators, drivers, labourers6
+
+14
+
+20
+
+23
+
+5
+
+7
+
+12
+
+MC
+
+IR
+
+OR/remote
+
+61
+
+50
+
+48
+
+Selected social indicators
+
+Percentage of people unemployed
+
+7
+
+Percentage of Indigenous people employed
+
+8
+
+Percentage of non-Indigenous people employed
+
+9
+
+Percentage of families with low income or on welfare10
+Percentage of people having some form of Private Health Insurance
+Percentage of families that are single parent
+
+58
+
+48
+
+45
+
+40
+
+35
+
+73
+
+71
+
+74
+
+83
+
+85
+
+9
+
+11
+
+12
+
+14
+
+26
+
+11
+
+12
+
+20
+
+25
+
+24
+
+20
+
+27
+
+13
+
+12
+
+15
+
+16
+
+14
+
+26
+
+Percentage of children developmentally vulnerable on one or more domains14
+
+21
+
+22
+
+25
+
+28
+
+42
+
+0.6
+
+0.9
+
+0.9
+
+1.6
+
+2.4
+
+2
+
+3
+
+5
+
+12
+
+36
+
+Percentage of families that are jobless
+
+Percentage of children who were the subjects of substantiation
+
+15
+
+Percentage of Year Three students below the national minimum reading
+
+standard16
+
+5
+
+http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/2016%20search%20by%20geography
+Ibid.
+7
+http://phidu.torrens.edu.au/
+8 https://www.pmc.gov.au/sites/default/files/publications/2017-health-performance-framework-report_0.pdf
+9 Ibid.
+10 http://phidu.torrens.edu.au/
+11
+http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4839.02015-16?OpenDocument Table 3.2.
+12 http://phidu.torrens.edu.au/social-health-atlases/data
+13 Ibid.
+14 Australian Early Development Census via PHIDU http://www.phidu.torrens.edu.au/social-health-atlases/data
+15 http://www.aihw.gov.au/child-protection/children-receiving-services/#socioeconomic
+16 http://reports.acara.edu.au/Home/Results#results
+6
+
+10
+
+Regional Inequality in Australia
+Submission 111
+
+Figure 3 below is a different presentation of the selected social indicators in Table 2. This
+graph clearly shows social inequalities regarding employment, education (reading
+attainment), child development issues and safety. Note the steep incline and increased
+percentage results for Very Remote areas compared to Major Cities.
+Figure 3 Selected social indicators, by Remoteness area, various recent years
+45
+42
+40
+35.9
+
+35
+30
+28
+25
+
+25
+22
+
+21
+20
+
+20
+
+27
+26
+
+25
+24
+20
+
+15
+
+16
+
+15
+
+14
+
+12
+
+11.6
+
+10
+5.2
+
+5
+3.3
+
+2.2
+0.6
+
+0
+MC
+
+0.9
+IR
+
+OR
+
+2.4
+
+1.6
+
+0.9
+R
+
+VR
+
+Percentage of families that are single parent
+Percentage of families that are jobless
+Percentage of children developmentally vulnerable on one or more domains
+Percentage of children who were the subjects of substantiation
+Percentage of Year three students below the national minimum reading standard
+
+Sources:
+http://phidu.torrens.edu.au/social-health-atlases/data
+Australian Early Development Census via PHIDU http://www.phidu.torrens.edu.au/social-health-atlases/data
+http://www.aihw.gov.au/child-protection/children-receiving-services/#socioeconomic
+http://reports.acara.edu.au/Home/Results#results
+
+11
+
+Regional Inequality in Australia
+Submission 111
+
+Education
+“The key challenge for regional, rural and remote education is ensuring, regardless of
+location or circumstances, that every young person has access to high quality
+schooling and opportunities” (Halsey 2018, p.1)
+Five major factors contribute to education inequality for students in rural and remote
+Australia at student level - socioeconomic status, Indigeneity, English language proficiency,
+and disability. At school level remoteness is demonstrated to have an impact on student
+educational outcomes (Gonski et al 2011).
+A recent major review into regional, rural and remote education found that:
+• There is a persistent relationship between location and educational outcomes;
+• The achievements of students from rural, regional and remote areas have in the
+main lagged behind urban students for decades;
+• There is also a decreasing trend with increasing remoteness of the proportion of
+persons aged 25–34 years with a bachelor degree or above;
+• Rural and remote students who were at or near the stage of making the transition
+from school to employment, training, further study or combinations of them, were
+often confronted with issues and costs which their counterparts in urban areas do
+not encounter (Halsey 2018).
+• Young children in remote areas are especially more likely to be developmentally
+vulnerable, with 42% of young children in very remote areas being vulnerable on one
+or more domains (See Table 3).
+Table 3 Vulnerability and risk during early childhood development17, 2015
+
+Percentage of children developmentally:
+vulnerable on one or more domains
+vulnerable on two or more domains
+vulnerable in physical domain
+at risk in physical domain
+on track in physical domain
+vulnerable in social domain
+at risk in social domain
+on track in social domain
+vulnerable in emotional domain
+at risk in emotional domain
+on track in emotional domain
+vulnerable in language and cognitive domain
+at risk in language and cognitive domain
+on track in language and cognitive domain
+vulnerable in communication domain
+at risk in communication domain
+on track in communication domain
+
+MC
+
+IR
+21
+10
+9
+13
+78
+9
+15
+76
+8
+15
+77
+6
+8
+86
+8
+15
+77
+
+17
+
+OR
+22
+12
+11
+13
+76
+10
+15
+74
+9
+15
+75
+7
+10
+83
+8
+15
+77
+
+R
+25
+13
+12
+14
+74
+12
+16
+72
+10
+17
+74
+9
+10
+81
+9
+16
+75
+
+VR
+28
+16
+14
+12
+74
+12
+17
+70
+11
+18
+71
+12
+13
+75
+11
+15
+74
+
+Measured across 5 domains - physical, social, emotional, language and cognitive, and communication.
+“Vulnerable” and “at risk” refer to different levels of hazard, with “at risk” indicating a higher perceived level
+of risk for the child than “vulnerable”.
+
+12
+
+42
+28
+22
+13
+59
+22
+19
+54
+19
+20
+55
+23
+16
+55
+19
+19
+56
+
+Regional Inequality in Australia
+Submission 111
+
+Education and training plays a critical role in building the social fabric of communities, as
+well as in developing social capital for economic prosperity (Halsey 2018).
+Fewer higher learning institutions results in fewer growth opportunities and therefore less
+chance of escaping poverty.
+In rural communities the health effects of this disadvantage are compounded by poor access
+to communications (such as high-speed broadband, mobile phone coverage, public
+transport) and environmental challenges (such as drought, floods and bushfire).
+The concept of equity and economic efficiency have often been seen as having competing
+goals; with what is fair not economically viable and efficient, and vice versa (Heckman,
+2011). However, we know that investment in education and health increases human
+capital, productivity and quality of life (Cutler & Lleras-Muney, 2007). We also know that
+those who are most socioeconomically disadvantaged have lower levels of education
+attainment and health. This particularly the case for Aboriginal and Torres Sarit Islander
+people.
+It follows then that investment in education and health, targeting the most
+socioeconomically disadvantaged, has benefits not only for social and human capital but for
+economic capital. As such, addressing educational equity is on a par with addressing
+economic efficiency.
+
+Employment, underemployment and unemployment
+Rural, regional and remote areas consistently have higher rates of unemployment and
+underemployment, as well as less people in highly skilled jobs.
+Many people fly in and fly out of regional areas to access employment. However, from a
+health perspective there are concerns about the mental health and general wellbeing of
+these workers (Bowers et al 2018).
+There has been an above average growth in high-skilled jobs (and therefore higher paid) in
+major cities. The opposite is happening in country Australia. There people are moving into
+lower skilled jobs requiring vocational qualifications (Hajkowicz et al 2016) reflecting not
+only what types of jobs are available in regional Australia but the prevailing levels of
+education attainment in the community.
+Of particular note, the employment status of Indigenous people also decreases by
+remoteness (Figure 4 and Table 4 below).
+
+13
+
+Regional Inequality in Australia
+Submission 111
+
+Figure 4 Employment status of Indigenous people, by Remoteness, 2014-15
+100%
+90%
+80%
+
+33
+
+36
+
+41
+
+45
+
+70%
+60%
+
+10
+15
+
+50%
+
+14
+
+15
+14
+
+40%
+30%
+
+51
+
+58
+
+20%
+
+48
+
+45
+
+40
+
+35
+
+10%
+0%
+MC
+
+IR
+employed
+
+OR
+unemployed
+
+R
+
+VR
+
+not in labour force
+
+Source: http://abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4714.0201415?OpenDocument
+Table 4 Employment status of Indigenous people, by Remoteness, 2014-15
+
+MC
+IR
+OR
+R
+employed
+57.5
+48.2
+45.4
+40.4
+unemployed
+9.7
+15.4
+13.8
+14.8
+not in labour force
+33.0
+36.4
+41.3
+45.3
+Source: http://abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4714.0201415?OpenDocument
+
+VR
+35.1
+13.8
+50.7
+
+Of concern to the Alliance is the high rate of youth unemployment. In some regions the rate
+of unemployment is over double (~20%) that of major cities (12.2%). But these averages
+mask local differences. For example, youth unemployment in areas of Northern Queensland
+(Cape York, Mount Isa and Weipa) the rate can be as high as 65% (Brotherhood of St.
+Laurence 2018) additional hotspots with youth unemployment rates well above 20 per cent
+are listed in Table 5 below.
+
+14
+
+Regional Inequality in Australia
+Submission 111
+
+Table 5 Regions with the 20 highest youth unemployment rates in Australia, January 2018
+
+Rank
+
+Region
+
+1
+2
+
+67.1
+28.7
+
+32.6
+18.8
+
+3
+4
+5
+6
+
+Queensland – Outback (Qld)
+Southern Highlands and
+Shoalhaven (NSW)
+Wide Bay (Qld)
+Tasmania – South East (Tas.)
+Murray (NSW)
+Coffs Harbour – Grafton (NSW)
+
+Change in % 20162018
+34.5
+10.1
+
+27.7
+21.8
+21.5
+19.8
+
+20.3
+20.5
+13.9
+9.4
+
+7.4
+1.3
+7.7
+10.4
+
+7
+8
+9
+10
+11
+12
+
+Melbourne – West (Vic.)
+Central Coast (NSW
+Adelaide – North (SA)
+Townsville (Qld
+Mandurah (WA)
+Melbourne – North West (Vic.)
+
+18.7
+18.6
+18.4
+18.1
+17.7
+17.5
+
+17.4
+16.3
+16.5
+17.9
+13.9
+14.4
+
+1.3
+2.3
+1.9
+0.2
+3.8
+3.1
+
+13
+14
+15
+16
+
+Adelaide – West (SA)
+Logan – Beaudesert (Qld)
+Adelaide – South (SA)
+New England and North West
+(NSW
+South Australia – South East
+(SA)
+Bendigo (Vic.)
+Shepparton (Vic.)
+Perth – North West (WA)
+
+17.0
+17.0
+16.9
+16.6
+
+12.4
+15.9
+15.3
+17.8
+
+4.6
+1.1
+1.6
+–1.2
+
+16.3
+
+14.2
+
+2.1
+
+16.2
+16.1
+16.0
+
+11.4
+14.6
+14.7
+
+4.8
+1.5
+1.3
+
+17
+18
+19
+20
+
+Jan 2018 %
+
+Jan 2016%
+
+Source: ABS 2018, Datacube RM1 – Labour force status by region (ASGS SA4), sex and age, October 1998
+onwards, cited in Brotherhood of St. Laurence (2018)
+
+15
+
+Regional Inequality in Australia
+Submission 111
+
+Access to health care
+Access to health services in rural and remote areas occur at levels significantly lower than
+access levels in major cities. The number of health professionals is substantially less outside
+major cities and decreases significantly with remoteness. Figure 5 compares the availability
+of medical practitioners, dentists, psychologist and podiatrists by region.
+Figure 5 Selected FTE* Health Professionals per 100,000 population, 2014
+450
+409
+
+FTE Healtth professionals per 100,000 population
+
+400
+
+350
+
+300
+282
+261
+
+250
+
+253
+
+200
+Medical practitioners
+
+150
+
+Dentists
+100
+
+Psychologists
+
+87
+
+Podiatrists
+
+61
+
+50
+
+16
+
+53
+42
+
+42
+37
+
+15
+
+10
+
+0
+MC
+
+IR
+
+29
+25
+8
+
+OR
+
+remote
+
+Source: AIHW SAS analytics
+http://analytics.aihw.gov.au/Viewer/VisualAnalyticsViewer_guest.jsp?reportPath=%2FAIHW%2FReleasedPublic%2FExpenditure%2FRepor
+ts&reportName=Health%20Workforce&appSwitcherDisabled=true
+
+*Notes: FTE=full time equivalent
+
+Access to subsidised Medicare services is a particular health inequity issue for Aboriginal
+and Torres Strait Islander people and is further exacerbated for Indigenous people living in
+outer regional, remote and very remote locations (Table 6).
+Table 6 Adjusted, crude Indigenous rate of MBS services per 1000 population, by remoteness area, 2015–16
+
+MBS Allied Health services per 1000 population
+MBS Specialist medical services per 1000
+population
+Total MBS services per 1000 population
+
+MC
+446
+
+IR
+390
+
+OR
+248
+
+R
+110
+
+VR
+65
+
+582
+1332
+4
+
+535
+1210
+4
+
+347
+1101
+2
+
+198
+1021
+7
+
+140
+
+Source: https://www.aihw.gov.au/reports/indigenous-health-welfare/health-performance-framework/contents/tier-3/hpf-tier-3
+
+•
+
+Note: Some services may be provided outside of Medicare
+
+16
+
+9270
+
+Regional Inequality in Australia
+Submission 111
+
+Risk Factors and Chronic illness
+There are higher levels of health risks found in rural and remote Australia which have
+resulted in higher prevalence of chronic diseases. The Australian Institute of Health and
+Welfare (AIHW) finds the burden of disease (expressed as 'disability adjusted life years') for
+very remote areas is nearly twice that compared with major cities, and the rate of disease
+burden experienced in Indigenous Australians is 2.3 times the rate of non-Indigenous
+Australians (AIHW 2018), see Table 7.
+The AIHW also estimates that 31% of the burden of disease (in 2011) could have been
+prevented by reducing modifiable risk factors such as smoking (AIHW 2016).
+Consider the following health inequalities between country and metropolitan Australia.
+•
+
+The prevalence of cardiovascular disease is approximately 20 per cent higher (NRHA
+2015);
+• People with cancer in rural areas have poorer survival rates than those living in major
+metropolitan centres. Cancer is responsible for Australia’s largest disease burden.
+(NRHA 2012);
+• The incidence of end-stage kidney disease is roughly similar or slightly higher in rural
+areas, but much higher in remote areas, reflecting the very high incidence among
+Aboriginal and Torres Strait Islander people (AIHW 2014);
+• The prevalence of mental illness in rural areas is similar or slightly higher. However,
+Indigenous Australians have nearly three times the rate of psychological distress and
+mental health issues than non-Indigenous people regardless of whether they live in a
+major city or in rural and remote Australia) (ABS 2007).
+One of the major challenges to improving chronic disease outcomes is to address the range
+of health risks that contributes to the development of chronic diseases, such as smoking,
+risky levels of drinking alcohol, obesity, physical inactivity, high cholesterol and high blood
+pressure. See Table 7 below for a comparison of selected risk factors and chronic illness.
+Compared with people living in the major cities, people in rural areas are more likely to
+smoke, (~20 per cent versus ~15 per cent), be overweight (~70 per cent versus ~60 per
+cent), engage in risky alcohol consumption, and be physically inactive (~72 per cent versus
+55 per cent) (Australian Health Policy Collaboration 2018).
+Preventing cardiovascular disease (chronic illness generally) in rural and remote
+communities involves addressing the underlying ‘causes of causes’ of poor heart health.
+These relate to a combination of social and economic factors, including education,
+employment, work conditions, housing, racism and discrimination. This approach requires
+genuine partnerships across sectors, true community engagement and a commitment to
+long term solutions (NRHA 2015a).
+
+17
+
+Regional Inequality in Australia
+Submission 111
+
+Table 7 A selection of risk factors and chronic illness
+MC
+
+IR
+
+OR
+
+R
+
+VR
+
+86
+
+113
+
+109
+
+126
+
+126
+
+6
+
+13
+
+15
+
+17
+
+30
+
+15
+
+14
+
+17
+
+19
+
+19
+
+MC
+
+IR
+
+OR/remote
+
+13
+
+17
+
+21
+
+16
+
+18
+
+23
+
+64
+
+70
+
+72
+
+61
+
+69
+
+69
+
+MC
+
+IR
+
+OR/remote
+
+48
+
+55
+
+52
+
+5
+
+5
+
+6
+
+Selected risk factors
+Percentage who are current daily smokers18
+Average number of cigarettes smoked per week, per smoker19
+Percentage of pregnant women smoking after their first
+trimester20
+Percentage who exceeded lifetime alcohol consumption
+guidelines21
+Percentage who use an illicit drug22
+Percentage who have no or low levels of exercise23
+Percentage who are overweight or obese24
+
+MC
+
+IR
+
+OR
+
+R
+
+VR
+
+Selected disease
+Percentage of people with one or more chronic disease25
+Age standardised cancer incidence (per 100,000 males)26
+Age standardised cancer incidence (per 100,000 females)27
+Percentage of people with diabetes28
+
+592
+
+646
+
+641
+
+650
+
+510
+
+448
+
+468
+
+465
+
+495
+
+429
+
+Years lived with disability per 1,000 people per year, mental
+illness29
+
+25
+
+23
+
+20
+
+20
+
+21
+
+Years lived with disability per 1,000 people per year, total30
+
+94
+
+102
+
+94
+
+107
+
+123
+
+528
+
+595
+
+619
+
+651
+
+782
+
+87
+
+103
+
+113
+
+135
+
+178
+
+Total death rate (per 100,000 population)31
+Years of life lost per 1,000 people per year32
+
+18
+
+http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4364.0.55.0012014-15?OpenDocument
+
+19
+
+AIHW NDSHS http://www.aihw.gov.au/alcohol-and-other-drugs/data/ tobacco smoking table S3.14
+
+20
+
+http://www.aihw.gov.au/perinatal-data/source-data/
+
+21
+
+ABS NHS (http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4364.0.55.0012014-15?OpenDocument Table 6)
+
+22
+
+http://www.aihw.gov.au/alcohol-and-other-drugs/data/ Illicit drug use (supplementary) tables S5.6, S5.11, S5.17, S5.21, S5.26.
+
+23
+
+ABS NHS (http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4364.0.55.0012014-15?OpenDocument Table 6.3)
+
+24
+
+Ibid.
+
+25
+
+http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4364.0.55.0012014-15?OpenDocument
+
+26
+
+http://phidu.torrens.edu.au/social-health-atlases/data#social-health-atlas-of-australia-remoteness-areas
+
+27
+
+Ibid.
+
+28
+
+2014-15 ABS NHS via PHIDU http://phidu.torrens.edu.au/social-health-atlases/data#social-health-atlas-of-australia-remoteness-areas
+
+29
+
+http://www.aihw.gov.au/WorkArea/DownloadAsset.aspx?id=60129555476
+
+30
+
+Ibid.
+
+31
+
+Ibid.
+
+32
+
+http://www.aihw.gov.au/WorkArea/DownloadAsset.aspx?id=60129555476
+
+18
+
+Regional Inequality in Australia
+Submission 111
+
+Mortality rates
+People aged 30 to 69 years in rural and remotes areas are more likely to die prematurely
+from a number of diseases such as cardiovascular diseases, cancers, respiratory system
+diseases and diabetes, compared to people in major cities.
+Death rates from motor vehicles accidents and suicide are also higher. See Figure 6.
+Figure 6 Death rates for selected causes, age standardised, 2010 to 2014
+
+Deaths per 100,000 population
+
+140
+120
+100
+80
+60
+40
+
+116
+71
+
+92
+81 86
+54
+
+20
+14 17 20
+
+31
+
+10 13 14 20 22
+
+0 10 12 17 22
+
+Suicide
+
+MVA
+
+0
+Coronary heart disease
+
+Diabetes
+MC
+
+IR
+
+OR
+
+R
+
+VR
+
+Source: AIHW Mort books http://www.aihw.gov.au/deaths/mort/
+
+Mental health
+The data shows that the general population (Indigenous plus non-Indigenous Australians)
+has similar or slightly lower prevalence of mental illness outside of big centres (e.g.
+prevalence of any 12-month mental health disorder is 20.5% in capital cities and 19.1% (the
+balance of the state or territory). However, presentations to emergency departments and
+hospitalisation for psychiatric care are higher in rural and remote areas reflecting the lack of
+services in the community and demand for such services. In addition, regional Australians
+have additional barriers to accessing care due to geographic and social isolation and out of
+pocket expenses. The result is poorer health outcomes.
+We note that the Productivity Commission has found that the mining boom has “made
+Australians substantially better off in the short term and over the long term. A mobile
+workforce (including fly-in, fly-out) has spread the benefits of the boom across workers living
+in other regions.” (Productivity Commission,2017).
+It does not, however, look at the mental health costs to those workers, and the rural
+communities in which they live. A recent Medical Journal of Australia article found 28% of
+1124 mining workers were suffering high or very high psychological distress, compared with
+
+19
+
+Regional Inequality in Australia
+Submission 111
+
+10.8% of Australia overall.33 Another 20% rate their mental health as fair or poor. There are
+no reliable statistics on suicide rates amongst Fly-in, fly-out workers.
+Suicide is the leading underlying cause of deaths among persons aged 25–44 (20% of deaths)
+and persons aged 15–24 (31% of deaths) (AIHW 2017) and incidences of suicide increases
+with remoteness as demonstrated in Table 8 below.
+Table 8 Age standardised suicide death rate, per 100,000 population, 2011-15
+
+MC
+Males
+Females
+Persons
+
+IR
+15.2
+n.p.
+10.2
+
+OR
+21.9
+n.p.
+13.7
+
+R
+24.6
+n.p.
+15.4
+
+VR
+29.5
+10.5
+20.6
+
+30.0
+13.2
+22.4
+
+Source: AIHW Mort books
+https://www.aihw.gov.au/reports/life-expectancy-death/mort-books/contents/mort-books
+
+•
+
+Note that where suicide was not amongst the top 20 causes of death, rates have not been published in MORT books and are
+annotated n.p.
+
+Aboriginal and Torres Strait Islander people have a 1.9 higher rate of suicide than NonIndigenous Australians. For 19-year olds, the rate is 5 times as high as the non-Indigenous
+rate (34 and 7 per 100,000 population)34 see Table 9 below.
+Table 9 Suicide by SEIFA quintile, 2011-15, Age standardised rates per 100,000 population
+
+Males
+Females
+Persons
+
+SEIFA1
+(lowest)
+22.5
+n.p.
+14.5
+
+SEIFA2
+
+SEIFA3
+
+SEIFA4
+
+20.4
+n.p.
+13.2
+
+17.8
+n.p.
+11.7
+
+14.9
+n.p.
+10.1
+
+SEIFA5
+(highest)
+12.4
+n.p.
+8.3
+
+Source: AIHW Mort books
+https://www.aihw.gov.au/reports/life-expectancy-death/mort-books/contents/mort-books Note that where suicide was not amongst the
+top 20 causes of death, rates have not been published in MORT books and are annotated n.p
+
+Aboriginal and Torres Strait Islander people
+No discussion regarding inequalities and inequities can occur without making additional
+references to health inequalities and inequities for Aboriginal and Torres Strait Islander
+people.
+Inequity between Indigenous and non-Indigenous Australians, is substantially greater than
+the inequity that is seen between city and country areas, particularly for household income,
+employment and education (Markham & Biddle 2018).
+From a health perspective, we also know that Aboriginal and Torres Strait Islander people
+have a higher burden of disease, which is also higher outside of major cities. See table 10.
+
+33
+
+https://www.mja.com.au/journal/2018/208/9/psychological-distress-remote-mining-and-constructionworkers-australia
+34
+https://www.aihw.gov.au/getmedia/584073f7-041e-4818-9419-39f5a060b1aa/18175.pdf.aspx?inline=true
+
+20
+
+Regional Inequality in Australia
+Submission 111
+
+Table 10: Burden of disease, DALY, YLD and YLL age-standardised rates, per 1,000 Indigenous people 2011
+
+MC
+IR
+OR
+R
+VR
+Total Burden (DALYs)
+379.4
+357.9
+404.2
+523.7
+Non-fatal burden YLD
+191.4
+186.1
+179.3
+196.8
+Fatal burden YLL
+188
+171.8
+224.9
+326.8
+Source: https://www.aihw.gov.au/getmedia/e31976fc-adcc-4612-bd08e54fd2f3303c/19667-bod7-atsi-2011.pdf.aspx?inline=true
+
+440.2
+159.7
+280.5
+
+Sixty-five per cent Aboriginal and Torres Strait Islander people live outside major cities,
+typically in regional, rural and remote communities. A minority of Aboriginal people live
+outside these settlements. While Aboriginal and Torres Strait islander people make up only
+1% of the major cities population, they constitute around 5% of the regional/rural
+population, 16% of the remote population and 45% of the very remote population.
+Some of the city/rural inequity we see, reflects this greater prevalence of Aboriginal people
+who on average have substantially worse health than non-Indigenous people. But it is also
+true that many of the indicators of determinants of health, risk factors and health of
+Aboriginal people become worse as remoteness increases and as town size decreases.
+For example, access to work and choice of career can be severely restricted in these areas,
+unemployment is typically greater, access to healthy food is poorer, the quality of housing
+tends to be poorer while overcrowding is more common, children are less likely to complete
+school, risk factor profiles tend to be worse, access to health services are poorer, rates of
+injury and chronic disease tend to be greater, as are rates of death.
+Table 11 Employment status of Indigenous people, by Remoteness, 2014-15
+
+employed
+unemployed
+not in labour force
+
+MC
+57.5
+9.7
+33.0
+
+IR
+48.2
+15.4
+36.4
+
+OR
+45.4
+13.8
+41.3
+
+Source: http://abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4714.02014-15?OpenDocument
+
+21
+
+R
+40.4
+14.8
+45.3
+
+VR
+35.1
+13.8
+50.7
+
+Regional Inequality in Australia
+Submission 111
+
+Rural and Remote People’s experience of health inequality
+A sample of quotes from young people’s experience of health inequality demonstrates the
+additional barriers faced by those living in rural and remote areas35 .
+The challenges and barriers to accessing health care include:
+• Unable to access services locally, the need to travel long distance to access care and
+distress and anxiety this causes.
+“When I was struggling with my mental health after losing my brother, I had to travel
+almost two hours to Forbes and Orange to see different psychologists and doctors”.
+(JMcW, from Dubbo, NSW).
+“I was unable to see a counsellor when I had anxiety because my school did not have one.
+When my close friend had depression, she had to travel to Melbourne for treatment”.
+(T.M, from Arcadia, Victoria).
+“My brother needed surgery on his jaw and he had to travel to Townsville to get it done
+since our town did not have the resources. The same happened with my Mum when she
+required dental surgery. She had to fly to Brisbane. Dad and I had to accompany both of
+them and it cost us a fortune to pay for transport and accommodation” (M.V from
+Mackay, Queensland):
+• Long waiting times with acute or emergency conditions to receive care or diagnostic
+services.
+“I injured my collarbone in a rugby league game and I was taken to the hospital
+immediately. We had to wait five hours because there was no doctor in the hospital on a
+Saturday. The doctor finally turned up and told us my collar bone was broken. Then we
+found out the doctor was not qualified to do an X-ray. I ended up waiting four days to fly
+to Burnie, Tasmania just to get an X-ray”. (K.B, from King Island, Tasmania).
+“I have to wait at least three months before I can have a simple laparoscopy. This is
+because there are only two doctors at the hospital doing this type of surgery. I am
+experiencing excruciating pain and cannot even get out of bed to go to school some days”
+(B.M from Gloucester, NSW).
+“There are also long waiting lists and limited services within the public health sector
+because of the limited budgets for that area. This means people do not always get quality
+and timely treatment. A large percentage of lifestyle related diseases and chronic
+diseases are being poorly managed due to isolation from services" (A.J. Dentist, working
+in multiple regions, NSW).
+• Treatments not being available (such as some medicines) when people need them
+requiring people to wait sometimes days for the drugs to arrive
+
+22
+
+Regional Inequality in Australia
+Submission 111
+
+“For many years, I worked in a regional pharmacy. On a daily basis, customers would
+come in for a drug they absolutely required, and we had to tell them it would not be
+available for several days. On top of this, medications are usually much more expensive in
+regional areas. I have seen pensioners decide on the spot which medication they are
+going to sacrifice for a month because they simply cannot afford what they need”. (C.A,
+Pharmacist from Albany, WA).
+• Costs of care (including accommodation, meals, fuel, parking and any other out of
+pocket expenses)
+“The doctors sent me to a clinic in Sydney because they wanted me to take some other
+tests. I spent 600 dollars not covered by Medicare just to find out what I already knew: I
+am allergic to acidic food”. (B.M from Gloucester, NSW).
+• Lower health literacy levels
+“I have worked as a dentist in Orange, Dubbo, Brewarrina, Bourke and Lightening Ridge.
+One of the main problems I have noticed is a lack of education and knowledge around
+health issues among patients” (A.J. Dentist, working in multiple regions, NSW).
+• Health professional’s skills and scope of practice
+“In my hometown, we only had a couple doctors come in once a week and that was for
+basic checkups. If there was anything concerning, we had to drive two or three hours to a
+hospital. When I fractured my spine, the medics did not know how to put on a neck brace
+properly. I had to wait four hours for an ambulance to pick me up from the closest large
+hospital. I did not get an X-ray for another seven hours. It was an awful experience”. (Ch.
+McK, from Kimba and Karoonda, SA).
+• Stark differences in health outcomes
+Health professionals observe the differences in health between those living in
+metropolitan areas and those in regional areas.
+“The difference in health outcomes is frightening”. (AJ. Dentist, working in multiple
+regions, NSW and Victoria).
+
+23
+
+Regional Inequality in Australia
+Submission 111
+
+Any other related matters
+The Alliance would also like to draw attention to:
+1. Health in All Policies, as an approach that can be used by governments as a framework to
+facilitate across and within government action to address regional inequality; and
+2. Health Impact Assessments that can be used to determine the impact on health
+outcomes on regional development initiatives, particularly the impact of transitioning
+regional economies.
+
+Health in All Policies
+The Health in All Policies (HiAP) is a high-level government approach that aims to create
+healthier and productive populations whilst reducing health inequalities. It is a framework
+that sees health as a benefit and outcome from all government policies and is underpinned
+by four main principles of legitimacy, accountability, transparency and public participation.
+The World Health Organization describe the HiAP as follows:
+“… an approach to public policies across sectors that systematically takes into
+account the health implications of decisions, seeks synergies, and avoids harmful
+health impacts in order to improve population health and health equity. It improves
+accountability of policymakers for health impacts at all levels of policy-making. It
+includes an emphasis on the consequences of public policies on health systems,
+determinants of health and well-being” (WHO 2014).
+To implement this approach, health needs to be central within the mind-set of all
+government departments, recognizing that other sectors can serve the
+goals of health – health can also significantly contribute to the goals of other sectors (WHO
+2014).
+This macro level paradigm shift also requires a commitment to multisectoral action,
+partnership and collaboration across and within government portfolios. This includes
+participation and action from (but not limited to) transport, housing, education, agriculture,
+water and the and sanitation, infrastructure and development sectors.
+HiaP has been implemented in various countries around the world including Finland,
+Sweden, Ecuador, and in South Australia.
+
+Heath Impact Assessments
+Health Impact Assessment are not a new concept, they have been in use since the 1990s.
+The have been used to assess how proposals may alter the determinants of health prior to
+implementation and recommends changes to enhance positive and mitigate negative
+impacts (Haigh et al 2013).
+A Health Impact Assessment (HIA) is “a means of assessing the health impacts of policies,
+plans and projects in diverse economic sectors using quantitative, qualitative and
+participatory techniques” (WHO,2018b).
+
+24
+
+Regional Inequality in Australia
+Submission 111
+
+HIAs are evidence informed analyses that predict benefits and risks of proposed laws,
+services or programs. HIAs can be useful in policy development, bringing policies and people
+together, addresses many policy making requirements simultaneously; and is participatory
+approach that involves the public (WHO, 2018b).
+Evaluation of HIAs has proved to be a useful tool for helping decision makers join the dots
+between disparate issues and understand how they are related to each other and to health
+(Center for Community Health and Evaluation,2014).
+
+Recommendations (policy settings)
+The Alliance recommends that:
+1. Include health as an indicator and outcome of regional inequality- Any consideration
+of regional inequality indicators must include measures of health and wellbeing.
+Outcomes of social and fiscal policy are reflected in these measures. Health equality
+means looking beyond measure of GDP. Indicators of mortality, life expectancy, chronic
+illness, risk factors, psychological distress, and access to health care are examples of
+indicators that can be used as benchmarks for measuring health equality.
+2. National approach to address regional inequality- regional inequality is not unique to
+any one state or territory, therefore a coordinated national approach is required to
+addressing regional inequality that exists within and between jurisdictions, states and
+territories.
+3. Prioritise equality for Aboriginal and Torres Strait Islander people - Any strategies to
+address regional inequality must address inequality and inequities that exist for
+Aboriginal and Torres Strait Islander people. They must be a priority.
+4. Adopt the Health in all policies framework to coordinate intersectoral action to address
+inequality.
+5. Mandate the use of Health Impact Assessments to inform decisions made by all
+governments for new regional Australian policies, regulation, services and programs.
+
+25
+
+Regional Inequality in Australia
+Submission 111
+
+Sources and further reading
+Australian Bureau of Statistics (2007) National Mental Health and Wellbeing Survey 2007
+http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4326.02007?OpenDocument
+Australian Health Policy Collaboration (2017) Australia’s Health Tracker by Area, 2017, Retrieved 24th
+May 2018 from: http://www.atlasesaustralia.com.au/ahpc/aust-health-tracker-area.html
+Australian Institute of Health and Welfare (2014a) Cancer in Australia: An overview Australian
+Institute of Health and Welfare. Cancer in Australia: an overview. Canberra: Retrieved 24th May 2018
+from: https://www.aihw.gov.au/getmedia/79c940b1-2438-45c8-99e2a4b593253ccd/18114.pdf.aspx?inline=true
+Australian Institute of Health and Welfare (2014b) Cardiovascular disease, diabetes and chronic
+kidney disease: Australian facts mortality, Retrieved 24th May 2018 from:
+https://www.aihw.gov.au/reports/heart-stroke-vascular-disease/cardiovascular-diabetes-chronickidney-mortality/contents/table-of-contents
+Australian Institute of Health and Welfare. (2016). Australia’s health 2016 [online]. Retrieved from
+https://www.aihw.gov.au/getmedia/9844cefb-7745-4dd8-9ee2-f4d1c3d6a727/19787AH16.pdf.aspx?inline=true.
+Australian Institute of Health and Welfare (2018) Burden of disease, Retrieved 24th May 2018 from
+https://www.aihw.gov.au/reports-statistics/health-conditions-disability-deaths/burden-ofdisease/overview
+Bowers, J Lo, J Miller, P Mawren, D and Jones, B (2018) Psychological distress in remote mining
+and construction workers in Australia. Medical Journal of Australia; 208 (9): p391-397.
+Brotherhood of St. Laurence (2018) Mapping youth unemployment, Retrieved 24th May 2018 from:
+http://library.bsl.org.au/jspui/bitstream/1/10573/1/BSL_Unfair_Australia_Mapping_youth_unemplo
+yment_hotspots_Mar2018.pdf
+Center for Community Health and Evaluation (2014) Evaluation: Do Health Impact Assessments
+Make a Difference? Robert Wood Johnson Foundation, Retrieved 25th May 2018 from:
+https://www.rwjf.org/en/library/research/2014/04/do-health-impact-assessments-make-adifference-.html
+Cutler, D., Lleras-Muney, A. 2007, 'Education and Health', National Poverty Center, Gerald R. Ford
+School of Public Policy, University of Michigan.
+Haigh, F Baum, F Dannenberg, A Harris, M Harris-Roxas, B Keleher, H Kemp, L Morgan, R Chok NG ,
+Spickett,J and Harris E (2013) The effectiveness of health impact assessment in influencing decisionmaking in Australia and New Zealand 2005–2009, BMC Public Health, 13:1188
+https://doi.org/10.1186/1471-2458-13-1188
+Hajkowicz, S Reeson, A Rudd, L Bratanova, A Hodgers, L Mason, C Boughen, N (2016), Tomorrow’s
+Digitally Enabled Workforce: Megatrends and scenarios for jobs and employment in Australia over
+the coming twenty years, retrievd 24th May 2018 from
+https://publications.csiro.au/rpr/download?pid=csiro:EP161054&dsid=DS1
+Heckman, J (2011) The Economics of Inequality: The Value of Early Childhood Education, American
+Educator, v35 n1 p31-35, 47 Spr 2011,
+
+26
+
+Regional Inequality in Australia
+Submission 111
+
+Gonski, D et al (2011) Review of Funding for Schooling—Final Report. Australian Government
+Retrieved 24th May from
+https://docs.education.gov.au/system/files/doc/other/review-of-funding-for-schooling-final-reportdec-2011.pdf
+Halsey, J (2018) Independent Review into Regional, Rural and Remote Education, Commonwealth
+Government of Australia, Retrieved 24th May 2018 from
+https://docs.education.gov.au/system/files/doc/other/01218_independent_review_accessible.pdf
+Joyce, SJ Tomlin, SM Somerford, PJ Weeramanthri TS (2013) Health behaviours and outcomes
+associated with fly-in fly-out and shift workers in Western Australia. Intern Med J. Apr;43(4):440-4
+Kawaichi, I., Subramanian, S and Almeida-Filho, N (2002). A glossary for health inequalities. Journal
+of Epidemiology and Community Health, (Glossary) vol.56.no9.00.647-52
+Markham, F Biddle, N (2018) Income, poverty and inequality,Centre for Aboriginal Economic Policy
+Research (CAEPR), Retrieved 28th May 2018 from:
+http://caepr.cass.anu.edu.au/sites/default/files/docs/CAEPR_Census_Paper_2.pdf
+National Rural Health Alliance., & Australian Council of Social Service. (2013). A snapshot of poverty
+in rural and regional Australia [online]. Retrieved from http://ruralhealth.org.au/
+documents/publicseminars/2013_Sep/Joint-report.pdf.
+National Rural Health Alliance. (2011). The determinants of health in rural and remote Australia
+[online]. Retrieved from http://ruralhealth.org.au/sites/default/files/
+publications/factsheet-determinants-health-rural-australia.pdf.
+National Rural Health Alliance (2012) Cancer in rural Australia Fact Sheet 8, Retrieved May 24th 2018
+from: http://ruralhealth.org.au/sites/default/files/publications/fact-sheet-08-cancer-ruralaustralia.pdf
+National Rural Health Alliance. (2014). Income inequality experienced by the people
+of rural and remote Australia [online]. Retrieved from http://ruralhealth.org.au/sites/default/
+files/documents/nrha-policy-document/submissions/sub-income-inequality-inquiry-15-oct2014.pdf.
+National Rural Health Alliance (2015) Cardiovascular disease in rural Australia, Retrieved 24th May
+2018 from http://ruralhealth.org.au/sites/default/files/publications/cardiovascular-disease-factsheet-may-2015.pdf
+Northern Territory Government (2014). The Northern Territory 2014 Market Basket Survey.
+Department of Health. Retrieved May21st 2018 from:
+http://digitallibrary.health.nt.gov.au/prodjspui/bitstream/10137/616/2/Northern%20Territory%20%
+20Market%20Basket%20Survey%20report%202014.pdf
+Organisation for Economic Co-operation and Development. (2018). Data on Australia [online].
+Retrieved from http://www.oecd.org/australia/.
+Parliament of Australia. (2018). The indicators of, and impact of, regional inequality in Australia
+[online]. Retrieved from https://www.aph.gov.au/Parliamentary_Business/
+Committees/Senate/Economics/Regionalinequality.
+
+27
+
+Regional Inequality in Australia
+Submission 111
+
+Sen, A., (2002). Why health equity? Health Economics, 11, 659–666
+VicHealth (2015). Fair Foundations: The VicHealth framework for health equity, Victorian
+Government. Retrieved 14th May 2018 from https://www.vichealth.vic.gov.au/media-andresources/publications/the-vichealth-framework-for-health-equity
+World Health Organization (2014) The Helsinki Statement on Health in All Policies, Retrieved 25th
+May 2018 from:
+http://apps.who.int/iris/bitstream/handle/10665/112636/9789241506908_eng.pdf;jsessionid=680C
+AC6821BD70CC2D9FFCF0E73CC9E7?sequence=1
+World Health Organization (2018a). Social determinants of health, retrieved 13th May 2018 from:
+http://www.who.int/social_determinants/en/
+World Health Organization (2018b) Health Impact Assessment, Retrieved 25th May 2018 from:
+http://www.who.int/hia/en/
+
+28
+
+Regional Inequality in Australia
+Submission 111
+
+Attachment A
+National Rural Health Alliance - Member Body Organisations
+Australasian College for Emergency Medicine (Rural, Regional and Remote Committee)
+Australasian College of Health Service Management (rural members)
+Australian College of Midwives (Rural and Remote Advisory Committee)
+Australian College of Nursing - Rural Nursing and Midwifery Community of Interest
+Australian College of Rural and Remote Medicine
+Australian Healthcare and Hospitals Association
+Allied Health Professions Australia Rural and Remote
+Australian Indigenous Doctors’ Association
+Australian Nursing and Midwifery Federation (rural nursing and midwifery members)
+Australian Physiotherapy Association (Rural Members Network)
+Australian Paediatric Society
+Australian Psychological Society (Rural and Remote Psychology Interest Group)
+Australian Rural Health Education Network
+Council of Ambulance Authorities (Rural and Remote Group)
+CRANAplus
+Country Women’s Association of Australia
+Exercise and Sports Science Australia (Rural and Remote Interest Group)
+Federation of Rural Australian Medical Educators
+Isolated Children’s Parents’ Association
+National Aboriginal Community Controlled Health Organisation
+National Rural Health Student Network
+Paramedics Australasia (Rural and Remote Special Interest Group)
+Rural Special Interest Group of Pharmaceutical Society of Australia
+RACGP Rural: The Royal Australian College of General Practitioners
+Rural Doctors Association of Australia
+Rural Dentists’ Network of the Australian Dental Association
+Royal Far West
+Royal Flying Doctor Service
+Rural Health Workforce Australia
+Rural and Indigenous Health-interest Group of the Chiropractors’ Association of Australia
+Rural Optometry Group of Optometry Australia
+Rural Pharmacists Australia
+Services for Australian Rural and Remote Allied Health
+Speech Pathology Australia (Rural and Remote Member Community)
+
+29
+
+

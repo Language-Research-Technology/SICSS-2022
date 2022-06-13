@@ -1,0 +1,1582 @@
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+The Case for Reviewing
+Income Tax Zone Rebates
+
+A report jointly commissioned by:
+
+Regional Development Australia - Darling Downs & SW
+for advocacy on behalf of:
+
+The Shires of Bulloo, Quilpie, Paroo, Murweh and the Maranoa
+Regional Council
+
+Prepared by the
+National Institute of Economic and Industry Research (NIEIR),
+ABN: 72 006 234 626
+Author: Dr. Ian Manning
+416 Queens Parade, Clifton Hill, Victoria, 3068
+Telephone: (03) 9488 8444; Facsimile: (03) 9482 3262
+Email: admin@nieir.com.au
+
+November 2011
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+2
+Submission Summary
+RDA DD&SW and the five South West LGA’s of Bulloo, Quilpie, Paroo, Murweh and Maranoa
+commissioned Ian Manning, Economics Australia, to update the 2001 report into Regional Income
+Tax Zones. For 66 years, Income Tax Legislation has included provisions to reduce the tax which
+would otherwise be payable by residents of remote areas. The major report into the tax system
+prepared by the Australian Treasury in 1969 (the Henry report) referred to these provisions as the
+‘zone tax offset’. The current report does not comprehensively examine the offset provisions but
+does make clear the following recommendations:
+(a) ‘To remove complexity and ensure government assistance is properly targeted, concessional
+offsets should be removed, rationalised or replaced by outlays.
+(b) ‘The zone tax offset should be reviewed. If it is to be retained, it should be based on
+contemporary measures of remoteness.’
+This review has yet to materialise at the Commonwealth level. The remote area tax rebate continues
+to be offered at rates which were last adjusted in 1993 and have therefore been significantly eroded
+by inflation. As of September 2011, the rebate was worth around 62 per cent of its value in 1993.
+Effective alterations to the Income Tax Zones may provide significant advantages to the ability of
+remote shires to attract and retain non-resource workers to their towns.
+
+While the National Institute endeavours to provide
+reliable forecasts and believes the material is
+accurate, it will not be liable for any claim by any
+party acting on such information.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+Contents
+Page no.
+
+Brief summary
+
+1
+
+Income tax Zone allowances and rebates
+
+1
+
+1.
+
+History of income tax concessions for remote areas
+
+2
+
+2.
+
+The Cox Inquiry
+
+4
+
+3.
+
+The incidence of zone rebates
+
+5
+
+4.
+
+Decentralisation and industry development
+
+6
+
+4.1
+4.2
+4.3
+4.4
+
+‘Develop the North’
+The structure of the outback economy
+Arguments for assistance to outback economic development
+Pastoral production
+4.4.1
+Managing a high-risk industry
+4.4.2
+The case for remote area wage subsidies in the pastoral
+industry
+4.5 Mineral resource exploitation
+4.5.1
+Mineral resource exploitation and the pastoral industry:
+similarities and differences
+4.5.2
+Fly-in fly-out
+4.5.3
+Exploration and infrastructure
+4.6 Defence
+4.7 Tourism
+4.8 Lands in traditional ownership
+4.9 Service employment
+4.10 The contribution of Zone rebates to outback development
+
+6
+7
+8
+10
+10
+
+5.
+
+The Higher Education Contribution Scheme
+
+17
+
+6.
+
+Costs of living
+
+18
+
+7.
+
+Isolation and services
+
+20
+
+8.
+
+Zone boundaries
+
+23
+
+9.
+
+Value of the allowance/rebate
+
+25
+
+10.
+
+Conclusion
+
+27
+
+References
+
+11
+12
+12
+13
+14
+14
+15
+15
+16
+16
+
+28
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+1
+
+Brief summary
+Remote-area Zone rebates or allowances have been a feature of the Australian Income Tax
+since 1945 and the social security system since 1984. In 2009 the Henry Report on the Tax
+System recommended that they should be reviewed, but no action has been taken.
+Zone rebates accord with each of the major purposes of the tax system.
+•
+
+The promotion of economic efficiency and economic development, chiefly by
+supporting the costs of infrastructure provision in remote areas and so assisting the
+pastoral and mining industries (where there is a case for compensation for the
+incidental effects of macroeconomic policy on these industries) and also assisting
+tourism, defence and indigenous development.
+
+•
+
+The ability to pay principle – in this case compensation for lower real incomes due to
+higher outback prices.
+
+•
+
+The benefit principle – recognition of the higher cost of access to essential services
+from outback areas.
+
+As the Henry review expected, there is also a case for a review of Zone boundaries, of the
+residence requirements and in particular of the rates, which have not been indexed since
+1993.
+This paper presents the case for a review.
+
+Income tax Zone allowances and rebates
+For 66 years the Income Tax has included provisions to reduce the tax which would
+otherwise be payable by residents of remote areas. The major report into the tax system
+prepared by the Australian Treasury in 2009 (the Henry report) refers to these provisions as
+the ‘zone tax offset’. The report admits that it does not examine the zone offset in any detail
+but its basic attitude is clear from the wording of its Recommendation 6:
+“To remove complexity and ensure government assistance is properly targeted,
+concessional offsets should be removed, rationalised or replaced by outlays. [...]
+(b)
+
+The zone tax offset should be reviewed. If it is to be retained, it should be based
+on contemporary measures of remoteness.”
+
+This review has yet to materialise. The remote area tax rebate continues to be offered at
+rates which were last adjusted in 1993 and have therefore been significantly eroded by
+inflation. As of September 2011 all classes of Zone rebate were worth around 62 per cent of
+their value in 1993 (adjusted by the Consumer Price Index for Darwin). Longer term
+comparisons are more difficult because of changing consumption patterns, rising incomes
+and the switch from tax deductions to rebates. Updating by the Consumer Price Index the
+current Zone A rebate is worth roughly 70 per cent of the value of the Zone A rebate to a
+single worker on average earnings in 1948, but in relation to average weekly earnings the
+current Zone A rebate is worth only a quarter of its value in 1948.
+Given the recent lack of indexation, it appears that the remote area rebate is fated to fade
+away. This paper outlines the case for retaining and updating it.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+2
+
+1.
+
+History of income tax concessions for remote areas
+
+In its present form, the Australian income tax dates from the Second World War. To pay for
+the war, the Commonwealth increased its rates of income tax considerably and incorporated
+the various state income taxes into its own tax. When the fighting ended the enhanced
+income tax continued to be collected, largely to pay for post-war investments in national
+development and also to enhance the social security system. In line with contemporary
+practice, the tax featured a schedule of rising marginal rates.
+At the time, Australia was experiencing full employment and both businesses and
+governments resorted to paying ‘district and regional allowances’ to attract workers to
+remote and tropical jobs, many of which were considered of high priority for national
+development reasons. Much of the benefit of these supplements was clawed back by the
+Commonwealth through its marginal tax rates – at the time the top marginal rate was over 75
+per cent though the marginal rate for a typical worker was around 18 per cent. In 1945 Zone
+Allowances were introduced in the form of deductions from taxable income for taxpayers
+resident in regions where workers commonly received district or regional allowances to
+compensate them for ‘disabilities of uncongenial climatic conditions, isolation or relatively
+high cost of living’. Zone Allowance was made available to all taxpayers who spent at least
+six months of the tax year living in a Zone, not merely those who received district or regional
+allowances.
+Two Zones were defined. Zone A comprised the Australian tropics apart from the
+Queensland east coast south of Cape Tribulation, and Zone B included the Queensland
+coast from Cape Tribulation south to Sarina plus the following: a belt of inland Queensland
+adjacent to Zone A; the far west of NSW, the far north of SA, the WA goldfields and the west
+of Tasmania. From the beginning, and to this day, Zone A attracted a greater Allowance than
+Zone B.
+th
+In 1955 the Zone A boundary was extended south to the 16 parallel.
+
+From 1958 Zone Allowances were complemented by loadings on the deductions for
+dependants which had long been a feature of the tax system.
+In 1975 the Zone Allowance was converted to a rebate. The additional allowances for
+dependants were also converted to rebates and Zone residents became entitled to
+percentage additions to their basic dependent rebates. When rebates for children were
+merged into Family Allowance payments they remained as an element in the Zone rebate
+system.
+A Public Inquiry into Income Tax Zone Allowances was conducted in 1981. As a result of this
+inquiry the Zone dependant rebates were increased. A second important change was the
+creation of Special Areas, defined as places within Zone A or Zone B located more than 250
+km by the shortest practicable surface route from the nearest town with more than 2500
+people as of 1981. The rebate in the Special Zone has been set at 3.47 times the Zone A
+rebate.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+3
+Finally, in 1984 Remote Area Allowances were introduced as supplements to all the major
+income-support social security payments. Remote Area Allowances are available to
+pensioners and some beneficiaries who are permanent residents of Tax Zone A and Special
+Tax Zones located within Zone B. They are not available in the non-special parts of Zone B.
+The allowances are paid at the same rate without distinction between the Special Zones and
+the rest of Zone A. Though not part of the income tax system, these allowances are an
+obvious complement to the Income Tax Zone rebate. Taken together, they mean that the
+Commonwealth provides income allowances for nearly all permanent remote-area residents.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+4
+
+2.
+
+The Cox Inquiry
+
+The 1981 Cox Inquiry is the only review of the system to date and is therefore worth
+considering in detail. The four members of the Public Inquiry into Income Tax Zone
+Allowances called for submissions and arranged public consultations. After going through
+this process they found that their views diverged so that the team of four members produced
+three reports with different recommendations. The main report was signed by the Chairman
+(P E Cox) and S G W Burston and, with reservations, by the other two members. G Slater
+prepared a minority report with alternative recommendations and A M Kerr added a
+statement in which he endorsed some recommendations and varied others. However, the
+Cox inquiry was unanimous in recommending that Zone allowances should continue; the
+differences between its members concerned the geography of eligibility and the rates of
+allowance.
+It is likely that in any future review much the same arguments will be considered and similar
+divergences will emerge. We will accordingly base our discussion of the purpose of the
+rebates on the points raised in 1981. We will also ask whether conditions have changed so
+as to affect the relevance of the arguments, keeping in mind two obvious differences since
+1981:
+•
+
+the real value of the rebates has declined through failure to index them; and
+
+•
+
+the income tax rebates are now complemented by social security entitlements.
+
+There have also been various other, more subtle changes since 1981 and indeed since
+1945.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+5
+
+3.
+
+The incidence of zone rebates
+
+Serious discussion of remote area rebates is only possible if we know who they benefit. As
+compared with a situation where rebates are not available, do they benefit employees,
+granting them higher disposable incomes, or do they benefit employers, allowing them to
+reduce cash pay rates?
+When remote area allowances were introduced in 1945 it was assumed that they were
+essentially a benefit to employers who would be enabled to attract labour with lower remotearea loadings than would have been required in the absence of the tax allowance. However,
+much recent discussion of the equity of zone rebates assumes that they have no effect on
+pay rates and therefore the rebate benefits the employee. It is hard to make a definitive
+judgement since the answer depends on an unobservable variable: what would remote area
+wage rates be in the absence of the zone rebate?
+Tentative answers are as follows.
+•
+
+Where the rebate is large (as it was, in relation to wage rates, when the provision was
+first introduced), it is hard to argue that it will not affect at least some wage rates.
+When this happens at least some of the benefit will accrue to employers, who may
+increase the level of remote-area employment in response. Per contra, when the
+rebate is small (as it is now, in relation to wage rates) it is less likely to be taken into
+account in wage negotiations.
+
+•
+
+Where wage rates are fixed by centralised wage-setting authorities without regard for
+geographic area, it is more likely that the benefit will accrue to employees. When wage
+rates are set by ‘the market’, it is more likely that the rebate will be taken into account
+in setting wage rates and will therefore accrue to employers.
+
+Given the erosion of the value of the rebate in relation to wage rates one would expect a
+trend towards its benefiting employees rather than employers. However, the trend away from
+centralised wage determination to bargained rates has increased the chances that the
+rebate will benefit employers. These two trends cancel out, and the best that can be said is
+that the incidence of the rebate is likely to vary with circumstances. By contrast, the remote
+area allowance in social security unambiguously increases the income of its recipients.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+6
+
+4.
+
+Decentralisation and industry development
+
+The Second World War was a shock to Australia’s sense of security. One reaction to this
+shock was to seek to raise the national population and in particular to populate the North –
+those vast regions with population densities way below those not so far away in Asia. It was
+also believed that there were significant unutilised resources in the North and that
+exploitation of these resources would be of national benefit. Tax incentives were an obvious
+element in policies to populate and develop the North.
+
+4.1
+
+‘Develop the North’
+
+In 1945 it was commonly believed was that one of the hindrances to populating and
+developing the North was the ‘uncongenial climate’. For decades up until the Second World
+War most tropical countries were under the control of the European Powers as colonies. In
+these countries the colonialists managed and the natives worked. The racial division of
+labour in the tropical colonies meant that the idea that people eligible to be citizens of White
+Australia could do all the work necessary to develop tropical Australia was still somewhat
+novel. Populating the North would be a great national experiment and there was a sense that
+the nation as a whole should participate in the experiment by providing cash rewards to
+people who went North.
+During the 37 years separating the original provision of Zone Allowances and the Cox
+Committee’s hearings in 1981 the Australian population doubled, but not in the pattern
+envisaged by those who sought to populate the North – the growth was based on
+manufacturing and much of it occurred in the cities, reflecting deliberate policies of industry
+development. The Committee held its hearings at a time when Australia was debating
+government involvement in industry development, particularly tariffs. Tariff cuts were a cause
+celebre in remote areas where it was argued that abandoning protection would provide a
+major stimulus to local export industries including pastoral production and mining. It was
+even argued that, in the absence of tariff cuts, Zone rebates were justified as compensation
+for the costs of protection. Three decades on, tariffs have been cut, the mining and pastoral
+industries continue their cycle of boom and bust (currently boom) and the argument for Zone
+rebates as compensation for tariffs has disappeared. The Australian population has grown
+by a further 50 per cent, still mainly in the major cities and their immediate surrounds but
+with one significant change: Darwin has moved from backwater status to become a vibrant if
+small city.
+During the post-war period the cry to develop the North became muted. The memory of
+recent conflict faded and various high-profile investments to develop the North struck
+economic trouble (e.g. Humpty Doo rice, the Ord River Dam). At the same time Australians
+became less anxious about their capacity to survive and work in the tropics, though to this
+day Australian tourists avoid the North and Centre during the hot and wet seasons. Despite
+these subsiding anxieties, the Cox Inquiry took the idea of compensation for uncongenial
+climate seriously. They observed that no place in Australia has a completely congenial
+climate – everywhere there are episodes when it is too hot or too cold or too wet or too dry.
+However, some places are less comfortable than others. According to a meteorological
+discomfort index which emphasises heat and humidity, the most uncongenial region extends
+eastwards from Kununurra. Even in this area it is now possible (at an expense) to create
+congenial indoor, car- driving and plant-operating conditions by air conditioning. If airconditioning is the answer, there is no need for compensation for uncongenial climate but
+there may be a case for compensation for the cost of air conditioning and, for that matter, for
+the cost of heating in cold places.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+7
+Interest in population geography did not disappear when the metropolitan electorates forgot
+about populating the North, but was replaced by the promotion of decentralisation, which
+meant getting jobs out of the capital cities to reduce congestion costs. This argument for
+decentralisation was, however, irrelevant to Zone rebates since it was not necessary to move
+more than a moderate distance from the capital cities to avoid congestion – indeed, longer
+moves into the remote regions tended to increase transport costs.
+Though decentralisation provided no more than weak support for Zone rebates, there was
+still the argument that it was in the national interest to encourage the development of
+remote-area resources. Though this argument was important in 1945, the Cox Inquiry gave it
+relatively little attention. All members of the Inquiry, despite their divergences in other
+respects, seem to have been persuaded that resource development would be better pursued
+by other means. They provided very little discussion of what these other means might be,
+though in the 1980s there was a rising body of opinion which held that development should
+be left to the private sector. The Cox Inquiry concluded that Zone rebates were justified on
+grounds of ‘horizontal equity’ but not on industry development grounds. We will consider the
+equity arguments below, but will first reconsider the economic development arguments.
+
+4.2
+
+The structure of the outback economy
+
+Discussion of the economic development argument for Zone rebates not only requires
+assumptions about incidence (employee or employer?) but a definition of the remote areas.
+It would be possible to adopt current tax definitions – Zone A, Zone B, the Special Zone –
+but, as the Henry report pointed out, these Zones are in need of review. Remote areas can
+be conceptualised in two main ways.
+•
+
+Regions of low population density which either lack urban centres or have few and
+isolated towns.
+
+•
+
+Regions with limited agricultural resources apart (perhaps) from small irrigated oases.
+
+The two concepts are related, with the low population density the result of the limited
+resource base. For the purpose of this discussion the remote area, or outback, will therefore
+be defined as country where there is no, or very little, arable or forest land. By this definition
+Victoria, Tasmania and the ACT do not contain any remote areas. In WA, SA and NSW the
+remote areas comprise all country outback of the wheat-sheep belt and in Queensland all
+country west of the Maranoa, the Peak Downs and the Tablelands back of Cairns. All the NT
+is remote except Darwin and its immediate surrounds. To avoid confusion with ‘remote
+Australia’ as defined by the ABS (see below), we will refer to this area as the outback.
+Though the outback lacks arable land and hence has few farmers, it is by no means lacking
+in pastoral and mineral resources. This is reflected in the industry distribution of the
+approximately 150 000 jobs (1.6 per cent of the national total) which were located in the
+outback in 2001 (Table 1).
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+8
+
+Table 1
+
+Outback employment by industry, 2006
+
+Industry
+Mining and associated manufacturing
+Pastoral, fishing, hunting, associated manufacturing
+Other agriculture and forestry
+Tourism
+Defence
+Government services inc health, education
+Construction, transport, trade
+Finance, information, professional services
+Source:
+
+Percentage of
+outback total
+
+Percentage of
+industry
+
+22
+5
+1
+3
+1
+30
+29
+9
+
+25.6
+8.0
+0.9
+3.0
+1.8
+1.9
+1.2
+0.7
+
+2006 Census Journey to Work tables.
+
+Three industries were over-represented in outback employment: mining (including
+associated manufacturing such as smelting and equipment repair), the pastoral industry
+(plus fishing, hunting and a few meatworks) and tourism (in so far as this can be separated
+from the more general accommodation and transport industries). Defence and general
+government service employment was present at slightly above national average rates while
+all other employment was under-represented in relation to the national average. In particular,
+the outback generates few jobs in finance, information, professional and scientific services.
+
+4.3
+
+Arguments for assistance to outback economic development
+
+Several strands of argument for assistance to outback economic development can be
+distinguished. Two of the arguments are familiar from the history of Zone rebates.
+•
+
+The strategic and moral argument that Australia wishes to occupy, and be seen to
+occupy, its whole national territory, and to take such measures as are necessary to
+defend it.
+
+•
+
+The argument that resources should be developed.
+
+The question is whether, given the range of policies available, Zone rebates are an efficient
+means towards achieving these ends. In addition, a new argument has arisen.
+•
+
+In 1945 and even in 1981 the proponents of developing the North tended to overlook
+the fact that much of remote Australia was already occupied by indigenous people,
+admittedly at low density but including regions where a century of efforts to develop
+profitable settler enterprises had failed. Over the past thirty years indigenous
+occupation has been recognised by the award of native title over significant parts of
+remote Australia to Traditional Owners. Social and environmental changes mean that
+these owners and their families can no longer live on their traditional lands as huntergatherers. Though some remote indigenous communities have an assured economic
+base, many of them depend on a mixture of Centrelink payments and government
+employment. It is beyond the scope of this paper to enter into the current vigorous
+debate about the economic future of these communities but it is fair to ask whether
+Zone rebates may have a role in generating ‘real jobs’ for them.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+9
+The economic development argument for Zone rebates thus resolves into the judgement that
+it is desirable to develop remote areas more rapidly than would take place under ‘hands off’
+policies and that Zone rebates make sense as a component of the resulting economic
+development policies.
+If the benefit of Zone rebates goes to the employee, they may be interpreted as an incentive
+to employees to undertake remote area work. If the benefit of Zone rebates goes to the
+employer, they may be interpreted as an incentive to employers to create remote area jobs.
+Though the discussion could be cast in terms of either interpretation, the present discussion
+will assume that the benefit of the rebates goes to employers and reduces the cost of
+remote-area labour. It is, in effect, a wage subsidy.
+At this point it must be conceded that the effectiveness of wage subsidies in generating
+remote area employment and economic development is likely to vary across the outback and
+also between remote area industries. However, outback areas have several features in
+common.
+•
+
+Their industry structure is thin. Typically they have only one or two economic base
+industries plus support services.
+
+•
+
+Their economic base industries are typically trade-exposed – indeed, most are export
+industries directly dependant on overseas markets.
+
+These characteristics leave the remote areas subject to several market failures.
+•
+
+Along with other tradable industries, they are exposed to over-valuation of the
+exchange rate. Australia’s chronic balance of payments deficit provides evidence that
+the exchange rate is, on average, over-valued and that, to correct this, trade-exposed
+(particularly export) industries should be encouraged vis a vis trade-sheltered
+industries. This applies to trade-exposed industries generally but is crucial in the
+remote areas due to their dependence on such industries.
+
+•
+
+Not only is the exchange rate over-valued; it fluctuates unpredictably. In addition to the
+price fluctuations generated by international markets, the trade-exposed industries are
+further exposed to price fluctuations generated by movements in the exchange rate.
+Current policy is to welcome these movements for their contribution to short-term
+macroeconomic management but they have the serious side-effect of increasing the
+level of risk borne by long-lived investment in the trade-exposed industries. Much of
+the investment required by outback industries is long-lived, consisting as it does of
+property improvements and transport infrastructure. Once again there is a case for
+policies to ameliorate this side-effect.
+
+•
+
+This industry structure and low population density mean that the remote areas depend
+more heavily than others on government provision of infrastructure. An example is
+telecommunications, which are commercially highly profitable in high-density areas but
+not so in low-density areas.
+
+These arguments will surface in various forms as we discuss the major outback industries.
+As shown in the above discussion above, mining now dominates the outback export
+industries. However, it remains that pastoral production is the classic, and most widespread,
+outback export industry. We will consider it first.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+10
+
+4.4
+
+Pastoral production
+
+From first settlement the pastoral industries - wool and beef – were seen as the economic
+mainstay of the outback, as they still are in Western NSW, Western Queensland, Northern
+SA and much of the NT. Judged by employment, they dominate the economic base of shires
+such as Central Darling (NSW), Barcoo and Boulia (Qld). In such shires pastoral production
+may be augmented by hunting (feral goats, kangaroos). Some of the coastal outback
+supports a fishing industry which, like hunting, is run by small businessmen.
+When considering the importance of sheep and cattle in the outback it is important to
+remember that pastoral production also occurs elsewhere, including in the wheat/sheep belt
+and hilly pastoral areas such as New England and the Monaro. Is it reasonable to argue for
+Zone rebates for the remote part of the pastoral industry while denying them to the same
+industry where it operates in closer-settled regions?
+
+4.4.1
+
+Managing a high-risk industry
+
+Government policy towards the remote-area pastoral industry is discussed in a companion
+piece to the present paper which deals with the position in South West Queensland.
+Experience in South West Queensland and indeed in the pastoral industry as a whole is that
+the industry is high-risk as the succession of good and bad seasons interacts with fluctuating
+commodity prices and the risk-increasing effects of fluctuating exchange rates. For the best
+part of two centuries the pastoral industry has proved its resilience, not only to price
+fluctuations but to the sequence of good and bad seasons. Resilience involves prudent
+accumulation of reserves during the good times and maintenance of capacity during the bad
+– it is hard to take advantage of the next in the capricious series of booms without productive
+capacity in place.
+Reserves can be accumulated in different ways. One way is cash and off-property
+investments but another is by making improvements to the property. The pastoral industry
+has traditionally used a combination of off-property and on-property investment to employ
+funds generated in the upswings of the seasonal and commodity cycles. Similarly the
+maintenance phase can be financed by running down investments (and in dire necessity
+incurring debt) and by postponing on-property investment – but preferably in a way that does
+not threaten capacity.
+At the regional level, these business strategies can be complemented by government action.
+When the pastoral industry is in a boom phase, government can help to release local
+resources to participate in the boom by restricting itself to maintenance. When the pastoral
+industry is in maintenance phase, it is appropriate for governments to attempt to take up the
+slack, investing in infrastructure as a contribution to readiness for the next boom. It is, of
+course, as difficult for governments as for businesses to make the necessary financial
+arrangements, exercising discipline during booms and countering despondency during
+periods of slack activity, but this is no excuse for not trying.
+In this discussion we have assumed that fluctuating commodity prices are inevitable. It has
+often been pointed out that steady capacity utilisation would be less wasteful than the current
+alternation between the costs of over-capacity production and the costs of underutilised
+capacity. While steady prices sufficient to generate a moderate rate of profit minimise costs,
+there is no known way to achieve this steadiness in commodity markets. The chief lesson
+from Australia’s long and sorry history of government schemes to stabilise of agricultural
+markets is that intervention at the industry level is hazardous, to say the least, and that
+governments are best restricted to general counter cyclical policy including the maintenance
+of infrastructure and its extension during times when activity levels require support.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+11
+
+4.4.2
+
+The case for remote area wage subsidies in the pastoral industry
+
+Against this background, can a case be made for Zone rebates to assist the remote-area
+pastoral industry? Since the rebates have to be financed, it may be assumed that they
+(slightly) increase tax rates in non-remote areas and therefore (slightly) reduce employment
+in these areas. Can a case be made for this?
+We have already noted an argument on these lines – the claim, in 1981, that zone rebates
+compensated for the effect of tariffs on remote-area industry costs. With the cuts in tariffs
+this argument has lapsed, and in any case it drew a long bow. However, it can still be argued
+that pastoral employment in remote areas should be encouraged through Zone rebates, as
+follows.
+1.
+
+Remote areas depend on trade-exposed industries subject to volatile international
+prices. These industries are important for balance of payments reasons. Price volatility
+coupled with a finance sector which is unable to provide insurance against mediumterm price fluctuations creates risks which, if not managed, will result in these
+industries having less capacity (and the non-tradable industries having more capacity)
+than desirable in the overall long-run allocation of resources. It is neither possible nor
+desirable that the price volatility should be removed. In lieu of removal of price
+volatility, other ways should be sought to ensure that capacity is maintained,
+particularly in downturns.
+
+2.
+
+The prohibition of direct industry-specific subsidies by World Trade Organisation rules
+means that indirect industry support measures are relevant. Possible indirect support
+includes skills training, subsidies to research and market development, government
+provision of infrastructure and wage subsidies available on a regional rather than an
+industry basis.
+
+3.
+
+The advantages of wage subsidies on a regional basis are stronger than they appear
+prima facie, in that such subsidies assist the maintenance and development of regional
+infrastructure (defined broadly to include support services) on which the pastoral
+industry depends.
+
+4.
+
+The case for regional wage subsidies is strongest in the remote areas, due to their
+high level of risk. Not only are the seasons more variable than in the closer-settled
+regions but the thin industry structure means that there is little flexibility to turn to
+alternative sources of income when the pastoral industry is suffering from a downturn.
+
+5.
+
+The case for wage subsidies is strongest when the industry is in maintenance phase
+but can be made generally, in that wage subsidies compensate across the trade cycle
+for the higher than average (and partly artificial) risks which otherwise result in the
+pastoral industries attracting less investment than is economically efficient.
+
+The market failure case for wage subsidies in remote areas where the pastoral industry
+provides the economic base therefore rests on these areas being much more dependent on
+a trade-exposed industry subject to volatile prices than the rest of the country. Not only are
+they dependent, they are depend on a community basis; the residents as a whole contribute,
+through their social networks and support services, to the productive capacity of the pastoral
+export industry.
+Providing wage subsidies to all outback employers, rather than just to the trade-exposed
+pastoral industry, strengthens the capacity of the region as a whole to support export
+production while avoiding interference with the market allocation of resources within the
+remote areas and interfering no more than marginally with the allocation of resources
+between the remote and non-remote areas. The capacity of local and state governments to
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+12
+maintain infrastructure and the capacity of local service suppliers (retail, equipment
+maintenance, social facilities) are enhanced along with the capacity of pastoralists to
+maintain their properties
+
+4.5
+
+Mineral resource exploitation
+
+Though the pastoral industry is the classic outback activity, the mining industry is currently
+very active in a number of outback regions.
+
+4.5.1
+
+Mineral resource exploitation and the pastoral industry:
+similarities and differences
+
+The mineral resource industry covers mining broadly defined to include production of metal
+ores, energy minerals and non-metallic minerals plus mineral exploration, services to mining
+and related manufacturing activities such as ore beneficiation and heavy equipment repair
+carried out close to mine sites. This industry has several characteristics in common with the
+pastoral industry.
+•
+
+Many of its operations, to the extent of a quarter of total industry employment, are in
+the outback as defined for this paper.
+
+•
+
+The industry is trade-exposed and has to cope with the vagaries of international
+commodity markets and the Australian dollar exchange rate.
+
+•
+
+Like the outback pastoral industry, the mining industry has the choice of making do
+with the levels of infrastructure provided by the Commonwealth, state and local
+governments, or providing its own.
+
+Despite the likenesses there are major differences.
+•
+
+Most parts of the mineral resource industry are capital intensive and wages are a minor
+proportion of costs. Wage subsidies are therefore unlikely to affect the location or level
+of industry activity. However, they may affect resource allocation decisions within the
+industry, particularly resource allocation to labour-intensive industry activities such as
+site remediation.
+
+•
+
+The exploitation of mineral resources is extractive whereas pastoral production is
+sustainable provided overstocking is avoided. The extractive nature of the industry is
+reflected in different financial arrangements: miners have to pay royalties to the State
+governments. The high profitability of the mining industry during the current boom has
+generated debate as to whether the states and territories are levying sufficient royalties
+to compensate future generations for the sale of the resource (see discussion in the
+companion paper). Those who argue that the industry is being subsidised through low
+royalty payments are likely to argue that it should not receive any further benefits from
+wage subsidies.
+
+•
+
+The exposure of the mining industry to fluctuating exchange rates is limited by the fact
+that the industry is largely overseas-owned, which means that its capital transactions
+are carried out in overseas currency rather than Australian dollars. This reduces risk
+and hence the argument for compensation for uninsurable risk.
+
+•
+
+The financial strength of the large overseas-owned corporations which dominate
+mining lessens the case for wage subsidies.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+13
+•
+
+Mining industry employment is concentrated in a small number of major outback
+centres. The four Pilbara shires plus Kalgoorlie and Mt Isa together account for nearly
+half of total outback mineral resource employment. These workers have access to
+reasonable urban facilities, which lessens the case for wage subsidies to ease
+recruitment.
+
+•
+
+As noted in the companion paper, the mining industry has adopted a completely
+different employment strategy to the other remote-area industries, one which may
+further reduce the case for wage subsidies. As pointed out in the companion paper,
+many of the firms in the industry have adopted a policy of high wages, low expenditure
+on workforce development and low job security. A major element in this strategy is flyin fly-out and the question raised is whether wage subsidies should apply to fly-in flyout workers.
+
+We will first consider fly-in fly-out and then return to the more general case.
+
+4.5.2
+
+Fly-in fly-out
+
+Currently whether a fly-in fly-out worker can claim a Zone rebate depends on the six month
+rule. A claim can be made if the worker spends more than six months worth of nights in the
+Zone during two successive financial years. It is not unknown for employment contracts to
+be drawn up with an eye to satisfying this requirement. It would be a simple matter to
+withdraw eligibility from fly-in fly-out workers by extending the residence requirement to (say)
+ten months in each year, or alternatively to reduce the residence period so as to include
+visiting professional personnel who stay for shorter periods.
+The decision here depends on conceptualisation. If the wage subsidy is simply a wage
+subsidy to industries which are under-investing due to uninsurable risks arising from price
+and exchange rate volatility, it would be appropriate to extend it to all persons employed in
+such industries, whether in remote areas or no. If, however, the wage subsidy is a form of
+compensation to those who employ the residents of communities which are heavily
+dependent on the risk-exposed export industries and which contribute to the prosperity of
+those regions, it is not appropriate to extend it to fly-in fly-out workers. Looked at this way,
+fly-in fly-out workers should be seen as belonging to the labour markets of their region of
+primary residence. It was argued in the companion piece that the mineral exploitation
+industry, with exceptions, has not been highly committed to regional development – and
+when it is committed to such development, it is likely to develop a resident workforce which
+would be eligible for remote area rebates under a ten-month rule.
+A second argument for excluding fly-in fly-out workers from wage subsidies was also
+reviewed in the companion piece: fly-in fly-out is perceived as imposing unnecessary costs
+on workers’ families. If this is the case, the least the Commonwealth can do is to refrain from
+subsidising it. Exclusion of fly-in fly-out workers while continuing to support resident
+employment provides employers with an incentive to the latter.
+It should also be noted that, in so far as fly-in fly-out workers spend their incomes in their
+places of permanent residence and not in the remote regions, arguments for compensation
+for high living costs or for high costs of access to public services do not apply to them.
+Finally, the extent to which remote area employers resort to fly-in fly-out is also influenced by
+fringe benefits tax. A review of this tax is beyond the scope of this paper but would have to
+be incorporated into any considered review of the Zone rebates.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+14
+
+4.5.3
+
+Exploration and infrastructure
+
+Mineral production sites – mines, quarries, well-heads and processing facilities – generally
+have specialised infrastructure requirements which are, rightly, provided by the industry.
+However, one crucial part of the mineral industries depends more heavily on general
+infrastructure – mineral exploration. This is also a high-risk part of the industry because
+many mineral explorers find nothing. This risk is magnified financially since it arises well in
+advance of any resulting revenue.
+Around 8000 people are employed in mineral exploration nationally, which is a little over 10
+per cent of the workforce employed in mining broadly defined. Of these around 1500 work in
+the outback plus, perhaps, a further 900 or so who work at no fixed address. Even if we add
+these numbers together, mineral exploration is responsible for less than 2 per cent of
+outback employment and many of these are likely to be flying-in and flying-out. Employment
+in mineral exploration is spread across the continent, with concentrations in the capital cities
+(particularly Perth) and the mining provinces.
+Where mineral explorers are engaged in proving up and extending deposits which are
+already in production they may rely on purpose-built industry infrastructure, but where they
+are seeking new deposits far and wide they rely on the transport, supply and support
+facilities that happen to be in place. Support to the providers of these facilities, whether by
+wage subsidies or otherwise, assists mineral exploration, leading to a case for wage
+subsidies to infrastructure provision useful to mineral exploration.
+The case for wage subsidies to the outback mining industry in general is less strong than for
+the pastoral industry, particularly in boom times such as the present, but is likely to become
+stronger when it becomes a question of maintaining capacity during a slump and when the
+industry is providing infrastructure of general benefit. Wage subsidies also reduce the cost of
+remediation, thus encouraging the industry to take this responsibility seriously. There is also
+a case for wage subsidies to outback resident workers as a way of lessening the advantages
+of fly-in fly-out to employers.
+
+4.6
+
+Defence
+
+Four significant defence complexes are located within the current Tax Zones A and B, at
+Cairns (Q), Townsville(Q), Darwin/Berrimah (NT) and Katherine (NT). In total, these
+installations account for 13 per cent of persons employed in the defence of Australia
+(compared with Canberra, 16 per cent). However, only about 1250 defence personnel are
+employed in the outback as defined in this paper and they constitute less than 1 per cent of
+total outback employment.
+It may be argued that the Commonwealth does not need to provide itself with wage
+subsidies in order to employ its own employees – it could equally well charge full taxes and
+use the proceeds to raise employee wages. On this argument there is no need for Zone
+rebates for Commonwealth employees, including defence personnel. However, Zone rebates
+are only a wage subsidy if their eventual incidence benefits the employer; technically they
+are a tax rebate claimed by employees. It would therefore be administratively inconvenient to
+deny them to Commonwealth employees while allowing them for other income recipients.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+15
+It is more important to note that the effectiveness of defence personnel depends not so
+much on the location of their bases as on the ease with which they can access the areas
+which they are to defend. Access is mainly by road, though also by air and sea. Local and
+state governments have substantial responsibility for roads and airstrips in remote areas.
+There are no explicit Commonwealth payments which recognise the defence importance of
+these assets, though this is partly taken into account in Commonwealth grants for roads and
+other local government expenditures. Wage subsidies assist in equalising costs so that
+similar amounts of grant yield similar amounts of road maintenance. The main defence
+argument for outback wage subsidies is thus an argument for infrastructure subsidies.
+
+4.7
+
+Tourism
+
+A number of Australia’s major tourist attractions lie in remote regions along with a
+considerable further number of potential attractions. Remote locations which have developed
+significant trade over the past three decades include Kakadu, Uluru, Broome and Shark Bay.
+Many less well-known remote locations have also developed tourism as part of their
+economic base.
+Governments have acknowledged the importance of tourism as an economic activity by
+regulation to maintain standards and assistance with publicity. They also provide the
+transport infrastructure which underpins tourism. Remote-area transport infrastructure is
+undergoing steady improvement which has generated additional tourism activity. However,
+there are plenty of opportunities to develop the industry further.
+The current high Australian dollar is proving that tourism is a trade-exposed industry with a
+claim on outback wage subsidies not dissimilar to that of the pastoral industry. Like defence
+it also depends on transport infrastructure, not to speak of basic social infrastructure. In this
+way it generates an argument for wage subsidies to the provision of outback infrastructure
+broadly defined.
+
+4.8
+
+Lands in traditional ownership
+
+Much effort has been expended over many decades in trying to find an economic base for
+communities living on traditional lands, including experiments with agriculture, silviculture,
+pastoral production, tourism and mining. In some places these experiments have succeeded
+but, scattered across remote Australia, there remain many indigenous communities which
+depend on welfare payments and hence on Remote Area Social Security Allowances. When
+employment is available it benefits from Zone rebates.
+Wage subsidies assist the states, local governments and non-profit agencies in provision of
+welfare-oriented employment (including health services and education). They also assist with
+the provision of physical infrastructure, including the transport and communication facilities
+without which there is little hope that ‘real jobs’ will become available. For example, it is
+sometimes argued that real jobs could arise in land conservation, including from such
+measures as the recent Carbon Farming Initiative. These developments will require local
+transport between communities and the places to be conserved, not to speak of transport
+facilities for tourists to come and admire the conservation.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+16
+
+4.9
+
+Service employment
+
+The industries discussed so far – the outback export or economic base industries – account
+for roughly one-third of outback employment (Table 1). The remaining two-thirds comprise
+employment in various service industries, including transport, trade, education, health
+services and government services. In discussing the outback export industries the
+importance of these service industries was emphasised: the economic viability of outback
+export industries (including defence) depends on infrastructure; that is, on the adequacy of
+the services provided by the service industries. As a general rule these industries are labour
+intensive (particularly health and education) and stand to benefit from wage subsidies.
+Indeed, much of the economic case for outback wage subsidies rests on their contribution to
+infrastructure provision and the indirect contribution this makes to the export industries.
+
+4.10
+
+The contribution of Zone rebates to outback development
+
+In Section 4.3 it was argued that Zone rebates have a place in encouraging outback
+economic development and by this means underwriting the effective occupancy of the
+Australian continent, both by indigenous communities and by the general population. In
+particular, wage subsidies are helpful in two ways.
+•
+
+By assisting with the provision of infrastructure in the broad sense, so benefiting the
+economic base industries of the outback and enabling them to fulfil their role in utilising
+the resources of the outback to the national benefit.
+
+•
+
+By countering high levels of uninsurable risk in the major outback export industries.
+
+Additional benefits arise because the assistance to infrastructure helps with defence and will
+potentially contribute to the self-improvement of the remote indigenous communities.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+17
+
+5.
+
+The Higher Education Contribution Scheme
+
+We have so far considered Zone allowances as primarily an Income Tax provision. However,
+the provision could be extended to the Higher Education Contribution Scheme. The HECS
+has many virtues as a means of financing higher education. It is essentially a tax measure
+since it relies on income tax assessments to recoup, thus avoiding many of the problems of
+private-sector student loan schemes – though with the corresponding disadvantage that
+repayment can be avoided by emigration.
+An incentive to young professionals to work in the remote areas could be provided by the
+Commonwealth forgoing HECS repayments which would otherwise have been exacted from
+residents of remote areas.
+It is now time to turn to the equity arguments for Zone rebates considered by the Cox
+Inquiry.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+18
+
+6.
+
+Costs of living
+
+Remote area rebates have frequently been defended as compensation for higher costs of
+living in remote areas. This is most easily argued if one takes the view that the benefit goes
+to employees – the concession then goes to increase the taxpayer’s disposable income to
+compensate for higher prices. However, in a free labour market it is likely that price
+compensation has already been included in the wage package and that the benefit of the
+rebate goes to employers. In this case the rebate (partly) compensates employers for the
+higher costs of labour hire in the remote regions, where these costs relate to the higher cost
+of living.
+The Cox Inquiry took the simple approach. If the taxpayer rather than the employer benefits
+from the rebate, it is arguably fair to that income received should be adjusted for geographic
+price differentials. Comparing two people on the same cash wage, the one who has to pay
+higher prices has the lower ability to pay taxes. However, as always there is a contrary
+argument. If geographic differentials reflect different costs in service provision or different
+land costs, they have a function in providing incentives to the efficient location of economic
+activity. Compensation will blunt the incentives. A taxpayer who objects to the higher prices
+charged in the remote areas has the option of shifting elsewhere and the incentive argument
+says that this is exactly what he should do; he should not be granted a concession. In this
+conflict of values the Cox inquiry inclined towards the ‘real income’ or ‘horizontal
+equalisation’ view. Essentially they argued that the incentive effects were less important than
+the inequity of depressing the standard of living of outback employees.
+It is one thing to claim that the cost of living is higher in remote areas than in some reference
+area, say the metropolitan areas. It is quite another to give this monetary expression. The
+following observations are more or less agreed.
+•
+
+Transport costs add to the price of widely-distributed consumers’ goods in remote
+regions.
+
+•
+
+In small remote towns there are further additions due to diseconomies of small scale,
+including less than truck load shipments and/or high warehousing costs for larger
+shipments. Consumers can avoid these costs only at the considerable expense of
+driving to a larger town.
+
+•
+
+Remote area consumers are further disadvantaged by the limited range of goods and
+services on offer.
+
+•
+
+Housing cost differentials are more complicated – in general, the unimproved value of
+the underlying land is less than in metropolitan areas but the costs of construction are
+greater, both subdivision costs and dwelling costs.
+
+•
+
+Construction costs are particularly high in small towns which lack resident
+tradespeople, since transport and accommodation costs have to be met.
+
+The Cox Inquiry noted that the ABS had, in the late 1970s, prepared an experimental index
+of relative retail prices for food across Australia’s major metropolitan areas and a large
+selection of country towns. Where a weighted average of prices in the eight capital cities was
+set at 100 this index yielded values of 110 in Cunnamulla and Charleville, the only two
+centres assessed in South West Queensland. It was only in the Pilbara that larger and
+smaller centres could be compared, with an index value of 115 in Port Hedland and 136 in
+Marble Bar. Judging by this differential, Thargomindah would probably turn in a value around
+125. The index was experimental and was not continued, but the differentials thus
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+19
+documented accord with current anecdotal experience in South West Queensland – not only
+for food but for consumer prices generally. The main exception is housing costs, which
+depend on the balance of supply and demand in each town.
+A fundamental feature of price indices is that they cover the same ‘basket of goods and
+services’ for each comparison. This is a bold assumption over time – new commodities are
+constantly entering consumers’ shopping trolleys and old items exiting – and it is an even
+bolder assumption when comparing places. Consumers in remote areas have different
+opportunities to those in the metropolitan areas – less choice, perhaps, but also some
+choices that are not available in metropolitan areas (a rodeo, perhaps?). Again, restricted
+choice itself has benefits: there’s no need to agonise over choice and maybe more time for
+simple entertainments, like yarning over a beer or playing participant sport. Some remote
+area residents have rejected the rat race, don’t have to keep up with the Joneses and
+consider that they pay less for a better life than they would have had in the cities. More
+generally, people confronted with different price patterns adjust to those patterns; they buy
+more of what’s relatively cheap and don’t agonise over what’s relatively expensive or not
+available. The resulting difficulties of measurement are known in economics as the ‘index
+number problem’, which means that comparisons apply to ‘typical’ people and not to those
+who have taken particular advantage of the opportunities available in different places or at
+different times. When metropolitan and remote areas are compared, the result regarding a
+‘typical person’ is robust: the cost of living is indeed higher in remote areas.
+Even so, the difficulties of measuring cost of living differentials and the lack of up-to-date
+evidence have caused people to appeal to an alternative differential – differences in access
+to government services – as a way of quantifying outback disadvantage. This does not mean
+that the cost of living argument has lost its force; rather it has been supplemented it with a
+related argument pointing in the same direction.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+20
+
+7.
+
+Isolation and services
+
+In 1945 Zone Allowances were, in part, justified as compensation for isolation. This is a
+somewhat slippery concept. In so far as it was desirable to compensate for isolation so that it
+would be easier to recruit labour to the developmental task in the remote regions, the
+argument collapses back to populating the North, decentralisation and the exploitation of
+remote resources already discussed. However, the argument can take another tack: Zone
+rebates can be seen as (possibly token) compensation for the reduced range of government
+services available to the residents of remote regions and/or as partial compensation for the
+transport and telecommunications costs occasioned in accessing essential services. Here
+the appeal is to another of the classic principles of taxation – the Benefit Principle, which
+argues that taxes should be related to the value of benefits received. Remote area residents
+receive less benefit, therefore should pay less. Alternatively, the private (mainly transport)
+costs of accessing government services are greater and there should be compensation for
+this. Those who make this argument tend to assume that taxpayers receive the benefit of the
+rebate, but like cost compensation the argument can also be applied when the benefit is
+assumed to go to employers. The rebate then compensates employers for the extra wages
+they have to pay so that their employees can access services.
+In 1981 it was argued that Zone rebates were an unfair way of compensating for service
+access costs because they were available only to taxpayers and not to people who fell below
+the tax threshold. This argument is no longer valid. The provision of Remote Area
+Allowances to social security recipients in 1984 meant that most remote-area residents now
+gain compensation.
+Remote area residents have two main ways of dealing with the problems of service access.
+These are:
+•
+
+bundling trips. Visits to service outlets, other than emergency visits, can be bundled
+together and satisfied in a single ‘trip to town’; and
+
+•
+
+accepting a more limited range of choice and a concentration on the quality of local
+facilities. Thus metropolitan residents who disapprove of the education provided in their
+local high school send their children somewhere else. Residents of towns which are
+not large enough to support multiple schools are much more likely to campaign for an
+improvement in standards in their local school.
+
+By contrast with the lack of recent work on cost of living differences, two studies on
+geographic differences in service provision have been published since the Cox inquiry.
+In 1997 the Commonwealth Department of Health and Aged Care commissioned the
+National Key Centre for Social Applications of GIS to develop an accessibility/remoteness
+index for Australia. There are two main inputs to this calculation:
+•
+
+a list of urban centres classified into five population groups: 1000<5000, 5000<18,000,
+18,000<48,000, 48,000<250,000 and >250,000; and
+
+•
+
+a matrix of road distances.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+21
+For each ‘populated locality’ in Australia, road distances are calculated to nearest urban
+centre in each of the five groups. This distance is divided by the average all-Australia
+distance for the category. The five scores thus obtained are added and used to define five
+‘remoteness area classes’. (That there are five scores and five classes are coincidental – the
+researchers could have varied either number.) The remoteness area classes vary from
+‘major city’ through ‘inner regional’, ‘outer regional’ and ‘remote’ to ‘very remote’. (Note the
+peculiar use of ‘regional’ in this nomenclature to mean neither metropolitan nor remote.) The
+ABS has adopted this index as a means of classifying the remoteness of localities
+throughout Australia.
+The fundamental assumption underlying the remoteness index is that service availability
+depends on town size and that increments in service availability occur at the five population
+thresholds used in the classification. Using the same general methodology, a different size
+classification would yield different patterns. Similarly, different weights could be awarded to
+the size categories. Work by NIEIR for the Farm Institute provides a check on these
+assumptions, since this work did not take urban centre size as a proxy for service availability
+but instead plotted actual locations of service delivery and estimated the distances residents
+would have to travel to visit the nearest outlet for a standard list of services, mainly in the
+education, health and welfare fields. For some services, the second-nearest and thirdnearest (and so on) facilities were included at reduced weight, to allow a modicum of choice.
+Not surprisingly in view of the major differences between services provided in the heavily and
+sparsely populated regions, both the ABS and NIEIR studies supported two conclusions.
+•
+
+The accessibility of services differs systematically between rural locations (defined as
+all settlements of less than a thousand population) and urban locations. The ABS has
+been understandably reluctant to publish remoteness indicators for other than very
+small geographic areas because the typical larger area, say a Local Government Area,
+contains a range of locations which often have significant differences in accessibility to
+services.
+
+•
+
+The accessibility of services also differs systematically with distance from the major
+metropolitan areas. This differential is particularly marked if emphasis is placed on
+choice of service outlets – for example, only the metropolitan areas have multiple
+universities.
+
+The NIEIR study distinguished between widespread and centralised services. The former are
+available locally in most country towns complete with a choice of service providers where this
+is appropriate (it is not appropriate, for example, for police services) while centralised
+services which are provided mainly in the metropolitan areas and not in the country.
+Centralised services include tertiary education and specialised health services, and also,
+surprisingly, secondary education, which is available in the typical country town but with very
+limited choice.
+Judged by employment, centralised services account for roughly one-third of the public
+services provided in Australia. Because of their metropolitan concentration, they account for
+the way in which service accessibility declines with distance from the main cities. However,
+even if attention is confined to the widespread services and the micro-variation between
+towns and the countryside is averaged out, the NIEIR service accessibility index generates
+patterns which largely accord with the ABS remoteness index. According to the ABS the
+‘very remote’ area comprises the Australian north coast from Shark Bay nearly to Cooktown,
+except around Darwin; the coast of the Great Australian Bight, and all the country between
+these two coasts except for the immediate surrounds of Alice Springs and Mt Isa, which are
+merely ‘remote’. In South West Queensland all places west of Mitchell are considered ‘very
+remote’ while the ‘remote’ area is a strip between the ‘very remote’ area and a line running
+from roughly Dirrinbandi to Miles.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+22
+The NIEIR study helps to place these patterns in context. According to this study a typical
+journey from a residence to the nearest outlet of a widespread service (or nearest several
+outlets in the case of services like GPs where choice is important) will take more or less the
+following times:
+•
+
+12 minutes in Brisbane;
+
+•
+
+about 12 minutes in Dalby but more like 40 minutes in the rural parts of Western
+Downs;
+
+•
+
+just under two hours in Roma (due to restricted choice in some services) and over two
+hours in the rest of Maranoa;
+
+•
+
+just under three hours in Charleville (again mainly due to restricted local choice) and
+over three hours in the rest of Murweh and in Paroo; and
+
+•
+
+nearly five hours for residents of Quilpie and Bulloo shires.
+
+These estimates can be roughly translated into dollar costs. Without imputing any cost to
+residents’ time, the typical metropolitan service access trip costs around $3. It costs less in
+towns like Bundaberg due to less congestion and lower car parking costs. At the other end of
+the distribution, the typical remote area trip costs around $50. As already pointed out, remote
+area residents manage these accessibility costs by restricting choice, by bundling trips and
+simply by doing without (e.g. by forgoing education).
+To a large extent the superior accessibility of essential services in the metropolitan areas
+and provincial cities is due to the inexorable logic of economies of scale. An approach which
+emphasises economic efficiency narrowly defined would leave it at that: services are
+cheaper to provide in large centres and if citizens want good services they should shift to
+these centres. (Never mind if the shift causes congestion and increases land costs.)
+However, the Queensland government endeavours to guarantee equality of service access
+to all its citizens, if necessary by bearing transport costs and also by upholding service
+standards in remote areas to overcome the need for choice and duplication.
+Given this policy, is there any need for Zone rebates and the complementary social security
+allowances as contributions towards service access costs?
+•
+
+Whatever the good intentions of the state governments, remote area residents bear
+significant service access costs which have to be met from their own pockets.
+
+•
+
+The Zone rebates can be interpreted as a contribution towards the basic mobility, e.g.
+car ownership, assumed by service providers.
+
+•
+
+Accessibility costs for essential services can be taken as proxy for accessibility
+disadvantages more generally – those which we have already considered as cost of
+living disadvantages or, more broadly, the costs of a minimum level of engagement
+with society as a whole – those costs which, in the broad social welfare literature, are
+called the costs of belonging.
+
+The Cox inquiry argued that poor service accessibility and high costs of living together
+provided an equity argument for Zone allowances. At the very least, accessibility calculations
+help to identify the affected areas and the size of the disability.
+Given that the prime purpose of Social Security is to provide minimum incomes to people
+who have no other income source, equity arguments apply particularly strongly to the
+recipients of Remote Area Allowances, but also apply to income earners in general.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+23
+
+8.
+
+Zone boundaries
+
+When the system was inaugurated in 1945, the then Treasurer, Mr Chifley, said that the
+zone boundaries took into account latitude, rainfall, distance from centres of population,
+density of population, predominant industries, rail and road services and the cost of food and
+groceries. Unfortunately the exact criteria used in the demarcation (if there were any) have
+been lost.
+The only general change to date in the Zone boundaries occurred in 1955 when the
+th
+boundary of Zone A was extended south to the 26 parallel, so conveniently including the
+whole of the Northern Territory within Zone A. As noted above, Special Zones were
+introduced in 1981.
+A comparison of the current Zone map with the ABS remoteness/accessibility index broadly
+mapped, and similarly with the NIEIR/Farm Institute service accessibility index, shows
+several major divergences. We consider first the Zone A/Zone B differential.
+•
+
+Though Darwin is somewhat disadvantaged (according to the ABS it ranks as ‘outer
+regional’) its level of remoteness is well short of that in the typical Zone A location. It
+might be added that Darwin has now developed a broad industry structure and is no
+longer dependent on the prosperity of a limited number of export industries exposed to
+fluctuating world prices.
+
+•
+
+Similar considerations apply to the Queensland coast between Mackay and Cairns,
+which is included in Zone B despite ‘outer regional’ status.
+
+•
+
+There is essentially no difference in remoteness between Zone A and Zone B locations
+th
+either side of the 26 parallel, nor does any remoteness gradient run along this line,
+nor is there any noticeable difference in industry composition either side (though it is
+roughly the northern limit for sheep).
+
+•
+
+Apart from Darwin and the Queensland coast, Zone A and Zone B taken together are
+remarkably similar to ‘Very Remote Australia’ as defined by the ABS and confirmed by
+NIEIR. This applies whether remoteness is defined in terms of distance from services,
+distances from towns, or thin industry structure arising from a lack of arable land.
+
+By contrast, apart from Mt Isa, Alice Springs, Kalgoorlie and Esperance, the Special Zones
+are not recognisable in the ABS remoteness map, nor are they to be found in the NIEIR
+calculations. For example, in Queensland Charleville and Longreach are each responsible
+for large circles in which residents are not entitled to Special Zone allowances, but in both
+instances the typical trip to access a widespread service from within the town is rated at
+around two hours and from within the excluded circle is closer to three hours. Among the
+isolated centres in Queensland, only Mt Isa is large enough, and has a sufficient range of
+services, to produce a significant improvement in accessibility. This suggests two
+conclusions:
+•
+
+a town population of 2500 is too low to produce significant improvements in
+accessibility in an otherwise remote area. Judging by the populations of Alice Springs,
+Mt Isa and Kalgoorlie, the cut-off appears to be more like 15,000; and
+
+•
+
+the radius of 250 road km is too long. Accessibility drops rapidly with distance from
+urban centres.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+24
+There is a strong case for redefining the Zones to take these findings into account. The
+exclusion of Darwin, Mackay, Townsville and Cairns and the adjacent coast, plus an
+extension of the eligibility period from six to ten months, would go a long way towards
+financing the re-drawing of Zone boundaries. An outback Zone could be based on ‘very
+remote’ Australia as defined by the ABS. A new fringe outback Zone could serve as a
+transition area and also accommodate towns of 15,000 plus population which would
+otherwise be located within the outback Zone. The Special Zones would be abolished. It is
+suggested that the rebate for the outback Zone would be the current Special Zone rebate,
+updated, while the rebate for the marginally outback Zone would be the current Zone A
+rebate, updated. The Social Security Remote Area allowance would be available to
+permanent residents of the outback Zone and possibly, at reduced rates, to permanent
+residents of the marginal outback.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+25
+
+9.
+
+Value of the allowance/rebate
+
+When introduced the Zone A allowance was set at £40 but in 1947 it was increased to £120,
+a considerable concession at a time when workers were typically paid around £500 a year
+(average earnings per railway employee were £477 in 1948-49). In conjunction with the
+schedule of marginal rates, this increased disposable incomes by 3 to 4 per cent compared
+with charging the full income tax to workers in Zone A. The Zone A deduction was indexed
+sporadically and in 1958-9, after an increase, produced increases in disposable income of
+the order of 6 per cent for workers on average weekly earnings. The additional deductions
+for dependants meant that the proportion was broadly similar for taxpayers with and without
+dependants. From 1959, however, there was a pronounced reluctance to index the
+allowances, later rebates, for inflation.
+The Cox Inquiry failed to produce any indexation of the rebates but its recommendations to
+raise the loading for dependants and introduce Special Zones were implemented. As a
+result, in the 1981-82 tax year Zone rebates produced the following increases in real
+incomes (calculated, for convenience, on the assumption that the allowance benefits the
+taxpayer rather than the employer):
+•
+
+taxpayer on average weekly earnings living in Zone A, an increase in disposable
+income of approximately 1.8 per cent. Due to the dependant allowances, this increase
+was roughly the same for all levels of dependants;
+
+•
+
+taxpayer on the minimum wage living in Zone A, an increase in disposable income of
+approximately 2.7 per cent. Increases for taxpayers with dependants were somewhat
+less because they ran out of tax to offset the rebate against; and
+
+•
+
+taxpayer on average weekly earnings living in a Special Zone: an increase in
+disposable income of 6.3 per cent (9.4 per cent for a taxpayer on the minimum wage).
+
+The two dissenting members of the Cox committee would both have made more generous
+allowances available.
+•
+
+Mr Kerr, a rebate sufficient to raise the disposable incomes of taxpayers earning
+average weekly earnings in the Special Zone by 12.6 per cent (18.8 per cent if on the
+minimum wage).
+
+•
+
+Mr Slater, a rebate sufficient to raise the disposable incomes of taxpayers earning
+average weekly earnings in a revised Zone A by 16.8 per cent (22.2 per cent if on the
+minimum wage).
+
+The rebates were increased in 1984, 1985, 1992 and 1993, but since then the Zone A rebate
+has remained at $338 plus a 50% loading on dependant rebates. Due to growth in earnings
+and lack of indexation of the rebate, its value has now been eroded to an increase of 0.8 per
+cent the in disposable income of a Zone A resident without dependants receiving average
+weekly earnings. The value of the rebate for a taxpayer without dependants working in the
+Special Zone now stands at an increase in disposable income of 2.7 per cent.
+The value of the remote area allowance for social security recipients now (September 2011)
+stands at an increase of 2.6 per cent in the disposable income of a single pensioner and 3
+per cent in the disposable income of a couple.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+26
+The real value of Zone rebates has been falling since 1993, which accords with Treasury’s
+preference for removing concessional tax offsets. Indeed, the failure to review the Zone
+rebate may indicate satisfaction with the current non-indexed benefit – from Treasury’s point
+of view there is a risk that a review might defend the rebate and recommend that it be raised.
+The present paper has shown that there are indeed strong arguments for retaining and
+increasing the rebate.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+27
+
+10.
+
+Conclusion
+
+It is now two years since the release of the Henry Report into Australian taxation and its
+recommendation that remote area tax offsets be reviewed. The review has not taken place
+and in the meantime Zone rebates continue to decline in real value.
+There remain three arguments for the continuation and updating of Zone rebates, including
+the related social security Remote Area Allowances.
+•
+
+Support for remote-area economic development. Zone rebates provide partial
+compensation for the reduction in the competitiveness of remote-area export industries
+which has occurred as an unintended side-effect of the market-determination of the
+exchange rate coupled with heavy reliance on monetary policy to counter inflation.
+Zone rebates also assist in the provision of local infrastructure and support services in
+the remote areas. This infrastructure is important for the export industries, for defence
+and for the future of remote indigenous communities. (In discussions of public finance,
+this is essentially an economic efficiency argument.)
+
+•
+
+Compensation for the higher prices of necessities in the remote areas, particularly
+food. This is particularly important for social security recipients. (In discussions of
+public finance, this is essentially an ability-to-pay argument.)
+
+•
+
+Partial compensation for the costs of accessing government services from the remote
+areas. Though the primary responsibility here lies with service providers, the Zone
+rebates recognise that remote area residents bear a share of these costs. (In
+discussions of public finance, this is essentially a benefit principle argument.)
+
+This paper provides a preliminary discussion of each of these topics and shows that Zone
+rebates can be justified by arguments invoking each of the major principles of taxation.
+Following through from these arguments, the paper also suggests that the Zones should be
+updated and the levels of rebate revised.
+Zone rebates have not been reviewed for three decades. This paper has shown that there is
+a strong case for updating the rebates, subject to a review of eligibility. It is time that the
+review recommended in the Henry report took place.
+
+Regional Inequality in Australia
+Submission 109 - Attachment 1
+
+28
+
+References
+Australian Bureau of Statistics, 2001, ABS Views on Remoteness, cat 1244.0.
+Australian Bureau of Statistics, 2001, Outcomes of ABS Views on Remoteness Consultation,
+Australia.
+Australian Bureau of Statistics, 2003, ASGC Remoteness Classification: Purpose and Use,
+Census Paper No 03/01.
+Hicks, P., 2001, History of the Zone Rebate, research note no 28, Commonwealth
+Parliamentary Library.
+National Institute of Economic and Industry Research, 2009, A Comparison of the
+Accessibility of Essential Services in Urban and Regional Australia, report for the Australian
+Farm Institute.
+Public Inquiry into Income Tax Zone Allowances (P E Cox, chairman), 1981, Report,
+Commonwealth Parliamentary Paper no 149.
+
+
