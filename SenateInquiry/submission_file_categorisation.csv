@@ -8,7 +8,7 @@ Filename,Submission,Source,Size,Category,Filetype
 7.txt,7,The Smith Family,(PDF 283 KB) ,NGO,Submission
 8.txt,8,Muswellbrook Shire Council,(PDF 296 KB) ,LocalGov,Submission
 9.txt,9,Shire of Carnamah,(PDF 73 KB) ,LocalGov,Submission
-10.txt,10,The University of Queensland,(PDF 1180 KB) ,Hed,Submission
+10.txt,10,The University of Queensland,(PDF 1180 KB) ,HEd,Submission
 11.txt,11,The University of Western Australia,(PDF 115 KB) ,HEd,Submission
 12.txt,12,University of Wollongong,(PDF 480 KB) ,HEd,Submission
 13.txt,13,Grattan Institute,(PDF 639 KB) ,NGO,Submission
@@ -135,7 +135,7 @@ Supp Sub 45.1 Latrobe City Council Submission - Inquiry into Regional Inequality
 120.txt,120,"Department of Industry, Innovation and Science",(PDF 18653 KB) ,FedGov,Submission
 121.txt,121,Regional Development Australia - Mid West Gascoyne,(PDF 1013 KB) ,NGO,Submission
 122.txt,122,Charles Sturt University,(PDF 574 KB) ,HEd,Submission
-123.txt,123,"Department of Infrastructure, Regional Development and Cities,(PDF 971 KB) ",,FedGov,Submission
+123.txt,123,"Department of Infrastructure, Regional Development and Cities",(PDF 971 KB) ,FedGov,Submission
 124.txt,124,Scenic Rim Regional Council,(PDF 113 KB) ,LocalGov,Submission
 125.txt,125,Blackall-Tambo Regional Council,(PDF 1934 KB),LocalGov,Submission
 125_attach1.txt,125,Blackall-Tambo Regional Council,(PDF 1934 KB)  Attachment 1,LocalGov,Attachment
